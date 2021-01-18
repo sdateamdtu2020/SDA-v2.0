@@ -68,8 +68,8 @@ Tính đến ngày 31-12-2020, SDA cung cấp và trực quan hoá các khối d
 Hiện tại SDA được chia thành 3 modules chính để các team có thể phân chia phát triển song song với nhau:
 
 - Data Sources > ETL : Tìm nguồn dữ lieu, làm sạch dữ lieu, sau đó đưa vào cơ sở dữ lieu(Warehouses)
-- OLAP: Phân tích, lọc, chuyển dữ lieu thành các khối dữ lieu có nhiều nhiều.
-- Viz / AI: trực quan hóa dữ liệu dưới dạng các biểu đồ cột, biểu đồ đường và dạng bản đồ, người dùng chỉ cần nối khối dữ liệu được lựa chọn với các cửa sổ thực hiện thao tác trực quan hóa dữ liệu dưới dạng biểu đồ hoặc bản đồ được liệt kê ở thanh công cụ bên trái của giao diện chính
+- OLAP: Phân tích, lọc, chuyển dữ lieu thành các khối dữ lieu có nhiều ciều.
+- Dashboard: trực quan hóa dữ liệu dưới dạng các biểu đồ cột, biểu đồ đường và dạng bản đồ, người dùng chỉ cần nối khối dữ liệu được lựa chọn với các cửa sổ thực hiện thao tác trực quan hóa dữ liệu dưới dạng biểu đồ hoặc bản đồ được liệt kê ở thanh công cụ bên trái của giao diện chính
 
 ## Cấu trúc thư mục version 2.0
 
