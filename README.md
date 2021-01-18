@@ -10,6 +10,8 @@
 
 ### Context Diagram:
 
+<img src="./Context-diagram-new.png" alt="context-diagram" />
+
 
 ### Commit
 #### <a name="commit-header"></a>Commit Message Format
