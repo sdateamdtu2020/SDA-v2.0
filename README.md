@@ -21,13 +21,6 @@ To 31-Dec-2020, SDA are provide & visualize data cubes on the following elements
 ### Context Diagram:
 
 <img src="./Context-diagram-new.png" alt="context-diagram" />
-
-Now, SDA divided into 3 main modules:
-
-- Data Source > ETL
-- OLAP
-- Viz & AI
-
 ## Folder Structure of version 2.0
 
 ```
@@ -61,15 +54,23 @@ Tính đến ngày 31-12-2020, SDA cung cấp và trực quan hoá các khối d
 - Chỉ số sản xuất công nghiệp
 - Tài nguyên rừng: Độ che phủ rừng, Diện tích trồng rừng.
 
+### Nhận xét của Mentor về dự án ở version hiện tại (1.0)
+
+Đóng góp chính của đề tài:
+
+- Thiết kế và xây dựng hệ thống tích hợp dữ liệu (web).
+- Thiết kế và tạo lập thành công RDF data cubes, đây là cơ sở nền tảng cho việc kết nối các khối dữ liệu một các có ngữ nghĩa.
+- Xây dựng được công cụ - phần mềm (ở mức thử nghiệm) Smart Dashboard Application, hỗ trợ việc phân tích dữ liệu một cách trực quan.
+
+Đề xuất:
+
+1. Hoàn chỉnh công cụ tích hợp dữ liệu Web để có thể tự tìm kiếm nguồn và tích hợp theo chủ đề.
+2. Xây dựng công cụ quản lý RDF data cubes.
+3. Phần mềm Smart Dashboard phải hỗ trợ tạo lập chủ đề một cách linh động. Do đó phải tách bạch 2 bước: định nghĩa mô hình, siêu dữ liệu theo chủ đề , và bước sản sinh dữ liệu.
+
 ## Cấu trúc dự án hiện tại
 
 <img src="./Context-diagram-new.png" alt="context-diagram" />
-
-Hiện tại SDA được chia thành 3 modules chính để các team có thể phân chia phát triển song song với nhau:
-
-- Data Sources > ETL : Tìm nguồn dữ lieu, làm sạch dữ lieu, sau đó đưa vào cơ sở dữ lieu(Warehouses)
-- OLAP: Phân tích, lọc, chuyển dữ lieu thành các khối dữ lieu có nhiều ciều.
-- Dashboard: trực quan hóa dữ liệu dưới dạng các biểu đồ cột, biểu đồ đường và dạng bản đồ, người dùng chỉ cần nối khối dữ liệu được lựa chọn với các cửa sổ thực hiện thao tác trực quan hóa dữ liệu dưới dạng biểu đồ hoặc bản đồ được liệt kê ở thanh công cụ bên trái của giao diện chính
 
 ## Cấu trúc thư mục version 2.0
 
