@@ -1,12 +1,14 @@
-# Scientific Research : Smart Dashboard Application
+# Scientific Research : Smart Dashboard Application v2.0
+
 ## Date: Jan 2021 - Present
+
 ### Functions
 - Apply multi-dimensional data cubes to synthesize, analyze, filter, and visualize data in the environment (climate, population, industry,...) of Vietnam
 
 ### Technologies Stack:
-- Data Warehouses
-- RDF Data Cubes
-- Data Visualization with React
+- Data Warehouses: Python, PostgreSQL...
+- RDF Data Cubes: GraphDB,...
+- Data Visualization: React, Redux, TypeScript,...
 
 ### Context Diagram:
 
