@@ -6,7 +6,7 @@ https://docs.google.com/presentation/d/1qCLsThjA9b-dyDhHOAmxOzLNgWrm-n_KcdzisiyJ
 
 ## Proposal:
 
-https://docs.google.com/document/d/1tQOYTQQ053oVq-IgPckF-CdjePMqiaZQ1QnrVysQJ8U/edit?usp=sharing
+https://docs.google.com/document/d/1FIOe84z0RXibn_Wskl7updu3LWqjcvo7-6bONdTut90/edit?usp=sharing
 
 ## Project Plan:
 
