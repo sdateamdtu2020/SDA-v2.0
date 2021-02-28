@@ -4,7 +4,7 @@
 
 | From          | To            |
 | ------------- | ------------- |
-| 15 - Jan - 21 | 22 - Feb - 21 |
+| 15 - Jan - 21 | 28 - Feb - 21 |
 
 ### Mentor meeting:
 
@@ -20,4 +20,4 @@
 | 1           | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-0/team-meeting/integration-1.md) | 24 - 31/Jan/21     |
 | 2           | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-0/team-meeting/integration-2.md) | 31/Jan - 2/Feb/21  |
 | 3           | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-0/team-meeting/integration-3.md) | 6/Feb - 21/Feb/21  |
-| 4           | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-0/team-meeting/integration-4.md) | 22/Feb - 08/Mar/21 |
+| 4           | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-0/team-meeting/integration-4.md) | 22/Feb - 28/Feb/21 |
