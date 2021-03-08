@@ -1,90 +1,88 @@
-# Scientific Research : Smart Dashboard Application
+# Scientific Research : Expert-driven Smart Dashboard Application
 
-## Date: Aug 2020 - Present
-
-# English:
+## Date: Mar 2021 - Jun 2021
 
 ### Introduction
 
 - Scientific Research about Linked Data & RDF Data Cube & Data Warehouse
-- Apply multi-dimensional data cubes to synthesize, analyze, filter, and visualize data in the environment (climate, population, industry,...) of Vietnam
-
-### Progress & Result of Project
-
-To 31-Dec-2020, SDA are provide & visualize data cubes on the following elements of each province in Vietnam by year (2012-2019):
-
-- Climate: Temperature, Humidity, Rainfall
-- Population
-- Industry
-- Forest: Forest Cover Area, Afforestation
+- Automate data processing which help the experts of every fields can insert their data sources and visualize, integrate them with related multidimensional data cubes by completely automate method.
 
 ### Context Diagram:
 
-<img src="./Context-diagram-new.png" alt="context-diagram" />
-## Folder Structure of version 2.0
+<img src="./assets/context-diagram.png" alt="context-diagram" width="600" />
+
+#### Process Details
+
+1. **Data Sources:**
+
+- Collect from environment open data platforms of the governments and NGO organizations.
+- User imported data sources.
+- Use web crawling techniques to crawl data from related environment websites.
+- Data Format : CSV, JSON, XML.
+
+2. **Automate ETL (Extract, Transform, Load ):**
+
+- **Extract:** In this step, data is extracted from the source system into the staging area. Transformations if any are done in the staging area so that performance of source system is not degraded. Also, if corrupted data is copied directly from the source into the data warehouse database, rollback will be a challenge. Staging area gives an opportunity to validate extracted data before it moves into the Data warehouse.
+- **Transform:** Data extracted from the source server is the raw data and not usable in its original form. Therefore it needs to be cleansed, mapped, and transformed. In fact, this is the key step where the ETL process adds value and changes data such that insightful reports can be generated. In the transformation step, we filter, clean, split and integrate the data to match with the system requirements and data warehouse architecture.
+- **Load:** Loading data into the target data warehouse database is the last step of the ETL process.
+
+3. **OLAP:** We store the data of the data warehouse as OLAP cubes. And then, for better query performance, data binding, and scalability, in addition to information transparency, we will automate converting OLAP cubes into RDF Data Cubes.
+4. **Dashboard:** the user can drag any data cubes that appear as items on the sidebar and drop them onto the main content board, then connect between them and use the operator such as statistics merge, geo merge to build a new data cube that matches the user requirement.
+5. **Viz & AI:** This step will perform the data cube which was created by the user with the form they want. It can be a map, a column chart, a line chart, or a pie chart.
+
+### Progress Project
+
+<img src="./assets/edsda-project-timeline.png" alt="project-timeline" width="600"/>
+
+#### Tasks
+
+| NUMBER | TASK TITLE                                               |
+| ------ | -------------------------------------------------------- |
+| 1      | Preparation                                              |
+| 2      | Data Modeling                                            |
+| 3      | Physical Warehouse Design                                |
+| 4      | Initiate Dynamical Data Warehouse                        |
+| 5      | Finding Data Sources                                     |
+| 6      | Data processing                                          |
+| 7      | ETL Process Validating                                   |
+| 8      | Automate ETL Setting                                     |
+| 9      | Expanding database                                       |
+| 10     | Crawl data                                               |
+| 11     | Building Data Cubes Importing method                     |
+| 12     | Building additional features                             |
+| 13     | Common RDF Data Cubes Structure Designing                |
+| 14     | Setting up Automate DW to RDF Process Tool & Environment |
+| 15     | Implementing Automate DW2RDF Process                     |
+| 16     | Setting up RDF Data Cubes Storing & SPARQL Endpoint      |
+| 17     | Validating RDF Data Cubes                                |
+| 18     | Building SPARLQL_Rest API                                |
+| 19     | Building UI                                              |
+| 20     | Testing                                                  |
+| 21     | Integrate                                                |
+| 22     | Deploy                                                   |
+| 23     | Release                                                  |
+
+### Folder Structure: updating
 
 ```
 /modules:
   /client:
   /server:
-  /crawlers:
-  /data_wranglers:
+  /data_crawling:
 
 ```
 
 - `modules`:
 - `client`:
 - `server`:
-- `crawlers`:
-- `data_wranglers`:
+- `data_crawling`:
 
-# Vietnamese:
+## Contributing:
 
-## Giới thiệu về SDA
+Contributions are very welcome and wanted.<br>
+To submit your custom pull request, please make sure you read our CONTRIBUTING guidelines.
 
-- Nghiên cứu công nghệ dữ liệu Linked Data và RDF Data Cube và nền tảng Data Warehouse (kho dữ liệu).
-- Ứng dụng công nghệ Khối dữ liệu nhiều chiều vào việc tổng hợp, phân tích, lọc và trực quan hóa dữ liệu về môi trường (khí hậu, dân số, nền công nghiệp,...) của Việt Nam.
+**Before submitting a new pull request, please make sure:**
 
-## Tiến độ và kết quả dự án
-
-Tính đến ngày 31-12-2020, SDA cung cấp và trực quan hoá các khối dữ liệu về các yếu tố sau của từng tỉnh thành tại Việt Nam theo năm (2012-2019):
-
-- Khí hậu: Nhiệt độ, độ ẩm, lượng mưa.
-- Dân số
-- Chỉ số sản xuất công nghiệp
-- Tài nguyên rừng: Độ che phủ rừng, Diện tích trồng rừng.
-
-### Nhận xét của Mentor về dự án ở version hiện tại (1.0)
-
-Đóng góp chính của đề tài:
-
-- Thiết kế và xây dựng hệ thống tích hợp dữ liệu (web).
-- Thiết kế và tạo lập thành công RDF data cubes, đây là cơ sở nền tảng cho việc kết nối các khối dữ liệu một các có ngữ nghĩa.
-- Xây dựng được công cụ - phần mềm (ở mức thử nghiệm) Smart Dashboard Application, hỗ trợ việc phân tích dữ liệu một cách trực quan.
-
-Đề xuất:
-
-1. Hoàn chỉnh công cụ tích hợp dữ liệu Web để có thể tự tìm kiếm nguồn và tích hợp theo chủ đề.
-2. Xây dựng công cụ quản lý RDF data cubes.
-3. Phần mềm Smart Dashboard phải hỗ trợ tạo lập chủ đề một cách linh động. Do đó phải tách bạch 2 bước: định nghĩa mô hình, siêu dữ liệu theo chủ đề , và bước sản sinh dữ liệu.
-
-## Cấu trúc dự án hiện tại
-
-<img src="./Context-diagram-new.png" alt="context-diagram" />
-
-## Cấu trúc thư mục version 2.0
-
-```
-/modules:
-  /client:
-  /server:
-  /crawlers:
-  /data_wranglers:
-
-```
-
-- `modules`: chứa toàn bộ mã nguồn cuả dự án, được chia theo từng modules
-- `client`: mã nguồn cho website SDA
-- `server`: mã nguồn cho webserver, xử lí API giữa client và database
-- `crawlers`: mã nguồn quét dữ liệu
-- `data_wranglers`: mã nguồn xử lí và làm sạch dữ liệu
+- You have updated the package.json version and reported your changes into the CHANGELOG file
+- make sure you've added the documentation of your changes.
