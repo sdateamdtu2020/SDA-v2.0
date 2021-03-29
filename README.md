@@ -80,16 +80,14 @@
 
 ```
 /modules:
-  /client:
-  /server:
-  /data_crawling:
+  /edsda-webapp:
+  /edsda-backend:
 
 ```
 
 - `modules`:
-- `client`:
-- `server`:
-- `data_crawling`:
+- `edsda-webapp`:
+- `edsda-backend`:
 
 ## Members:
 
