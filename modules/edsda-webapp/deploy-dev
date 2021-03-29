@@ -8,4 +8,4 @@ cd build
 cp index.html 200.html
 
 # Start deploying via Surge
-surge . sda-research.surge.sh
+surge . dev-sda-research.surge.sh
