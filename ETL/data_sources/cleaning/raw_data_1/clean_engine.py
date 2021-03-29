@@ -97,8 +97,6 @@ def load_into_new_csv_file(args: list):
 
     
 
-
-
 def main():
     
 

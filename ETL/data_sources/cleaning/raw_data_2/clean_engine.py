@@ -4,6 +4,18 @@ import math
 import unidecode
 import os , shutil
 import time
+import bonobo
+import requests
+import sys
+
+
+DATA_STORE = []
+try:
+    DATA_SOURCE = str(sys.argv[1])
+except:
+    DATA_SOURCE = "source_humidity.csv"
+
+
 
 def csv_data(file_path):
     row_count = 0
@@ -39,48 +51,94 @@ def csv_data(file_path):
         #         data_transfer.append(str(round(float(numb)))[:2])
         #     file_data_transfer.append(data_transfer)
         #     data_transfer = []
-        # print(file_data_transfer)   
-
+        # print(file_data_transfer)  
+        
         return city_data, year_data[1:], file_data
+
+
 
 
 def transfer_to_structured_data(fileName, *args):
     storeData = []
+
+    #This contains three arrays
     for arg in args:
         storeData.append(arg)
+
+    
+    sumOfForestAcreage = []
+    ratioForestCover = []
+    tempList1 = []
+    tempList2 = []
+    #Try to loop through three arrays
+    #This first loop is looping through the city_data
+    for i in range(len(storeData[0])):
+        yearIndex = storeData[1]
+        dataIndex = (storeData[2])[i]
+        #This second loop is looping through the year_data
+        for j in range(len(storeData[1])):
+            if yearIndex[j] != '':
+                tempList1.append(dataIndex[j])
+            else:
+                tempList2.append(dataIndex[j])
+
+        sumOfForestAcreage.append(tempList1)
+        ratioForestCover.append(tempList2)
+        tempList1 = []
+        tempList2 = []
+
+        
     with open('{}'.format(fileName), 'w', newline='') as csv_file:
         fileName = fileName[:-4]
         writer = csv.writer(csv_file)
-        writer.writerow(["city", "year", fileName[7:]])
+        writer.writerow(["city", "year", 'sumOfForestAcreage', 'ratioForestCover'])
         city = storeData[0]
         year = storeData[1]
-        data = storeData[2]
+        #Remove '' character in array
+        year = list(filter(None, year))
+        dataColumn1 = sumOfForestAcreage
+        dataColumn2 = ratioForestCover
+        #This loop try to load data into CSV
         for i in range(len(city)):
-            dataIndex = data[i]
-            for j in range(len(dataIndex)):
-                writer.writerow([city[i], year[j], dataIndex[j]])
+            for j in range(len(year)):
+                writer.writerow([city[i], year[j], (dataColumn1[i])[j], (dataColumn2[i])[j]])
+
     os.system('python3 move_files.py')
 
 
-def get_files_data():
-    path = "./data/"
-    files = os.listdir(path)
-    files.sort()
 
-    return files
 
-def get_structured_data(fileName):
-    city_data, year_data, file_data = csv_data("{}".format(fileName))
-    transfer_to_structured_data("{}".format(fileName),city_data, year_data, file_data)
+
+def extract_data_from_csv():
+    city_data, year_data, file_data = csv_data("{}".format(DATA_SOURCE))
+    yield city_data
+    yield year_data
+    yield file_data
+
+
+def transform_data(args: list):
+    DATA_STORE.append(args)
+    yield DATA_STORE
+    
+
+
+def load_into_new_csv_file(args: list):
+    city_data, year_data, file_data = DATA_STORE
+    transfer_to_structured_data("{}".format(DATA_SOURCE), city_data, year_data, file_data)
+
+
+
+def main():
+
+    graph = bonobo.Graph(
+        extract_data_from_csv,
+        transform_data,
+        load_into_new_csv_file
+    )
+    bonobo.run(graph)
 
 if __name__ == "__main__":
-    
-    data_sources = get_files_data()
-
-    for i in range(len(data_sources)):
-        get_structured_data(data_sources[i])
-
-
+    main()
     
     
 
