@@ -21,12 +21,14 @@
 /modules:
   /edsda-webapp:
   /edsda-backend:
+  /edsda-ui-design:
 
 ```
 
 - `modules`: include all the project's source code, divided into each module
 - `edsda-webapp`: source code of Client website
 - `edsda-backend`: source code of server, ETL process, data crawler,...
+- `edsda-ui-design`: UI Design, Prototype of project
 
 ## Members:
 
