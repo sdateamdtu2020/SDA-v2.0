@@ -3,9 +3,6 @@ import os
 import time
 
 
-
-
-
 def get_files_data():
     path = "./data/"
     files = os.listdir(path)
@@ -28,7 +25,6 @@ def run_command():
         
 
 run_command()
-
 os.system('clear')
 print("Cleannn done")
 
