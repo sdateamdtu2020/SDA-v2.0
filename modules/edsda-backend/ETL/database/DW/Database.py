@@ -57,7 +57,6 @@ class Table:
         self.sequence = "CREATE SEQUENCE {}; SELECT setval('{}', 1000);".format(variable, variable)
         return self.sequence
 
-
     def createAlter(self, *actions):
         for action in actions:
             self.alter += "ALTER TABLE "+self.tableName+" ADD "+action+"; "
@@ -68,6 +67,34 @@ class Table:
         for element in gatherElements:
             self.gatherElements += element + " "
         return self.gatherElements
+
+    
+    def is_measure():
+        measures = [""]
+        pass
+
+    def is_dim():
+        dimensions = ['city', 'area', 'district', 'time']
+        pass
+
+
+    #[1 ,2 ,3 ,4]
+    def insert(self, listColumns, data):
+        table = "INSERT INTO {}".format(self.tableName)
+        columns = ""
+        values = ""
+        conditions = ""
+
+        
+
+        "INSERT INTO TABLE ([1,2,3,4]) VALUES [1,2,3,4] WHERE IF NOT EXISTS(SELECT [1,2,3,4] FROM WHERE)"
+        for columns in range(len(listColumns)):
+
+            columns += columns
+
+
+        insert_query = table + columns +values + conditions
+        return insert_query
 
 
 
