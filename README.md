@@ -36,7 +36,7 @@
 | -------------------------------------------------------- | ------------------- | ------------------------------------------------- | -------------------------- |
 | <img src="./assets/avatar-members/hoa.png" width="50"/>  | Vo Van Hoa          | **Team Leader**, DevOps, Back-end, RDF Data Cubes | hoavo1490@gmail.com        |
 | <img src="./assets/avatar-members/tin.png" width="50"/>  | Pham Van Tin        | **Secretary**, Front-end, UI/UX Design , DevOps   | tinphamvan123@gmail.com    |
-| <img src="./assets/avatar-members/dong.png" width="50"/> | Ky Huu Dong         | Database, Crawl                                   | kyhuudong@gmail.com        |
+| <img src="./assets/avatar-members/dong.png" width="50"/> | Ky Huu Dong         | **BE** Database, Crawl , ETL                      | kyhuudong@gmail.com        |
 | <img src="./assets/avatar-members/kieu.png" width="50"/> | Tran Thi Thanh Kieu | Tester                                            | thanhkieutran391@gmail.com |
 
 ## Contributing:

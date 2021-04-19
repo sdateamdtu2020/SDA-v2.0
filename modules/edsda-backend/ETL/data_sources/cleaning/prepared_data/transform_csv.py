@@ -3,11 +3,8 @@ import os
 import time
 
 
-
-
-
 def get_files_data():
-    path = "./data/"
+    path = "../structured_data/"
     files = os.listdir(path)
     files.sort()
 
@@ -15,7 +12,7 @@ def get_files_data():
 
 
 def run_clean_engine(data_source):
-    return os.system('python3 clean_engine.py {}'.format(data_source))
+    return os.system('python3 transform_data.py {}'.format(data_source))
 
 
 def run_command():
@@ -25,12 +22,12 @@ def run_command():
         print("Transforming... ",data_sources[i])
         time.sleep(1.5)
         run_clean_engine(data_sources[i])
-        time.sleep(1.0)
+        time.sleep(1.5)
 
 run_command()
 
 os.system('clear')
-print("Cleannn done")
+print("Transform done")
 
 
 
