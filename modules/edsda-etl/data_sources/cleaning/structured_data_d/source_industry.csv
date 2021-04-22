@@ -1,0 +1,505 @@
+city,year,industry,area,district,month,quarter
+Hà Nội,2012,105.0,Đồng Bằng Sông Hồng,Bắc Từ Liêm,4,2
+Hà Nội,2013,104.5,Đồng Bằng Sông Hồng,Thanh Xuân,11,4
+Hà Nội,2014,104.2,Đồng Bằng Sông Hồng,Cầu Giấy,5,2
+Hà Nội,2015,108.3,Đồng Bằng Sông Hồng,Hoàn Kiếm,9,3
+Hà Nội,2016,107.3,Đồng Bằng Sông Hồng,Hoàn Kiếm,1,1
+Hà Nội,2017,107.0,Đồng Bằng Sông Hồng,Thanh Xuân,8,3
+Hà Nội,2018,106.9,Đồng Bằng Sông Hồng,Bắc Từ Liêm,9,3
+Hà Nội,2019,108.5,Đồng Bằng Sông Hồng,Hà Đông,5,2
+Vĩnh Phúc,2012,97.0,Đồng Bằng Sông Hồng,Cẩm Lệ,4,2
+Vĩnh Phúc,2013,114.0,Đồng Bằng Sông Hồng,Quận 1,1,1
+Vĩnh Phúc,2014,97.1,Đồng Bằng Sông Hồng,Hai Bà Trưng,3,1
+Vĩnh Phúc,2015,101.6,Đồng Bằng Sông Hồng,Dương Kinh,1,1
+Vĩnh Phúc,2016,105.8,Đồng Bằng Sông Hồng,Bình Thủy,12,4
+Vĩnh Phúc,2017,107.5,Đồng Bằng Sông Hồng,Quận 12,10,4
+Vĩnh Phúc,2018,114.5,Đồng Bằng Sông Hồng,Hai Bà Trưng,2,1
+Vĩnh Phúc,2019,111.1,Đồng Bằng Sông Hồng,Quận 6,9,3
+Bắc Ninh,2012,175.0,Đồng Bằng Sông Hồng,Dương Kinh,3,1
+Bắc Ninh,2013,149.2,Đồng Bằng Sông Hồng,Đống Đa,4,2
+Bắc Ninh,2014,87.5,Đồng Bằng Sông Hồng,Gò Vấp,2,1
+Bắc Ninh,2015,112.0,Đồng Bằng Sông Hồng,Kiến An,12,4
+Bắc Ninh,2016,105.1,Đồng Bằng Sông Hồng,Bắc Từ Liêm,12,4
+Bắc Ninh,2017,135.5,Đồng Bằng Sông Hồng,Phú Nhuận,11,4
+Bắc Ninh,2018,107.4,Đồng Bằng Sông Hồng,Bình Thủy,1,1
+Bắc Ninh,2019,88.6,Đồng Bằng Sông Hồng,Nam Từ Liêm,5,2
+Quảng Ninh,2012,92.0,Đồng Bằng Sông Hồng,Cẩm Lệ,9,3
+Quảng Ninh,2013,102.3,Đồng Bằng Sông Hồng,Ngô Quyền,7,3
+Quảng Ninh,2014,104.7,Đồng Bằng Sông Hồng,Thanh Xuân,3,1
+Quảng Ninh,2015,105.2,Đồng Bằng Sông Hồng,Bình Thủy,10,4
+Quảng Ninh,2016,100.1,Đồng Bằng Sông Hồng,Lê Chân,8,3
+Quảng Ninh,2017,103.1,Đồng Bằng Sông Hồng,Quận 10,1,1
+Quảng Ninh,2018,108.7,Đồng Bằng Sông Hồng,Hải Châu,10,4
+Quảng Ninh,2019,113.5,Đồng Bằng Sông Hồng,Sơn Trà,1,1
+Hải Dương,2012,99.0,Đồng Bằng Sông Hồng,Ngũ Hành Sơn,8,3
+Hải Dương,2013,108.1,Đồng Bằng Sông Hồng,Thanh Khê,1,1
+Hải Dương,2014,114.6,Đồng Bằng Sông Hồng,Ô Môn,7,3
+Hải Dương,2015,110.6,Đồng Bằng Sông Hồng,Ninh Kiều,12,4
+Hải Dương,2016,108.8,Đồng Bằng Sông Hồng,Ngô Quyền,10,4
+Hải Dương,2017,109.6,Đồng Bằng Sông Hồng,Hoàng Mai,3,1
+Hải Dương,2018,110.0,Đồng Bằng Sông Hồng,Quận 5,5,2
+Hải Dương,2019,110.2,Đồng Bằng Sông Hồng,Quận 8,12,4
+Hải Phòng,2012,103.9,Đồng Bằng Sông Hồng,Ngô Quyền,12,4
+Hải Phòng,2013,106.5,Đồng Bằng Sông Hồng,Ngô Quyền,6,2
+Hải Phòng,2014,112.9,Đồng Bằng Sông Hồng,Lê Chân,11,4
+Hải Phòng,2015,116.6,Đồng Bằng Sông Hồng,Hải An,7,3
+Hải Phòng,2016,116.9,Đồng Bằng Sông Hồng,Kiến An,6,2
+Hải Phòng,2017,120.0,Đồng Bằng Sông Hồng,Ngô Quyền,8,3
+Hải Phòng,2018,125.3,Đồng Bằng Sông Hồng,Ngô Quyền,1,1
+Hải Phòng,2019,124.3,Đồng Bằng Sông Hồng,Lê Chân,10,4
+Hưng Yên,2012,108.9,Đồng Bằng Sông Hồng,Ngũ Hành Sơn,9,3
+Hưng Yên,2013,107.2,Đồng Bằng Sông Hồng,Cái Răng,1,1
+Hưng Yên,2014,107.5,Đồng Bằng Sông Hồng,Quận 7,10,4
+Hưng Yên,2015,108.7,Đồng Bằng Sông Hồng,Long Biên,4,2
+Hưng Yên,2016,108.5,Đồng Bằng Sông Hồng,Hà Đông,12,4
+Hưng Yên,2017,109.4,Đồng Bằng Sông Hồng,Hà Đông,6,2
+Hưng Yên,2018,110.7,Đồng Bằng Sông Hồng,Quận 10,12,4
+Hưng Yên,2019,111.6,Đồng Bằng Sông Hồng,Hoàn Kiếm,10,4
+Thái Bình,2012,106.5,Đồng Bằng Sông Hồng,Cầu Giấy,10,4
+Thái Bình,2013,114.1,Đồng Bằng Sông Hồng,Thanh Khê,7,3
+Thái Bình,2014,101.8,Đồng Bằng Sông Hồng,Sơn Trà,1,1
+Thái Bình,2015,108.3,Đồng Bằng Sông Hồng,Quận 12,7,3
+Thái Bình,2016,112.3,Đồng Bằng Sông Hồng,Hoàn Kiếm,1,1
+Thái Bình,2017,116.5,Đồng Bằng Sông Hồng,Thanh Khê,10,4
+Thái Bình,2018,115.1,Đồng Bằng Sông Hồng,Quận 5,2,1
+Thái Bình,2019,115.9,Đồng Bằng Sông Hồng,Gò Vấp,4,2
+Hà Nam,2012,130.7,Đồng Bằng Sông Hồng,Dương Kinh,11,4
+Hà Nam,2013,110.9,Đồng Bằng Sông Hồng,Hải Châu,11,4
+Hà Nam,2014,111.9,Đồng Bằng Sông Hồng,Bình Tân,9,3
+Hà Nam,2015,124.8,Đồng Bằng Sông Hồng,Hồng Bàng,12,4
+Hà Nam,2016,111.1,Đồng Bằng Sông Hồng,Quận 10,3,1
+Hà Nam,2017,112.8,Đồng Bằng Sông Hồng,Quận 6,2,1
+Hà Nam,2018,113.0,Đồng Bằng Sông Hồng,Dương Kinh,8,3
+Hà Nam,2019,112.8,Đồng Bằng Sông Hồng,Long Biên,5,2
+Nam Định,2012,116.4,Đồng Bằng Sông Hồng,Đống Đa,8,3
+Nam Định,2013,116.1,Đồng Bằng Sông Hồng,Phú Nhuận,12,4
+Nam Định,2014,110.6,Đồng Bằng Sông Hồng,Hà Đông,2,1
+Nam Định,2015,110.3,Đồng Bằng Sông Hồng,Kiến An,1,1
+Nam Định,2016,108.8,Đồng Bằng Sông Hồng,Ba Đình,5,2
+Nam Định,2017,109.0,Đồng Bằng Sông Hồng,Cái Răng,2,1
+Nam Định,2018,111.0,Đồng Bằng Sông Hồng,Gò Vấp,8,3
+Nam Định,2019,113.8,Đồng Bằng Sông Hồng,Hoàn Kiếm,9,3
+Ninh Bình,2012,111.6,Đồng Bằng Sông Hồng,Ninh Kiều,1,1
+Ninh Bình,2013,111.4,Đồng Bằng Sông Hồng,Cẩm Lệ,6,2
+Ninh Bình,2014,117.4,Đồng Bằng Sông Hồng,Đống Đa,2,1
+Ninh Bình,2015,112.3,Đồng Bằng Sông Hồng,Quận 4,11,4
+Ninh Bình,2016,101.9,Đồng Bằng Sông Hồng,Quận 8,4,2
+Ninh Bình,2017,118.6,Đồng Bằng Sông Hồng,Tân Phú,7,3
+Ninh Bình,2018,131.1,Đồng Bằng Sông Hồng,Hải An,8,3
+Ninh Bình,2019,126.5,Đồng Bằng Sông Hồng,Ninh Kiều,10,4
+Hà Giang,2012,118.6,Đông Bắc,Quận 3,6,2
+Hà Giang,2013,105.4,Đông Bắc,Cái Răng,8,3
+Hà Giang,2014,99.5,Đông Bắc,Hồng Bàng,10,4
+Hà Giang,2015,101.2,Đông Bắc,Phú Nhuận,2,1
+Hà Giang,2016,109.4,Đông Bắc,Quận 11,9,3
+Hà Giang,2017,121.1,Đông Bắc,Gò Vấp,10,4
+Hà Giang,2018,112.8,Đông Bắc,Sơn Trà,2,1
+Hà Giang,2019,107.4,Đông Bắc,Kiến An,7,3
+Cao Bằng,2012,99.1,Đông Bắc,Quận 7,4,2
+Cao Bằng,2013,110.4,Đông Bắc,Sơn Trà,11,4
+Cao Bằng,2014,110.9,Đông Bắc,Phú Nhuận,10,4
+Cao Bằng,2015,43.3,Đông Bắc,Hoàn Kiếm,4,2
+Cao Bằng,2016,122.7,Đông Bắc,Cái Răng,5,2
+Cao Bằng,2017,138.9,Đông Bắc,Liên Chiểu,11,4
+Cao Bằng,2018,126.3,Đông Bắc,Nam Từ Liêm,1,1
+Cao Bằng,2019,108.5,Đông Bắc,Hà Đông,8,3
+Bắc Kạn,2012,74.9,Đông Bắc,Quận 12,1,1
+Bắc Kạn,2013,96.8,Đông Bắc,Ô Môn,3,1
+Bắc Kạn,2014,91.5,Đông Bắc,Cái Răng,2,1
+Bắc Kạn,2015,100.8,Đông Bắc,Gò Vấp,4,2
+Bắc Kạn,2016,100.1,Đông Bắc,Quận 12,2,1
+Bắc Kạn,2017,100.8,Đông Bắc,Ô Môn,10,4
+Bắc Kạn,2018,113.8,Đông Bắc,Thốt Nốt,1,1
+Bắc Kạn,2019,118.0,Đông Bắc,Quận 4,7,3
+Tuyên Quang,2012,120.8,Đông Bắc,Quận 1,5,2
+Tuyên Quang,2013,105.5,Đông Bắc,Hai Bà Trưng,10,4
+Tuyên Quang,2014,105.2,Đông Bắc,Quận 8,12,4
+Tuyên Quang,2015,99.9,Đông Bắc,Kiến An,3,1
+Tuyên Quang,2016,83.8,Đông Bắc,Hồng Bàng,2,1
+Tuyên Quang,2017,109.4,Đông Bắc,Tân Phú,9,3
+Tuyên Quang,2018,108.2,Đông Bắc,Hải Châu,1,1
+Tuyên Quang,2019,107.0,Đông Bắc,Ngũ Hành Sơn,9,3
+Lào Cai,2012,104.0,Tây Bắc,Liên Chiểu,7,3
+Lào Cai,2013,124.0,Tây Bắc,Liên Chiểu,7,3
+Lào Cai,2014,105.2,Tây Bắc,Liên Chiểu,11,4
+Lào Cai,2015,112.1,Tây Bắc,Bình Thạnh,10,4
+Lào Cai,2016,123.3,Tây Bắc,Hà Đông,4,2
+Lào Cai,2017,117.1,Tây Bắc,Quận 12,12,4
+Lào Cai,2018,114.4,Tây Bắc,Ninh Kiều,2,1
+Lào Cai,2019,118.8,Tây Bắc,Sơn Trà,9,3
+Yên Bái,2012,114.5,Tây Bắc,Kiến An,11,4
+Yên Bái,2013,112.3,Tây Bắc,Quận 12,11,4
+Yên Bái,2014,104.8,Tây Bắc,Bình Thủy,4,2
+Yên Bái,2015,103.7,Tây Bắc,Thanh Xuân,11,4
+Yên Bái,2016,105.3,Tây Bắc,Quận 4,2,1
+Yên Bái,2017,106.9,Tây Bắc,Sơn Trà,5,2
+Yên Bái,2018,104.3,Tây Bắc,Đống Đa,6,2
+Yên Bái,2019,110.9,Tây Bắc,Dương Kinh,12,4
+Thái Nguyên,2012,106.7,Đông Bắc,Lê Chân,8,3
+Thái Nguyên,2013,102.1,Đông Bắc,Cẩm Lệ,4,2
+Thái Nguyên,2014,322.8,Đông Bắc,Lê Chân,1,1
+Thái Nguyên,2015,176.0,Đông Bắc,Quận 3,9,3
+Thái Nguyên,2016,123.7,Đông Bắc,Thanh Xuân,10,4
+Thái Nguyên,2017,118.3,Đông Bắc,Gò Vấp,11,4
+Thái Nguyên,2018,112.1,Đông Bắc,Quận 11,3,1
+Thái Nguyên,2019,111.1,Đông Bắc,Kiến An,7,3
+Lạng Sơn,2012,96.1,Đông Bắc,Đống Đa,7,3
+Lạng Sơn,2013,103.0,Đông Bắc,Cẩm Lệ,5,2
+Lạng Sơn,2014,105.2,Đông Bắc,Ngô Quyền,9,3
+Lạng Sơn,2015,111.6,Đông Bắc,Quận 5,9,3
+Lạng Sơn,2016,107.7,Đông Bắc,Thanh Khê,11,4
+Lạng Sơn,2017,105.1,Đông Bắc,Tân Phú,2,1
+Lạng Sơn,2018,106.5,Đông Bắc,Lê Chân,7,3
+Lạng Sơn,2019,109.5,Đông Bắc,Thốt Nốt,11,4
+Bắc Giang,2012,122.9,Đông Bắc,Quận 6,1,1
+Bắc Giang,2013,118.7,Đông Bắc,Kiến An,2,1
+Bắc Giang,2014,114.7,Đông Bắc,Hồng Bàng,9,3
+Bắc Giang,2015,116.8,Đông Bắc,Quận 10,8,3
+Bắc Giang,2016,120.3,Đông Bắc,Ngô Quyền,9,3
+Bắc Giang,2017,129.3,Đông Bắc,Phú Nhuận,12,4
+Bắc Giang,2018,129.7,Đông Bắc,Gò Vấp,8,3
+Bắc Giang,2019,130.1,Đông Bắc,Đồ Sơn,2,1
+Phú Thọ,2012,97.5,Tây Bắc,Long Biên,8,3
+Phú Thọ,2013,106.0,Tây Bắc,Thanh Khê,12,4
+Phú Thọ,2014,106.2,Tây Bắc,Tân Bình,1,1
+Phú Thọ,2015,116.6,Tây Bắc,Tân Bình,3,1
+Phú Thọ,2016,109.5,Tây Bắc,Đồ Sơn,4,2
+Phú Thọ,2017,108.1,Tây Bắc,Cái Răng,2,1
+Phú Thọ,2018,108.3,Tây Bắc,Hoàn Kiếm,11,4
+Phú Thọ,2019,112.0,Tây Bắc,Ninh Kiều,10,4
+Điện Biên,2012,105.4,Tây Bắc,Hoàn Kiếm,4,2
+Điện Biên,2013,107.0,Tây Bắc,Quận 5,5,2
+Điện Biên,2014,102.6,Tây Bắc,Quận 7,3,1
+Điện Biên,2015,108.1,Tây Bắc,Bắc Từ Liêm,5,2
+Điện Biên,2016,109.0,Tây Bắc,Cái Răng,3,1
+Điện Biên,2017,114.5,Tây Bắc,Long Biên,3,1
+Điện Biên,2018,110.6,Tây Bắc,Quận 5,9,3
+Điện Biên,2019,98.4,Tây Bắc,Phú Nhuận,5,2
+Lai Châu,2012,101.2,Tây Bắc,Hải Châu,4,2
+Lai Châu,2013,95.4,Tây Bắc,Long Biên,4,2
+Lai Châu,2014,115.7,Tây Bắc,Kiến An,6,2
+Lai Châu,2015,100.2,Tây Bắc,Quận 10,11,4
+Lai Châu,2016,278.2,Tây Bắc,Bình Tân,1,1
+Lai Châu,2017,129.8,Tây Bắc,Cái Răng,11,4
+Lai Châu,2018,107.1,Tây Bắc,Hà Đông,8,3
+Lai Châu,2019,89.8,Tây Bắc,Quận 8,3,1
+Sơn La,2012,117.0,Tây Bắc,Sơn Trà,6,2
+Sơn La,2013,171.0,Tây Bắc,Sơn Trà,7,3
+Sơn La,2014,106.2,Tây Bắc,Đồ Sơn,12,4
+Sơn La,2015,102.7,Tây Bắc,Quận 5,2,1
+Sơn La,2016,102.2,Tây Bắc,Ngũ Hành Sơn,2,1
+Sơn La,2017,121.8,Tây Bắc,Cầu Giấy,6,2
+Sơn La,2018,103.0,Tây Bắc,Long Biên,2,1
+Sơn La,2019,73.1,Tây Bắc,Hồng Bàng,11,4
+Hoà Bình,2012,128.7,Tây Bắc,Sơn Trà,3,1
+Hoà Bình,2013,112.8,Tây Bắc,Bình Thủy,8,3
+Hoà Bình,2014,101.1,Tây Bắc,Liên Chiểu,7,3
+Hoà Bình,2015,103.3,Tây Bắc,Quận 5,11,4
+Hoà Bình,2016,104.8,Tây Bắc,Cái Răng,10,4
+Hoà Bình,2017,113.8,Tây Bắc,Quận 5,3,1
+Hoà Bình,2018,103.6,Tây Bắc,Hồng Bàng,4,2
+Hoà Bình,2019,86.6,Tây Bắc,Quận 10,8,3
+Thanh Hoá,2012,107.9,Bắc Trung Bộ,Kiến An,2,1
+Thanh Hoá,2013,108.2,Bắc Trung Bộ,Tân Bình,5,2
+Thanh Hoá,2014,106.9,Bắc Trung Bộ,Hoàn Kiếm,10,4
+Thanh Hoá,2015,109.8,Bắc Trung Bộ,Bình Tân,10,4
+Thanh Hoá,2016,109.2,Bắc Trung Bộ,Ninh Kiều,2,1
+Thanh Hoá,2017,109.2,Bắc Trung Bộ,Tân Bình,4,2
+Thanh Hoá,2018,134.2,Bắc Trung Bộ,Hải Châu,8,3
+Thanh Hoá,2019,115.8,Bắc Trung Bộ,Liên Chiểu,1,1
+Nghệ An,2012,109.7,Bắc Trung Bộ,Hoàng Mai,1,1
+Nghệ An,2013,106.0,Bắc Trung Bộ,Ô Môn,7,3
+Nghệ An,2014,110.0,Bắc Trung Bộ,Tây Hồ,4,2
+Nghệ An,2015,109.0,Bắc Trung Bộ,Thốt Nốt,1,1
+Nghệ An,2016,109.4,Bắc Trung Bộ,Hồng Bàng,10,4
+Nghệ An,2017,117.1,Bắc Trung Bộ,Quận 12,11,4
+Nghệ An,2018,116.6,Bắc Trung Bộ,Ngô Quyền,10,4
+Nghệ An,2019,113.2,Bắc Trung Bộ,Tây Hồ,12,4
+Hà Tĩnh,2012,107.0,Bắc Trung Bộ,Ngô Quyền,10,4
+Hà Tĩnh,2013,113.1,Bắc Trung Bộ,Long Biên,12,4
+Hà Tĩnh,2014,119.1,Bắc Trung Bộ,Quận 5,6,2
+Hà Tĩnh,2015,120.3,Bắc Trung Bộ,Hồng Bàng,11,4
+Hà Tĩnh,2016,120.9,Bắc Trung Bộ,Quận 4,3,1
+Hà Tĩnh,2017,171.0,Bắc Trung Bộ,Cầu Giấy,9,3
+Hà Tĩnh,2018,188.5,Bắc Trung Bộ,Phú Nhuận,11,4
+Hà Tĩnh,2019,125.5,Bắc Trung Bộ,Hà Đông,6,2
+Quảng Bình,2012,108.5,Bắc Trung Bộ,Nam Từ Liêm,1,1
+Quảng Bình,2013,108.7,Bắc Trung Bộ,Bình Thạnh,5,2
+Quảng Bình,2014,106.6,Bắc Trung Bộ,Đống Đa,9,3
+Quảng Bình,2015,109.3,Bắc Trung Bộ,Hoàn Kiếm,2,1
+Quảng Bình,2016,109.2,Bắc Trung Bộ,Ngũ Hành Sơn,3,1
+Quảng Bình,2017,107.0,Bắc Trung Bộ,Phú Nhuận,6,2
+Quảng Bình,2018,107.2,Bắc Trung Bộ,Quận 12,5,2
+Quảng Bình,2019,107.4,Bắc Trung Bộ,Liên Chiểu,2,1
+Quảng Trị,2012,113.0,Bắc Trung Bộ,Cầu Giấy,1,1
+Quảng Trị,2013,109.2,Bắc Trung Bộ,Bình Tân,3,1
+Quảng Trị,2014,104.8,Bắc Trung Bộ,Thốt Nốt,3,1
+Quảng Trị,2015,113.6,Bắc Trung Bộ,Phú Nhuận,7,3
+Quảng Trị,2016,112.3,Bắc Trung Bộ,Quận 6,7,3
+Quảng Trị,2017,115.0,Bắc Trung Bộ,Kiến An,5,2
+Quảng Trị,2018,109.2,Bắc Trung Bộ,Quận 8,12,4
+Quảng Trị,2019,109.8,Bắc Trung Bộ,Tân Bình,3,1
+Thừa Thiên Huế,2012,112.6,Bắc Trung Bộ,Tân Phú,3,1
+Thừa Thiên Huế,2013,108.1,Bắc Trung Bộ,Thanh Xuân,1,1
+Thừa Thiên Huế,2014,111.2,Bắc Trung Bộ,Lê Chân,1,1
+Thừa Thiên Huế,2015,109.4,Bắc Trung Bộ,Quận 8,3,1
+Thừa Thiên Huế,2016,110.3,Bắc Trung Bộ,Cầu Giấy,2,1
+Thừa Thiên Huế,2017,113.4,Bắc Trung Bộ,Kiến An,11,4
+Thừa Thiên Huế,2018,108.0,Bắc Trung Bộ,Cái Răng,7,3
+Thừa Thiên Huế,2019,108.5,Bắc Trung Bộ,Hà Đông,12,4
+Đà Nẵng,2012,106.0,Nam Trung Bộ,Sơn Trà,5,2
+Đà Nẵng,2013,110.5,Nam Trung Bộ,Hải Châu,5,2
+Đà Nẵng,2014,111.0,Nam Trung Bộ,Sơn Trà,1,1
+Đà Nẵng,2015,113.1,Nam Trung Bộ,Thanh Khê,8,3
+Đà Nẵng,2016,113.2,Nam Trung Bộ,Thanh Khê,12,4
+Đà Nẵng,2017,109.5,Nam Trung Bộ,Ngũ Hành Sơn,6,2
+Đà Nẵng,2018,106.6,Nam Trung Bộ,Hải Châu,9,3
+Đà Nẵng,2019,104.3,Nam Trung Bộ,Thanh Khê,1,1
+Quảng Nam,2012,118.2,Nam Trung Bộ,Dương Kinh,8,3
+Quảng Nam,2013,109.6,Nam Trung Bộ,Quận 7,10,4
+Quảng Nam,2014,105.3,Nam Trung Bộ,Quận 4,10,4
+Quảng Nam,2015,135.0,Nam Trung Bộ,Ba Đình,6,2
+Quảng Nam,2016,128.2,Nam Trung Bộ,Hà Đông,1,1
+Quảng Nam,2017,95.2,Nam Trung Bộ,Tân Bình,7,3
+Quảng Nam,2018,102.5,Nam Trung Bộ,Quận 10,1,1
+Quảng Nam,2019,104.1,Nam Trung Bộ,Bắc Từ Liêm,9,3
+Quảng Ngãi,2012,107.7,Nam Trung Bộ,Hoàng Mai,6,2
+Quảng Ngãi,2013,116.6,Nam Trung Bộ,Ngô Quyền,7,3
+Quảng Ngãi,2014,86.9,Nam Trung Bộ,Ba Đình,11,4
+Quảng Ngãi,2015,108.6,Nam Trung Bộ,Hoàn Kiếm,12,4
+Quảng Ngãi,2016,100.4,Nam Trung Bộ,Tân Phú,6,2
+Quảng Ngãi,2017,100.6,Nam Trung Bộ,Hoàng Mai,1,1
+Quảng Ngãi,2018,108.5,Nam Trung Bộ,Hải Châu,12,4
+Quảng Ngãi,2019,113.3,Nam Trung Bộ,Quận 6,9,3
+Bình Định,2012,106.8,Nam Trung Bộ,Nam Từ Liêm,10,4
+Bình Định,2013,107.0,Nam Trung Bộ,Ô Môn,10,4
+Bình Định,2014,105.7,Nam Trung Bộ,Quận 6,1,1
+Bình Định,2015,108.5,Nam Trung Bộ,Lê Chân,12,4
+Bình Định,2016,107.3,Nam Trung Bộ,Đống Đa,12,4
+Bình Định,2017,108.8,Nam Trung Bộ,Hồng Bàng,5,2
+Bình Định,2018,108.7,Nam Trung Bộ,Quận 6,11,4
+Bình Định,2019,108.4,Nam Trung Bộ,Đống Đa,2,1
+Phú Yên,2012,113.4,Nam Trung Bộ,Kiến An,5,2
+Phú Yên,2013,106.2,Nam Trung Bộ,Hải An,6,2
+Phú Yên,2014,107.3,Nam Trung Bộ,Quận 4,3,1
+Phú Yên,2015,109.3,Nam Trung Bộ,Tây Hồ,4,2
+Phú Yên,2016,106.5,Nam Trung Bộ,Quận 11,7,3
+Phú Yên,2017,107.8,Nam Trung Bộ,Ngũ Hành Sơn,3,1
+Phú Yên,2018,109.0,Nam Trung Bộ,Sơn Trà,6,2
+Phú Yên,2019,111.6,Nam Trung Bộ,Tân Phú,9,3
+Khánh Hoà,2012,106.8,Nam Trung Bộ,Quận 11,1,1
+Khánh Hoà,2013,104.5,Nam Trung Bộ,Tân Bình,10,4
+Khánh Hoà,2014,103.1,Nam Trung Bộ,Kiến An,8,3
+Khánh Hoà,2015,106.8,Nam Trung Bộ,Quận 5,8,3
+Khánh Hoà,2016,106.8,Nam Trung Bộ,Phú Nhuận,3,1
+Khánh Hoà,2017,107.0,Nam Trung Bộ,Ninh Kiều,11,4
+Khánh Hoà,2018,107.0,Nam Trung Bộ,Hải Châu,2,1
+Khánh Hoà,2019,107.2,Nam Trung Bộ,Hoàn Kiếm,1,1
+Ninh Thuận,2012,110.9,Đông Nam Bộ,Bắc Từ Liêm,2,1
+Ninh Thuận,2013,112.1,Đông Nam Bộ,Quận 3,1,1
+Ninh Thuận,2014,125.2,Đông Nam Bộ,Quận 6,4,2
+Ninh Thuận,2015,109.1,Đông Nam Bộ,Thanh Khê,1,1
+Ninh Thuận,2016,102.1,Đông Nam Bộ,Hải Châu,8,3
+Ninh Thuận,2017,106.1,Đông Nam Bộ,Quận 10,4,2
+Ninh Thuận,2018,109.7,Đông Nam Bộ,Lê Chân,8,3
+Ninh Thuận,2019,143.6,Đông Nam Bộ,Quận 4,12,4
+Bình Thuận,2012,107.8,Đông Nam Bộ,Quận 10,8,3
+Bình Thuận,2013,114.9,Đông Nam Bộ,Tân Bình,1,1
+Bình Thuận,2014,98.0,Đông Nam Bộ,Ninh Kiều,10,4
+Bình Thuận,2015,113.3,Đông Nam Bộ,Tây Hồ,10,4
+Bình Thuận,2016,107.3,Đông Nam Bộ,Thanh Khê,1,1
+Bình Thuận,2017,106.4,Đông Nam Bộ,Bình Thạnh,10,4
+Bình Thuận,2018,120.5,Đông Nam Bộ,Quận 8,6,2
+Bình Thuận,2019,133.0,Đông Nam Bộ,Cái Răng,8,3
+Kon Tum,2012,115.3,Nam Trung Bộ,Tân Bình,8,3
+Kon Tum,2013,113.4,Nam Trung Bộ,Bình Thủy,12,4
+Kon Tum,2014,105.4,Nam Trung Bộ,Quận 7,9,3
+Kon Tum,2015,105.2,Nam Trung Bộ,Quận 3,5,2
+Kon Tum,2016,106.3,Nam Trung Bộ,Bắc Từ Liêm,5,2
+Kon Tum,2017,119.6,Nam Trung Bộ,Liên Chiểu,1,1
+Kon Tum,2018,114.2,Nam Trung Bộ,Long Biên,5,2
+Kon Tum,2019,116.4,Nam Trung Bộ,Hai Bà Trưng,4,2
+Gia Lai,2012,121.0,Nam Trung Bộ,Ngô Quyền,5,2
+Gia Lai,2013,108.1,Nam Trung Bộ,Bắc Từ Liêm,5,2
+Gia Lai,2014,106.1,Nam Trung Bộ,Quận 7,10,4
+Gia Lai,2015,99.1,Nam Trung Bộ,Ngô Quyền,4,2
+Gia Lai,2016,92.3,Nam Trung Bộ,Dương Kinh,10,4
+Gia Lai,2017,121.4,Nam Trung Bộ,Nam Từ Liêm,3,1
+Gia Lai,2018,113.1,Nam Trung Bộ,Ngũ Hành Sơn,8,3
+Gia Lai,2019,92.5,Nam Trung Bộ,Sơn Trà,4,2
+Đắk Lắk,2012,110.5,Nam Trung Bộ,Phú Nhuận,4,2
+Đắk Lắk,2013,100.3,Nam Trung Bộ,Hà Đông,2,1
+Đắk Lắk,2014,103.8,Nam Trung Bộ,Ba Đình,9,3
+Đắk Lắk,2015,98.7,Nam Trung Bộ,Bình Tân,11,4
+Đắk Lắk,2016,107.1,Nam Trung Bộ,Thốt Nốt,1,1
+Đắk Lắk,2017,119.3,Nam Trung Bộ,Gò Vấp,11,4
+Đắk Lắk,2018,101.0,Nam Trung Bộ,Cầu Giấy,7,3
+Đắk Lắk,2019,102.6,Nam Trung Bộ,Hoàn Kiếm,10,4
+Đắk Nông,2012,109.4,Nam Trung Bộ,Ngô Quyền,6,2
+Đắk Nông,2013,105.1,Nam Trung Bộ,Sơn Trà,10,4
+Đắk Nông,2014,107.2,Nam Trung Bộ,Cái Răng,5,2
+Đắk Nông,2015,107.0,Nam Trung Bộ,Quận 10,1,1
+Đắk Nông,2016,103.6,Nam Trung Bộ,Bình Thủy,5,2
+Đắk Nông,2017,158.2,Nam Trung Bộ,Hải An,12,4
+Đắk Nông,2018,109.0,Nam Trung Bộ,Cẩm Lệ,5,2
+Đắk Nông,2019,104.3,Nam Trung Bộ,Ba Đình,2,1
+Lâm Đồng,2012,126.0,Đông Nam Bộ,Quận 3,1,1
+Lâm Đồng,2013,129.0,Đông Nam Bộ,Hai Bà Trưng,5,2
+Lâm Đồng,2014,116.5,Đông Nam Bộ,Quận 12,8,3
+Lâm Đồng,2015,105.5,Đông Nam Bộ,Long Biên,3,1
+Lâm Đồng,2016,106.2,Đông Nam Bộ,Tân Phú,9,3
+Lâm Đồng,2017,110.4,Đông Nam Bộ,Đống Đa,7,3
+Lâm Đồng,2018,107.2,Đông Nam Bộ,Kiến An,3,1
+Lâm Đồng,2019,104.9,Đông Nam Bộ,Bình Thủy,6,2
+Bình Phước,2012,114.7,Đông Nam Bộ,Thanh Khê,5,2
+Bình Phước,2013,112.1,Đông Nam Bộ,Quận 12,5,2
+Bình Phước,2014,111.2,Đông Nam Bộ,Hoàn Kiếm,1,1
+Bình Phước,2015,106.8,Đông Nam Bộ,Kiến An,6,2
+Bình Phước,2016,106.0,Đông Nam Bộ,Gò Vấp,8,3
+Bình Phước,2017,108.8,Đông Nam Bộ,Kiến An,9,3
+Bình Phước,2018,112.3,Đông Nam Bộ,Bình Tân,12,4
+Bình Phước,2019,111.9,Đông Nam Bộ,Quận 1,2,1
+Tây Ninh,2012,121.4,Đông Nam Bộ,Kiến An,6,2
+Tây Ninh,2013,119.2,Đông Nam Bộ,Long Biên,10,4
+Tây Ninh,2014,115.5,Đông Nam Bộ,Đống Đa,12,4
+Tây Ninh,2015,114.1,Đông Nam Bộ,Sơn Trà,11,4
+Tây Ninh,2016,111.8,Đông Nam Bộ,Bình Tân,7,3
+Tây Ninh,2017,115.5,Đông Nam Bộ,Long Biên,7,3
+Tây Ninh,2018,115.8,Đông Nam Bộ,Ba Đình,11,4
+Tây Ninh,2019,116.0,Đông Nam Bộ,Ngũ Hành Sơn,7,3
+Bình Dương,2012,110.4,Đông Nam Bộ,Hoàn Kiếm,8,3
+Bình Dương,2013,111.7,Đông Nam Bộ,Bắc Từ Liêm,5,2
+Bình Dương,2014,107.2,Đông Nam Bộ,Gò Vấp,3,1
+Bình Dương,2015,109.3,Đông Nam Bộ,Quận 1,12,4
+Bình Dương,2016,108.1,Đông Nam Bộ,Ninh Kiều,2,1
+Bình Dương,2017,110.4,Đông Nam Bộ,Bắc Từ Liêm,1,1
+Bình Dương,2018,108.4,Đông Nam Bộ,Cầu Giấy,4,2
+Bình Dương,2019,109.0,Đông Nam Bộ,Đồ Sơn,5,2
+Đồng Nai,2012,107.4,Đông Nam Bộ,Quận 3,10,4
+Đồng Nai,2013,107.6,Đông Nam Bộ,Quận 11,8,3
+Đồng Nai,2014,107.6,Đông Nam Bộ,Cẩm Lệ,4,2
+Đồng Nai,2015,107.7,Đông Nam Bộ,Quận 3,1,1
+Đồng Nai,2016,107.5,Đông Nam Bộ,Ngũ Hành Sơn,6,2
+Đồng Nai,2017,108.6,Đông Nam Bộ,Quận 10,1,1
+Đồng Nai,2018,108.7,Đông Nam Bộ,Hoàn Kiếm,8,3
+Đồng Nai,2019,108.3,Đông Nam Bộ,Quận 6,3,1
+Bà Rịa - Vũng Tàu,2012,99.5,Đông Nam Bộ,Thanh Khê,5,2
+Bà Rịa - Vũng Tàu,2013,95.1,Đông Nam Bộ,Thốt Nốt,6,2
+Bà Rịa - Vũng Tàu,2014,103.9,Đông Nam Bộ,Cái Răng,8,3
+Bà Rịa - Vũng Tàu,2015,100.9,Đông Nam Bộ,Hải Châu,3,1
+Bà Rịa - Vũng Tàu,2016,96.1,Đông Nam Bộ,Hoàng Mai,1,1
+Bà Rịa - Vũng Tàu,2017,96.2,Đông Nam Bộ,Hoàn Kiếm,9,3
+Bà Rịa - Vũng Tàu,2018,99.4,Đông Nam Bộ,Thốt Nốt,4,2
+Bà Rịa - Vũng Tàu,2019,102.1,Đông Nam Bộ,Nam Từ Liêm,8,3
+TP.Hồ Chí Minh,2012,105.0,Đông Nam Bộ,Quận 12,2,1
+TP.Hồ Chí Minh,2013,106.3,Đông Nam Bộ,Quận 7,11,4
+TP.Hồ Chí Minh,2014,106.8,Đông Nam Bộ,Phú Nhuận,4,2
+TP.Hồ Chí Minh,2015,107.2,Đông Nam Bộ,Gò Vấp,9,3
+TP.Hồ Chí Minh,2016,107.3,Đông Nam Bộ,Quận 4,3,1
+TP.Hồ Chí Minh,2017,107.9,Đông Nam Bộ,Tân Bình,5,2
+TP.Hồ Chí Minh,2018,108.0,Đông Nam Bộ,Gò Vấp,7,3
+TP.Hồ Chí Minh,2019,107.3,Đông Nam Bộ,Bình Thạnh,4,2
+Long An,2012,114.6,Đồng Bằng Sông Cửu Long,Ngũ Hành Sơn,8,3
+Long An,2013,113.8,Đồng Bằng Sông Cửu Long,Thanh Xuân,12,4
+Long An,2014,111.6,Đồng Bằng Sông Cửu Long,Ô Môn,11,4
+Long An,2015,112.8,Đồng Bằng Sông Cửu Long,Hải An,2,1
+Long An,2016,113.5,Đồng Bằng Sông Cửu Long,Kiến An,12,4
+Long An,2017,116.2,Đồng Bằng Sông Cửu Long,Phú Nhuận,5,2
+Long An,2018,116.5,Đồng Bằng Sông Cửu Long,Bình Tân,9,3
+Long An,2019,115.1,Đồng Bằng Sông Cửu Long,Thanh Xuân,5,2
+Tiền Giang,2012,118.9,Đồng Bằng Sông Cửu Long,Tân Phú,10,4
+Tiền Giang,2013,112.1,Đồng Bằng Sông Cửu Long,Cầu Giấy,3,1
+Tiền Giang,2014,108.1,Đồng Bằng Sông Cửu Long,Ngũ Hành Sơn,9,3
+Tiền Giang,2015,115.2,Đồng Bằng Sông Cửu Long,Lê Chân,8,3
+Tiền Giang,2016,114.8,Đồng Bằng Sông Cửu Long,Liên Chiểu,3,1
+Tiền Giang,2017,115.0,Đồng Bằng Sông Cửu Long,Cẩm Lệ,2,1
+Tiền Giang,2018,112.1,Đồng Bằng Sông Cửu Long,Đồ Sơn,2,1
+Tiền Giang,2019,111.1,Đồng Bằng Sông Cửu Long,Hải An,4,2
+Bến Tre,2012,114.8,Đồng Bằng Sông Cửu Long,Hải Châu,5,2
+Bến Tre,2013,111.9,Đồng Bằng Sông Cửu Long,Quận 3,12,4
+Bến Tre,2014,102.7,Đồng Bằng Sông Cửu Long,Quận 1,9,3
+Bến Tre,2015,108.5,Đồng Bằng Sông Cửu Long,Hải An,10,4
+Bến Tre,2016,106.5,Đồng Bằng Sông Cửu Long,Quận 3,11,4
+Bến Tre,2017,108.0,Đồng Bằng Sông Cửu Long,Cái Răng,5,2
+Bến Tre,2018,113.8,Đồng Bằng Sông Cửu Long,Hoàng Mai,5,2
+Bến Tre,2019,109.6,Đồng Bằng Sông Cửu Long,Quận 11,4,2
+Trà Vinh,2012,116.2,Đồng Bằng Sông Cửu Long,Hải An,8,3
+Trà Vinh,2013,106.3,Đồng Bằng Sông Cửu Long,Quận 10,4,2
+Trà Vinh,2014,110.4,Đồng Bằng Sông Cửu Long,Phú Nhuận,12,4
+Trà Vinh,2015,112.6,Đồng Bằng Sông Cửu Long,Quận 5,4,2
+Trà Vinh,2016,117.3,Đồng Bằng Sông Cửu Long,Quận 1,9,3
+Trà Vinh,2017,143.0,Đồng Bằng Sông Cửu Long,Tân Bình,10,4
+Trà Vinh,2018,114.3,Đồng Bằng Sông Cửu Long,Bình Thạnh,5,2
+Trà Vinh,2019,127.7,Đồng Bằng Sông Cửu Long,Quận 8,10,4
+Vĩnh Long,2012,102.1,Đồng Bằng Sông Cửu Long,Tân Phú,12,4
+Vĩnh Long,2013,112.0,Đồng Bằng Sông Cửu Long,Hải Châu,11,4
+Vĩnh Long,2014,109.8,Đồng Bằng Sông Cửu Long,Quận 5,3,1
+Vĩnh Long,2015,111.6,Đồng Bằng Sông Cửu Long,Hồng Bàng,11,4
+Vĩnh Long,2016,111.3,Đồng Bằng Sông Cửu Long,Bình Tân,2,1
+Vĩnh Long,2017,109.1,Đồng Bằng Sông Cửu Long,Hoàn Kiếm,6,2
+Vĩnh Long,2018,109.6,Đồng Bằng Sông Cửu Long,Quận 11,9,3
+Vĩnh Long,2019,115.0,Đồng Bằng Sông Cửu Long,Hải An,12,4
+Đồng Tháp,2012,105.2,Đồng Bằng Sông Cửu Long,Quận 1,6,2
+Đồng Tháp,2013,106.8,Đồng Bằng Sông Cửu Long,Cẩm Lệ,2,1
+Đồng Tháp,2014,108.9,Đồng Bằng Sông Cửu Long,Nam Từ Liêm,6,2
+Đồng Tháp,2015,109.8,Đồng Bằng Sông Cửu Long,Ngũ Hành Sơn,4,2
+Đồng Tháp,2016,104.7,Đồng Bằng Sông Cửu Long,Thanh Khê,6,2
+Đồng Tháp,2017,107.0,Đồng Bằng Sông Cửu Long,Ba Đình,12,4
+Đồng Tháp,2018,107.2,Đồng Bằng Sông Cửu Long,Thanh Xuân,3,1
+Đồng Tháp,2019,108.3,Đồng Bằng Sông Cửu Long,Gò Vấp,4,2
+An Giang,2012,106.6,Đồng Bằng Sông Cửu Long,Quận 5,1,1
+An Giang,2013,105.1,Đồng Bằng Sông Cửu Long,Quận 5,6,2
+An Giang,2014,102.6,Đồng Bằng Sông Cửu Long,Bình Tân,3,1
+An Giang,2015,105.0,Đồng Bằng Sông Cửu Long,Tân Phú,4,2
+An Giang,2016,105.7,Đồng Bằng Sông Cửu Long,Hải Châu,12,4
+An Giang,2017,106.9,Đồng Bằng Sông Cửu Long,Gò Vấp,9,3
+An Giang,2018,108.9,Đồng Bằng Sông Cửu Long,Hải An,12,4
+An Giang,2019,109.9,Đồng Bằng Sông Cửu Long,Bình Tân,9,3
+Kiên Giang,2012,105.8,Đồng Bằng Sông Cửu Long,Quận 5,1,1
+Kiên Giang,2013,108.9,Đồng Bằng Sông Cửu Long,Dương Kinh,1,1
+Kiên Giang,2014,106.2,Đồng Bằng Sông Cửu Long,Quận 3,7,3
+Kiên Giang,2015,108.6,Đồng Bằng Sông Cửu Long,Quận 11,2,1
+Kiên Giang,2016,106.3,Đồng Bằng Sông Cửu Long,Tân Bình,4,2
+Kiên Giang,2017,108.5,Đồng Bằng Sông Cửu Long,Sơn Trà,7,3
+Kiên Giang,2018,108.0,Đồng Bằng Sông Cửu Long,Hai Bà Trưng,8,3
+Kiên Giang,2019,111.4,Đồng Bằng Sông Cửu Long,Long Biên,8,3
+Cần Thơ,2012,104.6,Đồng Bằng Sông Cửu Long,Ô Môn,12,4
+Cần Thơ,2013,107.7,Đồng Bằng Sông Cửu Long,Ninh Kiều,10,4
+Cần Thơ,2014,108.2,Đồng Bằng Sông Cửu Long,Cái Răng,3,1
+Cần Thơ,2015,107.3,Đồng Bằng Sông Cửu Long,Thốt Nốt,1,1
+Cần Thơ,2016,108.8,Đồng Bằng Sông Cửu Long,Ninh Kiều,10,4
+Cần Thơ,2017,107.2,Đồng Bằng Sông Cửu Long,Thốt Nốt,2,1
+Cần Thơ,2018,107.8,Đồng Bằng Sông Cửu Long,Ninh Kiều,7,3
+Cần Thơ,2019,107.7,Đồng Bằng Sông Cửu Long,Bình Thủy,12,4
+Hậu Giang,2012,135.4,Đồng Bằng Sông Cửu Long,Quận 10,8,3
+Hậu Giang,2013,104.5,Đồng Bằng Sông Cửu Long,Cầu Giấy,12,4
+Hậu Giang,2014,95.0,Đồng Bằng Sông Cửu Long,Hà Đông,11,4
+Hậu Giang,2015,106.2,Đồng Bằng Sông Cửu Long,Bình Tân,11,4
+Hậu Giang,2016,107.3,Đồng Bằng Sông Cửu Long,Bắc Từ Liêm,12,4
+Hậu Giang,2017,109.6,Đồng Bằng Sông Cửu Long,Gò Vấp,1,1
+Hậu Giang,2018,111.2,Đồng Bằng Sông Cửu Long,Quận 12,3,1
+Hậu Giang,2019,110.2,Đồng Bằng Sông Cửu Long,Quận 8,4,2
+Sóc Trăng,2012,102.0,Đồng Bằng Sông Cửu Long,Hà Đông,4,2
+Sóc Trăng,2013,104.7,Đồng Bằng Sông Cửu Long,Quận 6,9,3
+Sóc Trăng,2014,125.4,Đồng Bằng Sông Cửu Long,Phú Nhuận,1,1
+Sóc Trăng,2015,103.5,Đồng Bằng Sông Cửu Long,Cái Răng,7,3
+Sóc Trăng,2016,111.5,Đồng Bằng Sông Cửu Long,Dương Kinh,12,4
+Sóc Trăng,2017,110.8,Đồng Bằng Sông Cửu Long,Bình Tân,8,3
+Sóc Trăng,2018,106.8,Đồng Bằng Sông Cửu Long,Cầu Giấy,4,2
+Sóc Trăng,2019,107.9,Đồng Bằng Sông Cửu Long,Sơn Trà,12,4
+Bạc Liêu,2012,103.8,Đồng Bằng Sông Cửu Long,Hải Châu,9,3
+Bạc Liêu,2013,105.3,Đồng Bằng Sông Cửu Long,Bình Thủy,1,1
+Bạc Liêu,2014,105.2,Đồng Bằng Sông Cửu Long,Gò Vấp,9,3
+Bạc Liêu,2015,114.1,Đồng Bằng Sông Cửu Long,Quận 6,12,4
+Bạc Liêu,2016,103.4,Đồng Bằng Sông Cửu Long,Thanh Khê,9,3
+Bạc Liêu,2017,109.0,Đồng Bằng Sông Cửu Long,Thanh Xuân,3,1
+Bạc Liêu,2018,112.3,Đồng Bằng Sông Cửu Long,Quận 5,6,2
+Bạc Liêu,2019,112.4,Đồng Bằng Sông Cửu Long,Cẩm Lệ,7,3
+Cà Mau,2012,109.9,Đồng Bằng Sông Cửu Long,Hải An,11,4
+Cà Mau,2013,112.4,Đồng Bằng Sông Cửu Long,Thanh Khê,2,1
+Cà Mau,2014,109.1,Đồng Bằng Sông Cửu Long,Ba Đình,12,4
+Cà Mau,2015,100.8,Đồng Bằng Sông Cửu Long,Bình Thạnh,4,2
+Cà Mau,2016,98.2,Đồng Bằng Sông Cửu Long,Ngô Quyền,1,1
+Cà Mau,2017,103.4,Đồng Bằng Sông Cửu Long,Hải An,11,4
+Cà Mau,2018,108.2,Đồng Bằng Sông Cửu Long,Quận 4,7,3
+Cà Mau,2019,106.1,Đồng Bằng Sông Cửu Long,Quận 4,12,4
