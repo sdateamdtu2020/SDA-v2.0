@@ -1,7 +1,7 @@
 #DROP TABLES
 #Dimension
 DimCity_Table_Drop = "DROP TABLE IF EXISTS DimCity"
-DimTime_Table_Drop = "DROP TABLE IF EXISTS DimTime"
+DimYear_Table_Drop = "DROP TABLE IF EXISTS DimYear"
 
 
 #Staging area
@@ -23,5 +23,5 @@ UpdateQuery = ("""
                 ALTER TABLE FactClimate ADD COLUMN description text NULL;
                 ALTER TABLE FactPopulation  ADD COLUMN description text NULL;
                 ALTER TABLE FactIndustry  ADD COLUMN description text NULL;
-                    """)
+    """)
 

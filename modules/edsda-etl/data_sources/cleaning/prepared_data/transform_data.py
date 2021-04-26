@@ -140,7 +140,7 @@ def transfer_to_structured_data(fileName, *args):
         storeData.append(arg)
 
     data, column_names, area = storeData
-    columns = _column_names(column_names, 'area','district','month','quarter')
+    columns = _column_names(column_names, 'area','district')
     with open('{}'.format(fileName), 'w', newline='') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(columns)
@@ -154,10 +154,6 @@ def transfer_to_structured_data(fileName, *args):
             row_data.append(area[i-1])
             # adding district
             row_data.append(districts_generator(row_data[0]))
-            # adding month,quarter 
-            month, quarter= time_generator()
-            row_data.append(month)
-            row_data.append(quarter)
             #Write data
             writer.writerow(row_data[:len(columns)])
 

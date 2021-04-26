@@ -1,211 +1,211 @@
-city,year,humidity,area,district,month,quarter
-Lai Châu,2006,78.0,Tây Bắc,Lê Chân,10,4
-Lai Châu,2007,81.0,Tây Bắc,Nam Từ Liêm,3,1
-Lai Châu,2008,83.8,Tây Bắc,Hồng Bàng,1,1
-Lai Châu,2009,80.1,Tây Bắc,Long Biên,3,1
-Lai Châu,2010,79.2,Tây Bắc,Hoàn Kiếm,11,4
-Lai Châu,2011,82.3,Tây Bắc,Bình Tân,7,3
-Lai Châu,2012,83.2,Tây Bắc,Hải An,9,3
-Lai Châu,2013,83.0,Tây Bắc,Cẩm Lệ,10,4
-Lai Châu,2014,79.6,Tây Bắc,Thanh Xuân,5,2
-Lai Châu,2015,80.5,Tây Bắc,Bình Thủy,3,1
-Lai Châu,2016,81.5,Tây Bắc,Long Biên,1,1
-Lai Châu,2017,84.3,Tây Bắc,Quận 7,10,4
-Lai Châu,2018,85.2,Tây Bắc,Quận 3,11,4
-Lai Châu,2019,82.1,Tây Bắc,Dương Kinh,6,2
-Sơn La,2006,80.0,Tây Bắc,Hồng Bàng,6,2
-Sơn La,2007,80.0,Tây Bắc,Quận 8,3,1
-Sơn La,2008,82.8,Tây Bắc,Quận 12,4,2
-Sơn La,2009,77.9,Tây Bắc,Sơn Trà,11,4
-Sơn La,2010,78.3,Tây Bắc,Quận 4,6,2
-Sơn La,2011,81.2,Tây Bắc,Gò Vấp,2,1
-Sơn La,2012,80.2,Tây Bắc,Quận 12,9,3
-Sơn La,2013,80.0,Tây Bắc,Hoàn Kiếm,4,2
-Sơn La,2014,79.8,Tây Bắc,Bình Thạnh,6,2
-Sơn La,2015,78.7,Tây Bắc,Hai Bà Trưng,8,3
-Sơn La,2016,78.8,Tây Bắc,Ô Môn,3,1
-Sơn La,2017,78.8,Tây Bắc,Quận 10,9,3
-Sơn La,2018,79.3,Tây Bắc,Liên Chiểu,11,4
-Sơn La,2019,77.0,Tây Bắc,Đồ Sơn,2,1
-Tuyên Quang,2006,83.0,Đông Bắc,Đồ Sơn,3,1
-Tuyên Quang,2007,82.0,Đông Bắc,Quận 4,10,4
-Tuyên Quang,2008,82.2,Đông Bắc,Kiến An,11,4
-Tuyên Quang,2009,80.3,Đông Bắc,Thanh Khê,9,3
-Tuyên Quang,2010,79.5,Đông Bắc,Bình Thủy,3,1
-Tuyên Quang,2011,81.9,Đông Bắc,Đống Đa,1,1
-Tuyên Quang,2012,82.1,Đông Bắc,Bình Tân,5,2
-Tuyên Quang,2013,81.0,Đông Bắc,Tây Hồ,2,1
-Tuyên Quang,2014,81.7,Đông Bắc,Tây Hồ,10,4
-Tuyên Quang,2015,80.3,Đông Bắc,Bình Thạnh,12,4
-Tuyên Quang,2016,79.8,Đông Bắc,Ngô Quyền,12,4
-Tuyên Quang,2017,81.5,Đông Bắc,Cái Răng,11,4
-Tuyên Quang,2018,80.9,Đông Bắc,Gò Vấp,3,1
-Tuyên Quang,2019,81.9,Đông Bắc,Quận 11,8,3
-Hà Nội,2006,78.0,Đồng Bằng Sông Hồng,Ba Đình,5,2
-Hà Nội,2007,78.0,Đồng Bằng Sông Hồng,Hoàn Kiếm,10,4
-Hà Nội,2008,79.3,Đồng Bằng Sông Hồng,Đống Đa,12,4
-Hà Nội,2009,76.9,Đồng Bằng Sông Hồng,Hai Bà Trưng,7,3
-Hà Nội,2010,77.7,Đồng Bằng Sông Hồng,Thanh Xuân,12,4
-Hà Nội,2011,77.3,Đồng Bằng Sông Hồng,Tây Hồ,9,3
-Hà Nội,2012,78.5,Đồng Bằng Sông Hồng,Đống Đa,7,3
-Hà Nội,2013,78.0,Đồng Bằng Sông Hồng,Bắc Từ Liêm,6,2
-Hà Nội,2014,78.5,Đồng Bằng Sông Hồng,Hoàn Kiếm,1,1
-Hà Nội,2015,78.3,Đồng Bằng Sông Hồng,Cầu Giấy,11,4
-Hà Nội,2016,73.9,Đồng Bằng Sông Hồng,Hoàn Kiếm,9,3
-Hà Nội,2017,76.6,Đồng Bằng Sông Hồng,Hai Bà Trưng,6,2
-Hà Nội,2018,75.0,Đồng Bằng Sông Hồng,Ba Đình,12,4
-Hà Nội,2019,75.3,Đồng Bằng Sông Hồng,Long Biên,2,1
-Bãi Cháy,2006,82.0,Đông Bắc,Ninh Kiều,4,2
-Bãi Cháy,2007,80.0,Đông Bắc,Đống Đa,4,2
-Bãi Cháy,2008,80.8,Đông Bắc,Hoàng Mai,6,2
-Bãi Cháy,2009,81.0,Đông Bắc,Ô Môn,5,2
-Bãi Cháy,2010,82.3,Đông Bắc,Quận 1,2,1
-Bãi Cháy,2011,82.1,Đông Bắc,Cầu Giấy,6,2
-Bãi Cháy,2012,84.2,Đông Bắc,Cái Răng,12,4
-Bãi Cháy,2013,83.0,Đông Bắc,Đống Đa,6,2
-Bãi Cháy,2014,81.9,Đông Bắc,Quận 4,12,4
-Bãi Cháy,2015,82.8,Đông Bắc,Đống Đa,2,1
-Bãi Cháy,2016,81.7,Đông Bắc,Hải An,9,3
-Bãi Cháy,2017,81.8,Đông Bắc,Hải Châu,8,3
-Bãi Cháy,2018,82.5,Đông Bắc,Hoàng Mai,5,2
-Bãi Cháy,2019,82.8,Đông Bắc,Hồng Bàng,4,2
-Nam Định,2006,83.0,Đồng Bằng Sông Hồng,Quận 1,2,1
-Nam Định,2007,82.0,Đồng Bằng Sông Hồng,Hoàn Kiếm,12,4
-Nam Định,2008,83.6,Đồng Bằng Sông Hồng,Bắc Từ Liêm,9,3
-Nam Định,2009,82.9,Đồng Bằng Sông Hồng,Bình Tân,2,1
-Nam Định,2010,83.0,Đồng Bằng Sông Hồng,Cái Răng,7,3
-Nam Định,2011,81.1,Đồng Bằng Sông Hồng,Ngô Quyền,8,3
-Nam Định,2012,84.7,Đồng Bằng Sông Hồng,Bình Thạnh,5,2
-Nam Định,2013,84.0,Đồng Bằng Sông Hồng,Quận 10,1,1
-Nam Định,2014,83.6,Đồng Bằng Sông Hồng,Hải Châu,8,3
-Nam Định,2015,82.2,Đồng Bằng Sông Hồng,Dương Kinh,1,1
-Nam Định,2016,80.7,Đồng Bằng Sông Hồng,Lê Chân,5,2
-Nam Định,2017,82.8,Đồng Bằng Sông Hồng,Ngũ Hành Sơn,10,4
-Nam Định,2018,82.4,Đồng Bằng Sông Hồng,Long Biên,2,1
-Nam Định,2019,82.7,Đồng Bằng Sông Hồng,Lê Chân,6,2
-Vinh,2006,83.0,Đồng Bằng Sông Cửu Long,Bình Tân,7,3
-Vinh,2007,82.0,Đồng Bằng Sông Cửu Long,Liên Chiểu,7,3
-Vinh,2008,81.9,Đồng Bằng Sông Cửu Long,Bình Tân,9,3
-Vinh,2009,81.3,Đồng Bằng Sông Cửu Long,Liên Chiểu,10,4
-Vinh,2010,81.7,Đồng Bằng Sông Cửu Long,Thanh Xuân,10,4
-Vinh,2011,83.0,Đồng Bằng Sông Cửu Long,Ninh Kiều,9,3
-Vinh,2012,82.3,Đồng Bằng Sông Cửu Long,Kiến An,3,1
-Vinh,2013,84.0,Đồng Bằng Sông Cửu Long,Lê Chân,4,2
-Vinh,2014,83.3,Đồng Bằng Sông Cửu Long,Quận 6,12,4
-Vinh,2015,81.8,Đồng Bằng Sông Cửu Long,Dương Kinh,9,3
-Vinh,2016,81.8,Đồng Bằng Sông Cửu Long,Thanh Xuân,5,2
-Vinh,2017,83.6,Đồng Bằng Sông Cửu Long,Thanh Xuân,8,3
-Vinh,2018,82.1,Đồng Bằng Sông Cửu Long,Hoàng Mai,5,2
-Vinh,2019,81.3,Đồng Bằng Sông Cửu Long,Quận 1,11,4
-Huế,2006,85.0,Bắc Trung Bộ,Quận 10,11,4
-Huế,2007,87.0,Bắc Trung Bộ,Ngô Quyền,1,1
-Huế,2008,87.6,Bắc Trung Bộ,Tân Bình,1,1
-Huế,2009,87.2,Bắc Trung Bộ,Ngô Quyền,1,1
-Huế,2010,87.1,Bắc Trung Bộ,Hoàng Mai,6,2
-Huế,2011,87.8,Bắc Trung Bộ,Quận 8,1,1
-Huế,2012,85.0,Bắc Trung Bộ,Ninh Kiều,1,1
-Huế,2013,87.0,Bắc Trung Bộ,Tân Phú,11,4
-Huế,2014,85.4,Bắc Trung Bộ,Hồng Bàng,6,2
-Huế,2015,85.4,Bắc Trung Bộ,Dương Kinh,4,2
-Huế,2016,86.8,Bắc Trung Bộ,Quận 5,2,1
-Huế,2017,88.4,Bắc Trung Bộ,Bắc Từ Liêm,11,4
-Huế,2018,86.3,Bắc Trung Bộ,Hai Bà Trưng,3,1
-Huế,2019,84.9,Bắc Trung Bộ,Bình Tân,9,3
-Đà Nẵng,2006,81.0,Nam Trung Bộ,Hải Châu,11,4
-Đà Nẵng,2007,82.0,Nam Trung Bộ,Liên Chiểu,6,2
-Đà Nẵng,2008,82.0,Nam Trung Bộ,Ngũ Hành Sơn,2,1
-Đà Nẵng,2009,81.0,Nam Trung Bộ,Hải Châu,6,2
-Đà Nẵng,2010,82.4,Nam Trung Bộ,Ngũ Hành Sơn,5,2
-Đà Nẵng,2011,80.8,Nam Trung Bộ,Liên Chiểu,10,4
-Đà Nẵng,2012,79.9,Nam Trung Bộ,Sơn Trà,5,2
-Đà Nẵng,2013,81.0,Nam Trung Bộ,Thanh Khê,6,2
-Đà Nẵng,2014,80.6,Nam Trung Bộ,Thanh Khê,3,1
-Đà Nẵng,2015,80.7,Nam Trung Bộ,Cẩm Lệ,8,3
-Đà Nẵng,2016,80.6,Nam Trung Bộ,Sơn Trà,9,3
-Đà Nẵng,2017,81.8,Nam Trung Bộ,Ngũ Hành Sơn,8,3
-Đà Nẵng,2018,79.1,Nam Trung Bộ,Thanh Khê,2,1
-Đà Nẵng,2019,78.1,Nam Trung Bộ,Sơn Trà,8,3
-Qui Nhơn,2006,77.0,Đông Nam Bộ,Hà Đông,12,4
-Qui Nhơn,2007,79.0,Đông Nam Bộ,Cái Răng,2,1
-Qui Nhơn,2008,78.7,Đông Nam Bộ,Liên Chiểu,7,3
-Qui Nhơn,2009,77.7,Đông Nam Bộ,Tây Hồ,7,3
-Qui Nhơn,2010,80.8,Đông Nam Bộ,Kiến An,3,1
-Qui Nhơn,2011,76.4,Đông Nam Bộ,Long Biên,12,4
-Qui Nhơn,2012,75.2,Đông Nam Bộ,Ba Đình,8,3
-Qui Nhơn,2013,79.0,Đông Nam Bộ,Đống Đa,2,1
-Qui Nhơn,2014,77.5,Đông Nam Bộ,Quận 7,5,2
-Qui Nhơn,2015,80.0,Đông Nam Bộ,Quận 8,2,1
-Qui Nhơn,2016,80.4,Đông Nam Bộ,Quận 11,6,2
-Qui Nhơn,2017,79.6,Đông Nam Bộ,Hồng Bàng,9,3
-Qui Nhơn,2018,76.8,Đông Nam Bộ,Quận 11,4,2
-Qui Nhơn,2019,76.4,Đông Nam Bộ,Quận 8,11,4
-Pleiku,2006,83.0,Đông Nam Bộ,Tân Phú,6,2
-Pleiku,2007,83.0,Đông Nam Bộ,Thanh Khê,5,2
-Pleiku,2008,83.5,Đông Nam Bộ,Quận 3,4,2
-Pleiku,2009,83.2,Đông Nam Bộ,Hai Bà Trưng,11,4
-Pleiku,2010,83.0,Đông Nam Bộ,Bình Tân,6,2
-Pleiku,2011,82.0,Đông Nam Bộ,Hoàng Mai,3,1
-Pleiku,2012,80.8,Đông Nam Bộ,Thốt Nốt,11,4
-Pleiku,2013,80.0,Đông Nam Bộ,Ba Đình,11,4
-Pleiku,2014,80.2,Đông Nam Bộ,Cẩm Lệ,5,2
-Pleiku,2015,80.1,Đông Nam Bộ,Đống Đa,10,4
-Pleiku,2016,81.2,Đông Nam Bộ,Hải An,10,4
-Pleiku,2017,82.5,Đông Nam Bộ,Bắc Từ Liêm,12,4
-Pleiku,2018,81.6,Đông Nam Bộ,Quận 1,7,3
-Pleiku,2019,81.1,Đông Nam Bộ,Sơn Trà,9,3
-Đà Lạt,2006,87.0,Nam Trung Bộ,Tân Bình,7,3
-Đà Lạt,2007,86.0,Nam Trung Bộ,Sơn Trà,12,4
-Đà Lạt,2008,86.8,Nam Trung Bộ,Bắc Từ Liêm,9,3
-Đà Lạt,2009,85.8,Nam Trung Bộ,Cái Răng,5,2
-Đà Lạt,2010,85.8,Nam Trung Bộ,Hoàn Kiếm,4,2
-Đà Lạt,2011,84.3,Nam Trung Bộ,Lê Chân,7,3
-Đà Lạt,2012,83.8,Nam Trung Bộ,Gò Vấp,9,3
-Đà Lạt,2013,84.0,Nam Trung Bộ,Bình Thạnh,2,1
-Đà Lạt,2014,85.8,Nam Trung Bộ,Ngũ Hành Sơn,11,4
-Đà Lạt,2015,84.0,Nam Trung Bộ,Quận 8,6,2
-Đà Lạt,2016,84.7,Nam Trung Bộ,Liên Chiểu,4,2
-Đà Lạt,2017,86.0,Nam Trung Bộ,Hồng Bàng,4,2
-Đà Lạt,2018,84.2,Nam Trung Bộ,Ba Đình,3,1
-Đà Lạt,2019,82.8,Nam Trung Bộ,Quận 10,1,1
-Nha Trang,2006,78.0,Đông Nam Bộ,Quận 5,1,1
-Nha Trang,2007,80.0,Đông Nam Bộ,Quận 5,1,1
-Nha Trang,2008,80.3,Đông Nam Bộ,Đống Đa,6,2
-Nha Trang,2009,79.9,Đông Nam Bộ,Quận 1,11,4
-Nha Trang,2010,79.2,Đông Nam Bộ,Quận 7,10,4
-Nha Trang,2011,77.6,Đông Nam Bộ,Quận 7,10,4
-Nha Trang,2012,78.5,Đông Nam Bộ,Phú Nhuận,1,1
-Nha Trang,2013,78.0,Đông Nam Bộ,Lê Chân,4,2
-Nha Trang,2014,76.9,Đông Nam Bộ,Quận 8,5,2
-Nha Trang,2015,77.0,Đông Nam Bộ,Cẩm Lệ,9,3
-Nha Trang,2016,79.4,Đông Nam Bộ,Hai Bà Trưng,4,2
-Nha Trang,2017,80.0,Đông Nam Bộ,Hải Châu,2,1
-Nha Trang,2018,78.0,Đông Nam Bộ,Hoàng Mai,1,1
-Nha Trang,2019,76.1,Đông Nam Bộ,Hoàng Mai,1,1
-Vũng Tàu,2006,77.0,Nam Trung Bộ,Phú Nhuận,12,4
-Vũng Tàu,2007,78.0,Nam Trung Bộ,Lê Chân,5,2
-Vũng Tàu,2008,77.8,Nam Trung Bộ,Quận 3,10,4
-Vũng Tàu,2009,79.6,Nam Trung Bộ,Lê Chân,6,2
-Vũng Tàu,2010,81.8,Nam Trung Bộ,Hoàng Mai,6,2
-Vũng Tàu,2011,79.1,Nam Trung Bộ,Tân Bình,6,2
-Vũng Tàu,2012,78.2,Nam Trung Bộ,Hoàn Kiếm,11,4
-Vũng Tàu,2013,78.0,Nam Trung Bộ,Thốt Nốt,4,2
-Vũng Tàu,2014,77.6,Nam Trung Bộ,Tân Phú,12,4
-Vũng Tàu,2015,76.8,Nam Trung Bộ,Ô Môn,12,4
-Vũng Tàu,2016,78.5,Nam Trung Bộ,Quận 4,3,1
-Vũng Tàu,2017,78.5,Nam Trung Bộ,Bình Thủy,7,3
-Vũng Tàu,2018,78.0,Nam Trung Bộ,Quận 4,9,3
-Vũng Tàu,2019,76.8,Nam Trung Bộ,Hải An,5,2
-Cà Mau,2006,83.0,Đồng Bằng Sông Cửu Long,Quận 11,1,1
-Cà Mau,2007,83.0,Đồng Bằng Sông Cửu Long,Ba Đình,10,4
-Cà Mau,2008,83.2,Đồng Bằng Sông Cửu Long,Lê Chân,8,3
-Cà Mau,2009,82.3,Đồng Bằng Sông Cửu Long,Ninh Kiều,4,2
-Cà Mau,2010,84.0,Đồng Bằng Sông Cửu Long,Nam Từ Liêm,9,3
-Cà Mau,2011,79.5,Đồng Bằng Sông Cửu Long,Thanh Khê,6,2
-Cà Mau,2012,81.3,Đồng Bằng Sông Cửu Long,Nam Từ Liêm,5,2
-Cà Mau,2013,81.0,Đồng Bằng Sông Cửu Long,Ba Đình,12,4
-Cà Mau,2014,81.0,Đồng Bằng Sông Cửu Long,Tây Hồ,8,3
-Cà Mau,2015,80.0,Đồng Bằng Sông Cửu Long,Quận 10,9,3
-Cà Mau,2016,80.6,Đồng Bằng Sông Cửu Long,Hà Đông,12,4
-Cà Mau,2017,80.8,Đồng Bằng Sông Cửu Long,Quận 8,11,4
-Cà Mau,2018,80.7,Đồng Bằng Sông Cửu Long,Quận 6,3,1
-Cà Mau,2019,80.8,Đồng Bằng Sông Cửu Long,Long Biên,4,2
+city,year,humidity,area,district
+Lai Châu,2006,78.0,Tây Bắc,Hoàn Kiếm
+Lai Châu,2007,81.0,Tây Bắc,Quận 7
+Lai Châu,2008,83.8,Tây Bắc,Liên Chiểu
+Lai Châu,2009,80.1,Tây Bắc,Thốt Nốt
+Lai Châu,2010,79.2,Tây Bắc,Hải An
+Lai Châu,2011,82.3,Tây Bắc,Ngũ Hành Sơn
+Lai Châu,2012,83.2,Tây Bắc,Lê Chân
+Lai Châu,2013,83.0,Tây Bắc,Bắc Từ Liêm
+Lai Châu,2014,79.6,Tây Bắc,Thanh Khê
+Lai Châu,2015,80.5,Tây Bắc,Hoàng Mai
+Lai Châu,2016,81.5,Tây Bắc,Quận 4
+Lai Châu,2017,84.3,Tây Bắc,Cái Răng
+Lai Châu,2018,85.2,Tây Bắc,Quận 8
+Lai Châu,2019,82.1,Tây Bắc,Kiến An
+Sơn La,2006,80.0,Tây Bắc,Bắc Từ Liêm
+Sơn La,2007,80.0,Tây Bắc,Quận 3
+Sơn La,2008,82.8,Tây Bắc,Sơn Trà
+Sơn La,2009,77.9,Tây Bắc,Hà Đông
+Sơn La,2010,78.3,Tây Bắc,Hoàng Mai
+Sơn La,2011,81.2,Tây Bắc,Bình Thủy
+Sơn La,2012,80.2,Tây Bắc,Ô Môn
+Sơn La,2013,80.0,Tây Bắc,Hồng Bàng
+Sơn La,2014,79.8,Tây Bắc,Bắc Từ Liêm
+Sơn La,2015,78.7,Tây Bắc,Ninh Kiều
+Sơn La,2016,78.8,Tây Bắc,Hai Bà Trưng
+Sơn La,2017,78.8,Tây Bắc,Thốt Nốt
+Sơn La,2018,79.3,Tây Bắc,Quận 7
+Sơn La,2019,77.0,Tây Bắc,Quận 5
+Tuyên Quang,2006,83.0,Đông Bắc,Ngũ Hành Sơn
+Tuyên Quang,2007,82.0,Đông Bắc,Quận 3
+Tuyên Quang,2008,82.2,Đông Bắc,Kiến An
+Tuyên Quang,2009,80.3,Đông Bắc,Hải Châu
+Tuyên Quang,2010,79.5,Đông Bắc,Quận 1
+Tuyên Quang,2011,81.9,Đông Bắc,Kiến An
+Tuyên Quang,2012,82.1,Đông Bắc,Cầu Giấy
+Tuyên Quang,2013,81.0,Đông Bắc,Thanh Khê
+Tuyên Quang,2014,81.7,Đông Bắc,Ngô Quyền
+Tuyên Quang,2015,80.3,Đông Bắc,Hải Châu
+Tuyên Quang,2016,79.8,Đông Bắc,Lê Chân
+Tuyên Quang,2017,81.5,Đông Bắc,Gò Vấp
+Tuyên Quang,2018,80.9,Đông Bắc,Quận 11
+Tuyên Quang,2019,81.9,Đông Bắc,Bình Thủy
+Hà Nội,2006,78.0,Đồng Bằng Sông Hồng,Hoàn Kiếm
+Hà Nội,2007,78.0,Đồng Bằng Sông Hồng,Đống Đa
+Hà Nội,2008,79.3,Đồng Bằng Sông Hồng,Ba Đình
+Hà Nội,2009,76.9,Đồng Bằng Sông Hồng,Hai Bà Trưng
+Hà Nội,2010,77.7,Đồng Bằng Sông Hồng,Hoàn Kiếm
+Hà Nội,2011,77.3,Đồng Bằng Sông Hồng,Long Biên
+Hà Nội,2012,78.5,Đồng Bằng Sông Hồng,Hoàng Mai
+Hà Nội,2013,78.0,Đồng Bằng Sông Hồng,Bắc Từ Liêm
+Hà Nội,2014,78.5,Đồng Bằng Sông Hồng,Hà Đông
+Hà Nội,2015,78.3,Đồng Bằng Sông Hồng,Hà Đông
+Hà Nội,2016,73.9,Đồng Bằng Sông Hồng,Tây Hồ
+Hà Nội,2017,76.6,Đồng Bằng Sông Hồng,Hoàn Kiếm
+Hà Nội,2018,75.0,Đồng Bằng Sông Hồng,Long Biên
+Hà Nội,2019,75.3,Đồng Bằng Sông Hồng,Nam Từ Liêm
+Bãi Cháy,2006,82.0,Đông Bắc,Quận 10
+Bãi Cháy,2007,80.0,Đông Bắc,Hồng Bàng
+Bãi Cháy,2008,80.8,Đông Bắc,Hà Đông
+Bãi Cháy,2009,81.0,Đông Bắc,Ngô Quyền
+Bãi Cháy,2010,82.3,Đông Bắc,Thốt Nốt
+Bãi Cháy,2011,82.1,Đông Bắc,Quận 10
+Bãi Cháy,2012,84.2,Đông Bắc,Cầu Giấy
+Bãi Cháy,2013,83.0,Đông Bắc,Ba Đình
+Bãi Cháy,2014,81.9,Đông Bắc,Ngũ Hành Sơn
+Bãi Cháy,2015,82.8,Đông Bắc,Bình Thủy
+Bãi Cháy,2016,81.7,Đông Bắc,Hồng Bàng
+Bãi Cháy,2017,81.8,Đông Bắc,Bình Thủy
+Bãi Cháy,2018,82.5,Đông Bắc,Quận 11
+Bãi Cháy,2019,82.8,Đông Bắc,Thanh Xuân
+Nam Định,2006,83.0,Đồng Bằng Sông Hồng,Hải Châu
+Nam Định,2007,82.0,Đồng Bằng Sông Hồng,Cẩm Lệ
+Nam Định,2008,83.6,Đồng Bằng Sông Hồng,Phú Nhuận
+Nam Định,2009,82.9,Đồng Bằng Sông Hồng,Tây Hồ
+Nam Định,2010,83.0,Đồng Bằng Sông Hồng,Ngũ Hành Sơn
+Nam Định,2011,81.1,Đồng Bằng Sông Hồng,Cầu Giấy
+Nam Định,2012,84.7,Đồng Bằng Sông Hồng,Bắc Từ Liêm
+Nam Định,2013,84.0,Đồng Bằng Sông Hồng,Quận 6
+Nam Định,2014,83.6,Đồng Bằng Sông Hồng,Quận 12
+Nam Định,2015,82.2,Đồng Bằng Sông Hồng,Hà Đông
+Nam Định,2016,80.7,Đồng Bằng Sông Hồng,Liên Chiểu
+Nam Định,2017,82.8,Đồng Bằng Sông Hồng,Hà Đông
+Nam Định,2018,82.4,Đồng Bằng Sông Hồng,Bắc Từ Liêm
+Nam Định,2019,82.7,Đồng Bằng Sông Hồng,Quận 4
+Vinh,2006,83.0,Đồng Bằng Sông Cửu Long,Quận 11
+Vinh,2007,82.0,Đồng Bằng Sông Cửu Long,Ba Đình
+Vinh,2008,81.9,Đồng Bằng Sông Cửu Long,Tây Hồ
+Vinh,2009,81.3,Đồng Bằng Sông Cửu Long,Hà Đông
+Vinh,2010,81.7,Đồng Bằng Sông Cửu Long,Gò Vấp
+Vinh,2011,83.0,Đồng Bằng Sông Cửu Long,Long Biên
+Vinh,2012,82.3,Đồng Bằng Sông Cửu Long,Quận 11
+Vinh,2013,84.0,Đồng Bằng Sông Cửu Long,Hoàng Mai
+Vinh,2014,83.3,Đồng Bằng Sông Cửu Long,Hoàn Kiếm
+Vinh,2015,81.8,Đồng Bằng Sông Cửu Long,Quận 5
+Vinh,2016,81.8,Đồng Bằng Sông Cửu Long,Hải An
+Vinh,2017,83.6,Đồng Bằng Sông Cửu Long,Hải An
+Vinh,2018,82.1,Đồng Bằng Sông Cửu Long,Liên Chiểu
+Vinh,2019,81.3,Đồng Bằng Sông Cửu Long,Đồ Sơn
+Huế,2006,85.0,Bắc Trung Bộ,Đống Đa
+Huế,2007,87.0,Bắc Trung Bộ,Ô Môn
+Huế,2008,87.6,Bắc Trung Bộ,Hồng Bàng
+Huế,2009,87.2,Bắc Trung Bộ,Tân Phú
+Huế,2010,87.1,Bắc Trung Bộ,Cẩm Lệ
+Huế,2011,87.8,Bắc Trung Bộ,Thốt Nốt
+Huế,2012,85.0,Bắc Trung Bộ,Tây Hồ
+Huế,2013,87.0,Bắc Trung Bộ,Hai Bà Trưng
+Huế,2014,85.4,Bắc Trung Bộ,Đống Đa
+Huế,2015,85.4,Bắc Trung Bộ,Quận 12
+Huế,2016,86.8,Bắc Trung Bộ,Ba Đình
+Huế,2017,88.4,Bắc Trung Bộ,Cái Răng
+Huế,2018,86.3,Bắc Trung Bộ,Đống Đa
+Huế,2019,84.9,Bắc Trung Bộ,Long Biên
+Đà Nẵng,2006,81.0,Nam Trung Bộ,Liên Chiểu
+Đà Nẵng,2007,82.0,Nam Trung Bộ,Ngũ Hành Sơn
+Đà Nẵng,2008,82.0,Nam Trung Bộ,Ngũ Hành Sơn
+Đà Nẵng,2009,81.0,Nam Trung Bộ,Ngũ Hành Sơn
+Đà Nẵng,2010,82.4,Nam Trung Bộ,Cẩm Lệ
+Đà Nẵng,2011,80.8,Nam Trung Bộ,Cẩm Lệ
+Đà Nẵng,2012,79.9,Nam Trung Bộ,Hải Châu
+Đà Nẵng,2013,81.0,Nam Trung Bộ,Cẩm Lệ
+Đà Nẵng,2014,80.6,Nam Trung Bộ,Ngũ Hành Sơn
+Đà Nẵng,2015,80.7,Nam Trung Bộ,Ngũ Hành Sơn
+Đà Nẵng,2016,80.6,Nam Trung Bộ,Liên Chiểu
+Đà Nẵng,2017,81.8,Nam Trung Bộ,Thanh Khê
+Đà Nẵng,2018,79.1,Nam Trung Bộ,Liên Chiểu
+Đà Nẵng,2019,78.1,Nam Trung Bộ,Cẩm Lệ
+Qui Nhơn,2006,77.0,Đông Nam Bộ,Hai Bà Trưng
+Qui Nhơn,2007,79.0,Đông Nam Bộ,Thanh Xuân
+Qui Nhơn,2008,78.7,Đông Nam Bộ,Đồ Sơn
+Qui Nhơn,2009,77.7,Đông Nam Bộ,Kiến An
+Qui Nhơn,2010,80.8,Đông Nam Bộ,Đống Đa
+Qui Nhơn,2011,76.4,Đông Nam Bộ,Ba Đình
+Qui Nhơn,2012,75.2,Đông Nam Bộ,Ba Đình
+Qui Nhơn,2013,79.0,Đông Nam Bộ,Nam Từ Liêm
+Qui Nhơn,2014,77.5,Đông Nam Bộ,Đồ Sơn
+Qui Nhơn,2015,80.0,Đông Nam Bộ,Hoàn Kiếm
+Qui Nhơn,2016,80.4,Đông Nam Bộ,Thanh Khê
+Qui Nhơn,2017,79.6,Đông Nam Bộ,Bắc Từ Liêm
+Qui Nhơn,2018,76.8,Đông Nam Bộ,Ô Môn
+Qui Nhơn,2019,76.4,Đông Nam Bộ,Bình Thủy
+Pleiku,2006,83.0,Đông Nam Bộ,Cầu Giấy
+Pleiku,2007,83.0,Đông Nam Bộ,Đống Đa
+Pleiku,2008,83.5,Đông Nam Bộ,Thanh Xuân
+Pleiku,2009,83.2,Đông Nam Bộ,Hoàng Mai
+Pleiku,2010,83.0,Đông Nam Bộ,Liên Chiểu
+Pleiku,2011,82.0,Đông Nam Bộ,Ba Đình
+Pleiku,2012,80.8,Đông Nam Bộ,Thanh Khê
+Pleiku,2013,80.0,Đông Nam Bộ,Tân Bình
+Pleiku,2014,80.2,Đông Nam Bộ,Ninh Kiều
+Pleiku,2015,80.1,Đông Nam Bộ,Nam Từ Liêm
+Pleiku,2016,81.2,Đông Nam Bộ,Bắc Từ Liêm
+Pleiku,2017,82.5,Đông Nam Bộ,Hoàng Mai
+Pleiku,2018,81.6,Đông Nam Bộ,Liên Chiểu
+Pleiku,2019,81.1,Đông Nam Bộ,Bắc Từ Liêm
+Đà Lạt,2006,87.0,Nam Trung Bộ,Tây Hồ
+Đà Lạt,2007,86.0,Nam Trung Bộ,Cái Răng
+Đà Lạt,2008,86.8,Nam Trung Bộ,Quận 11
+Đà Lạt,2009,85.8,Nam Trung Bộ,Quận 10
+Đà Lạt,2010,85.8,Nam Trung Bộ,Hà Đông
+Đà Lạt,2011,84.3,Nam Trung Bộ,Quận 5
+Đà Lạt,2012,83.8,Nam Trung Bộ,Đồ Sơn
+Đà Lạt,2013,84.0,Nam Trung Bộ,Bình Thủy
+Đà Lạt,2014,85.8,Nam Trung Bộ,Hoàng Mai
+Đà Lạt,2015,84.0,Nam Trung Bộ,Hoàng Mai
+Đà Lạt,2016,84.7,Nam Trung Bộ,Cái Răng
+Đà Lạt,2017,86.0,Nam Trung Bộ,Hồng Bàng
+Đà Lạt,2018,84.2,Nam Trung Bộ,Hải An
+Đà Lạt,2019,82.8,Nam Trung Bộ,Nam Từ Liêm
+Nha Trang,2006,78.0,Đông Nam Bộ,Thốt Nốt
+Nha Trang,2007,80.0,Đông Nam Bộ,Quận 11
+Nha Trang,2008,80.3,Đông Nam Bộ,Quận 8
+Nha Trang,2009,79.9,Đông Nam Bộ,Kiến An
+Nha Trang,2010,79.2,Đông Nam Bộ,Quận 8
+Nha Trang,2011,77.6,Đông Nam Bộ,Ninh Kiều
+Nha Trang,2012,78.5,Đông Nam Bộ,Ba Đình
+Nha Trang,2013,78.0,Đông Nam Bộ,Bắc Từ Liêm
+Nha Trang,2014,76.9,Đông Nam Bộ,Cái Răng
+Nha Trang,2015,77.0,Đông Nam Bộ,Phú Nhuận
+Nha Trang,2016,79.4,Đông Nam Bộ,Cầu Giấy
+Nha Trang,2017,80.0,Đông Nam Bộ,Đống Đa
+Nha Trang,2018,78.0,Đông Nam Bộ,Quận 11
+Nha Trang,2019,76.1,Đông Nam Bộ,Quận 10
+Vũng Tàu,2006,77.0,Nam Trung Bộ,Quận 11
+Vũng Tàu,2007,78.0,Nam Trung Bộ,Nam Từ Liêm
+Vũng Tàu,2008,77.8,Nam Trung Bộ,Hai Bà Trưng
+Vũng Tàu,2009,79.6,Nam Trung Bộ,Bình Tân
+Vũng Tàu,2010,81.8,Nam Trung Bộ,Cẩm Lệ
+Vũng Tàu,2011,79.1,Nam Trung Bộ,Kiến An
+Vũng Tàu,2012,78.2,Nam Trung Bộ,Bắc Từ Liêm
+Vũng Tàu,2013,78.0,Nam Trung Bộ,Thốt Nốt
+Vũng Tàu,2014,77.6,Nam Trung Bộ,Hà Đông
+Vũng Tàu,2015,76.8,Nam Trung Bộ,Ba Đình
+Vũng Tàu,2016,78.5,Nam Trung Bộ,Quận 7
+Vũng Tàu,2017,78.5,Nam Trung Bộ,Hà Đông
+Vũng Tàu,2018,78.0,Nam Trung Bộ,Tân Bình
+Vũng Tàu,2019,76.8,Nam Trung Bộ,Lê Chân
+Cà Mau,2006,83.0,Đồng Bằng Sông Cửu Long,Quận 5
+Cà Mau,2007,83.0,Đồng Bằng Sông Cửu Long,Hồng Bàng
+Cà Mau,2008,83.2,Đồng Bằng Sông Cửu Long,Ô Môn
+Cà Mau,2009,82.3,Đồng Bằng Sông Cửu Long,Ngũ Hành Sơn
+Cà Mau,2010,84.0,Đồng Bằng Sông Cửu Long,Ô Môn
+Cà Mau,2011,79.5,Đồng Bằng Sông Cửu Long,Hoàn Kiếm
+Cà Mau,2012,81.3,Đồng Bằng Sông Cửu Long,Quận 7
+Cà Mau,2013,81.0,Đồng Bằng Sông Cửu Long,Hồng Bàng
+Cà Mau,2014,81.0,Đồng Bằng Sông Cửu Long,Tân Bình
+Cà Mau,2015,80.0,Đồng Bằng Sông Cửu Long,Quận 8
+Cà Mau,2016,80.6,Đồng Bằng Sông Cửu Long,Cầu Giấy
+Cà Mau,2017,80.8,Đồng Bằng Sông Cửu Long,Thốt Nốt
+Cà Mau,2018,80.7,Đồng Bằng Sông Cửu Long,Quận 3
+Cà Mau,2019,80.8,Đồng Bằng Sông Cửu Long,Hà Đông
