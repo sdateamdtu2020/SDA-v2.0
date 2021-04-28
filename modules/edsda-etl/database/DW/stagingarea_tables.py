@@ -27,7 +27,7 @@ ClimateSourceDataStaging = climate.gather_Elements(climate.createTable("ClimateS
         "City VARCHAR null",
         "CityID VARCHAR null",
         "District VARCHAR null",
-        "DistrictID INT null",
+        "DistrictID VARCHAR null",
         "YearID INT null",
         "Year int null",
         "Humidity double precision null",
@@ -43,7 +43,7 @@ PopulationSourceDataStaging = population.gather_Elements(population.createTable(
         "City VARCHAR null",
         "CityID VARCHAR null",
         "District VARCHAR null",
-        "DistrictID INT null",
+        "DistrictID VARCHAR null",
         "YearID INT null",
         "Year INT null",
         "Population double precision null"))
@@ -58,7 +58,7 @@ IndustrySourceDataStaging = industry.gather_Elements(industry.createTable("Indus
         "City VARCHAR null",
         "CityID VARCHAR null",
         "District VARCHAR null",
-        "DistrictID INT null",
+        "DistrictID VARCHAR null",
         "YearID int null",
         "Year INT null",
         "Industry double precision null"))

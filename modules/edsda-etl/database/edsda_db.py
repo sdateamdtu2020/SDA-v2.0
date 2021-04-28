@@ -9,3 +9,6 @@ create_table_queries = [DimDistrict_Table_Create, DimCity_Table_Create, DimArea_
 
 stagingAreaObjects = [forest, climate, population, industry ]
 
+dimensions_insert_queries = [DimYear_table_insert, update_year_staging_tables, DimDistrict_table_insert, DimCity_table_insert, DimArea_table_insert
+    , insert_fact_tables]
+
