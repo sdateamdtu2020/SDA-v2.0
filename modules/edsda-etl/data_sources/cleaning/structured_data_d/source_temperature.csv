@@ -1,0 +1,211 @@
+city,year,temperature,area,district
+Lai Châu,2006,23.3,Tây Bắc,Huyện Tam Đường
+Lai Châu,2007,23.2,Tây Bắc,Huyện Sìn Hồ
+Lai Châu,2008,23.0,Tây Bắc,Huyện Phong Thổ
+Lai Châu,2009,23.8,Tây Bắc,Huyện Nậm Nhùn
+Lai Châu,2010,24.0,Tây Bắc,Huyện Mường Tè
+Lai Châu,2011,23.6,Tây Bắc,Huyện Than Uyên
+Lai Châu,2012,20.2,Tây Bắc,Huyện Tam Đường
+Lai Châu,2013,19.9,Tây Bắc,Huyện Tân Uyên
+Lai Châu,2014,20.1,Tây Bắc,Huyện Sìn Hồ
+Lai Châu,2015,20.6,Tây Bắc,Huyện Sìn Hồ
+Lai Châu,2016,20.2,Tây Bắc,Huyện Phong Thổ
+Lai Châu,2017,19.7,Tây Bắc,Huyện Phong Thổ
+Lai Châu,2018,20.0,Tây Bắc,Huyện Nậm Nhùn
+Lai Châu,2019,20.9,Tây Bắc,Huyện Sìn Hồ
+Sơn La,2006,21.8,Tây Bắc,Thành phố Sơn La
+Sơn La,2007,21.5,Tây Bắc,Huyện Yên Châu
+Sơn La,2008,20.7,Tây Bắc,Huyện Phù Yên
+Sơn La,2009,21.9,Tây Bắc,Huyện Mộc Châu
+Sơn La,2010,22.1,Tây Bắc,Huyện Bắc Yên
+Sơn La,2011,20.6,Tây Bắc,Huyện Phù Yên
+Sơn La,2012,21.9,Tây Bắc,Huyện Bắc Yên
+Sơn La,2013,21.4,Tây Bắc,Huyện Sông Mã
+Sơn La,2014,21.8,Tây Bắc,Huyện Yên Châu
+Sơn La,2015,22.3,Tây Bắc,Huyện Vân Hồ
+Sơn La,2016,21.9,Tây Bắc,Thành phố Sơn La
+Sơn La,2017,21.7,Tây Bắc,Huyện Mường La
+Sơn La,2018,21.6,Tây Bắc,Huyện Mộc Châu
+Sơn La,2019,22.7,Tây Bắc,Huyện Bắc Yên
+Tuyên Quang,2006,24.0,Đông Bắc,Thành phố Tuyên Quang
+Tuyên Quang,2007,24.0,Đông Bắc,Huyện Lâm Bình
+Tuyên Quang,2008,23.2,Đông Bắc,Huyện Chiêm Hóa
+Tuyên Quang,2009,24.2,Đông Bắc,Huyện Yên Sơn
+Tuyên Quang,2010,24.2,Đông Bắc,Huyện Lâm Bình
+Tuyên Quang,2011,22.8,Đông Bắc,Huyện Lâm Bình
+Tuyên Quang,2012,23.8,Đông Bắc,Huyện Chiêm Hóa
+Tuyên Quang,2013,23.8,Đông Bắc,Huyện Chiêm Hóa
+Tuyên Quang,2014,24.0,Đông Bắc,Thành phố Tuyên Quang
+Tuyên Quang,2015,24.8,Đông Bắc,Huyện Lâm Bình
+Tuyên Quang,2016,24.4,Đông Bắc,Huyện Hàm Yên
+Tuyên Quang,2017,24.2,Đông Bắc,Huyện Hàm Yên
+Tuyên Quang,2018,24.4,Đông Bắc,Thành phố Tuyên Quang
+Tuyên Quang,2019,25.0,Đông Bắc,Thành phố Tuyên Quang
+Hà Nội,2006,24.7,Đồng Bằng Sông Hồng,Huyện Chương Mỹ
+Hà Nội,2007,24.6,Đồng Bằng Sông Hồng,Huyện Phúc Thọ
+Hà Nội,2008,23.7,Đồng Bằng Sông Hồng,Quận Hoàng Mai
+Hà Nội,2009,24.9,Đồng Bằng Sông Hồng,Huyện Ba Vì
+Hà Nội,2010,24.9,Đồng Bằng Sông Hồng,Quận Hai Bà Trưng
+Hà Nội,2011,23.3,Đồng Bằng Sông Hồng,Quận Thanh Xuân
+Hà Nội,2012,24.3,Đồng Bằng Sông Hồng,Huyện Phúc Thọ
+Hà Nội,2013,24.4,Đồng Bằng Sông Hồng,Quận Nam Từ Liêm
+Hà Nội,2014,24.6,Đồng Bằng Sông Hồng,Huyện Thanh Trì
+Hà Nội,2015,25.3,Đồng Bằng Sông Hồng,Huyện Phú Xuyên
+Hà Nội,2016,25.2,Đồng Bằng Sông Hồng,Quận Hai Bà Trưng
+Hà Nội,2017,25.1,Đồng Bằng Sông Hồng,Huyện Quốc Oai
+Hà Nội,2018,25.1,Đồng Bằng Sông Hồng,Huyện Hoài Đức
+Hà Nội,2019,25.9,Đồng Bằng Sông Hồng,Huyện Thanh Oai
+Bãi  Cháy,2006,23.9,Đông Bắc,Quận Phú Nhuận
+Bãi  Cháy,2007,23.8,Đông Bắc,Quận Cái Răng
+Bãi  Cháy,2008,23.1,Đông Bắc,Quận 8
+Bãi  Cháy,2009,24.0,Đông Bắc,Quận Bắc Từ Liêm
+Bãi  Cháy,2010,24.0,Đông Bắc,Quận Hoàn Kiếm
+Bãi  Cháy,2011,22.6,Đông Bắc,Huyện Nhà Bè
+Bãi  Cháy,2012,23.5,Đông Bắc,Quận 10
+Bãi  Cháy,2013,23.5,Đông Bắc,Quận Thanh Xuân
+Bãi  Cháy,2014,23.7,Đông Bắc,Huyện An Dương
+Bãi  Cháy,2015,24.4,Đông Bắc,Quận Hải An
+Bãi  Cháy,2016,24.0,Đông Bắc,Huyện Thường Tín
+Bãi  Cháy,2017,24.0,Đông Bắc,Huyện Thới Lai
+Bãi  Cháy,2018,24.0,Đông Bắc,Quận Bình Thuỷ
+Bãi  Cháy,2019,24.8,Đông Bắc,Quận 10
+Nam Định,2006,24.4,Đồng Bằng Sông Hồng,Huyện Mỹ Lộc
+Nam Định,2007,24.2,Đồng Bằng Sông Hồng,Thành phố Nam Định
+Nam Định,2008,23.3,Đồng Bằng Sông Hồng,Huyện Hải Hậu
+Nam Định,2009,24.4,Đồng Bằng Sông Hồng,Huyện Xuân Trường
+Nam Định,2010,24.6,Đồng Bằng Sông Hồng,Huyện Trực Ninh
+Nam Định,2011,22.9,Đồng Bằng Sông Hồng,Huyện Xuân Trường
+Nam Định,2012,24.0,Đồng Bằng Sông Hồng,Huyện Mỹ Lộc
+Nam Định,2013,23.8,Đồng Bằng Sông Hồng,Huyện Nghĩa Hưng
+Nam Định,2014,24.2,Đồng Bằng Sông Hồng,Huyện Ý Yên
+Nam Định,2015,25.0,Đồng Bằng Sông Hồng,Huyện Nam Trực
+Nam Định,2016,24.6,Đồng Bằng Sông Hồng,Huyện Giao Thủy
+Nam Định,2017,24.4,Đồng Bằng Sông Hồng,Huyện Ý Yên
+Nam Định,2018,24.5,Đồng Bằng Sông Hồng,Huyện Giao Thủy
+Nam Định,2019,25.3,Đồng Bằng Sông Hồng,Huyện Mỹ Lộc
+Vinh,2006,25.1,Đồng Bằng Sông Cửu Long,Huyện Ứng Hòa
+Vinh,2007,24.9,Đồng Bằng Sông Cửu Long,Quận Thủ Đức
+Vinh,2008,24.1,Đồng Bằng Sông Cửu Long,Huyện Phúc Thọ
+Vinh,2009,25.0,Đồng Bằng Sông Cửu Long,Quận Thủ Đức
+Vinh,2010,25.3,Đồng Bằng Sông Cửu Long,Huyện Cờ Đỏ
+Vinh,2011,23.3,Đồng Bằng Sông Cửu Long,Huyện Ứng Hòa
+Vinh,2012,24.8,Đồng Bằng Sông Cửu Long,Quận 4
+Vinh,2013,24.5,Đồng Bằng Sông Cửu Long,Huyện Vĩnh Bảo
+Vinh,2014,24.8,Đồng Bằng Sông Cửu Long,Huyện Nhà Bè
+Vinh,2015,25.5,Đồng Bằng Sông Cửu Long,Huyện Bình Chánh
+Vinh,2016,24.9,Đồng Bằng Sông Cửu Long,Quận Kiến An
+Vinh,2017,24.9,Đồng Bằng Sông Cửu Long,Huyện Thới Lai
+Vinh,2018,24.9,Đồng Bằng Sông Cửu Long,Huyện Kiến Thuỵ
+Vinh,2019,26.2,Đồng Bằng Sông Cửu Long,Quận Sơn Trà
+Huế,2006,25.4,Bắc Trung Bộ,Quận 10
+Huế,2007,25.0,Bắc Trung Bộ,Quận 5
+Huế,2008,24.2,Bắc Trung Bộ,Huyện Đan Phượng
+Huế,2009,25.0,Bắc Trung Bộ,Huyện Thường Tín
+Huế,2010,25.4,Bắc Trung Bộ,Quận Bình Thuỷ
+Huế,2011,23.8,Bắc Trung Bộ,Quận Tân Bình
+Huế,2012,25.3,Bắc Trung Bộ,Huyện Thạch Thất
+Huế,2013,25.0,Bắc Trung Bộ,Huyện Mê Linh
+Huế,2014,25.3,Bắc Trung Bộ,Quận Nam Từ Liêm
+Huế,2015,25.7,Bắc Trung Bộ,Quận 10
+Huế,2016,25.4,Bắc Trung Bộ,Huyện Quốc Oai
+Huế,2017,25.1,Bắc Trung Bộ,Quận Sơn Trà
+Huế,2018,25.1,Bắc Trung Bộ,Quận Hải Châu
+Huế,2019,26.4,Bắc Trung Bộ,Huyện Kiến Thuỵ
+Đà Nẵng,2006,26.3,Nam Trung Bộ,Quận Sơn Trà
+Đà Nẵng,2007,26.2,Nam Trung Bộ,Quận Cẩm Lệ
+Đà Nẵng,2008,25.5,Nam Trung Bộ,Quận Hải Châu
+Đà Nẵng,2009,26.3,Nam Trung Bộ,Quận Sơn Trà
+Đà Nẵng,2010,26.3,Nam Trung Bộ,Quận Cẩm Lệ
+Đà Nẵng,2011,25.2,Nam Trung Bộ,Huyện Hòa Vang
+Đà Nẵng,2012,26.5,Nam Trung Bộ,Quận Thanh Khê
+Đà Nẵng,2013,26.2,Nam Trung Bộ,Huyện Hòa Vang
+Đà Nẵng,2014,26.3,Nam Trung Bộ,Quận Ngũ Hành Sơn
+Đà Nẵng,2015,26.7,Nam Trung Bộ,Quận Sơn Trà
+Đà Nẵng,2016,26.6,Nam Trung Bộ,Quận Liên Chiểu
+Đà Nẵng,2017,26.5,Nam Trung Bộ,Quận Sơn Trà
+Đà Nẵng,2018,26.5,Nam Trung Bộ,Quận Hải Châu
+Đà Nẵng,2019,27.3,Nam Trung Bộ,Quận Liên Chiểu
+Qui Nhơn,2006,27.4,Đông Nam Bộ,Quận Dương Kinh
+Qui Nhơn,2007,27.0,Đông Nam Bộ,Huyện Hòa Vang
+Qui Nhơn,2008,26.8,Đông Nam Bộ,Quận Bình Tân
+Qui Nhơn,2009,27.2,Đông Nam Bộ,Quận Phú Nhuận
+Qui Nhơn,2010,27.4,Đông Nam Bộ,Huyện Mỹ Đức
+Qui Nhơn,2011,26.9,Đông Nam Bộ,Quận Đống Đa
+Qui Nhơn,2012,27.7,Đông Nam Bộ,Huyện Phong Điền
+Qui Nhơn,2013,27.2,Đông Nam Bộ,Quận Tân Phú
+Qui Nhơn,2014,27.2,Đông Nam Bộ,Quận Liên Chiểu
+Qui Nhơn,2015,27.5,Đông Nam Bộ,Huyện Quốc Oai
+Qui Nhơn,2016,27.4,Đông Nam Bộ,Quận 1
+Qui Nhơn,2017,27.4,Đông Nam Bộ,Huyện Bình Chánh
+Qui Nhơn,2018,27.6,Đông Nam Bộ,Quận Bình Tân
+Qui Nhơn,2019,28.1,Đông Nam Bộ,Quận Ngô Quyền
+Pleiku,2006,22.3,Đông Nam Bộ,Huyện Mê Linh
+Pleiku,2007,22.2,Đông Nam Bộ,Quận Hoàn Kiếm
+Pleiku,2008,21.8,Đông Nam Bộ,Huyện Tiên Lãng
+Pleiku,2009,22.0,Đông Nam Bộ,Quận Bắc Từ Liêm
+Pleiku,2010,22.0,Đông Nam Bộ,Quận Hoàn Kiếm
+Pleiku,2011,21.6,Đông Nam Bộ,Quận Long BiênQuận Cầu Giấy
+Pleiku,2012,22.5,Đông Nam Bộ,Huyện Mỹ Đức
+Pleiku,2013,22.4,Đông Nam Bộ,Huyện Thanh Oai
+Pleiku,2014,22.4,Đông Nam Bộ,Quận Ô Môn
+Pleiku,2015,22.9,Đông Nam Bộ,Quận Bình Thạnh
+Pleiku,2016,23.3,Đông Nam Bộ,Quận Cẩm Lệ
+Pleiku,2017,22.8,Đông Nam Bộ,Quận Kiến An
+Pleiku,2018,22.6,Đông Nam Bộ,Huyện Hòa Vang
+Pleiku,2019,22.9,Đông Nam Bộ,Quận Phú Nhuận
+Đà Lạt,2006,18.3,Nam Trung Bộ,Quận Ba Đình
+Đà Lạt,2007,18.1,Nam Trung Bộ,Quận Phú Nhuận
+Đà Lạt,2008,18.0,Nam Trung Bộ,Quận Ô Môn
+Đà Lạt,2009,18.2,Nam Trung Bộ,Huyện Phong Điền
+Đà Lạt,2010,18.2,Nam Trung Bộ,Huyện Nhà Bè
+Đà Lạt,2011,18.1,Nam Trung Bộ,Quận 5
+Đà Lạt,2012,18.5,Nam Trung Bộ,Huyện Thanh Oai
+Đà Lạt,2013,18.4,Nam Trung Bộ,Huyện Quốc Oai
+Đà Lạt,2014,18.2,Nam Trung Bộ,Huyện Cần Giờ
+Đà Lạt,2015,18.5,Nam Trung Bộ,Huyện Tiên Lãng
+Đà Lạt,2016,19.0,Nam Trung Bộ,Quận 7
+Đà Lạt,2017,18.7,Nam Trung Bộ,Huyện Thường Tín
+Đà Lạt,2018,18.4,Nam Trung Bộ,Huyện Vĩnh Bảo
+Đà Lạt,2019,18.5,Nam Trung Bộ,Quận Cái Răng
+Nha Trang,2006,27.2,Đông Nam Bộ,Huyện Quốc Oai
+Nha Trang,2007,26.7,Đông Nam Bộ,Huyện Ứng Hòa
+Nha Trang,2008,26.6,Đông Nam Bộ,Huyện Cờ Đỏ
+Nha Trang,2009,27.0,Đông Nam Bộ,Huyện Ba Vì
+Nha Trang,2010,27.4,Đông Nam Bộ,Quận Cái Răng
+Nha Trang,2011,26.7,Đông Nam Bộ,Quận Bình Thuỷ
+Nha Trang,2012,27.5,Đông Nam Bộ,Huyện Củ Chi
+Nha Trang,2013,27.2,Đông Nam Bộ,Huyện Thanh Oai
+Nha Trang,2014,27.1,Đông Nam Bộ,Huyện Phú Xuyên
+Nha Trang,2015,27.4,Đông Nam Bộ,Huyện Kiến Thuỵ
+Nha Trang,2016,27.5,Đông Nam Bộ,Quận Lê Chân
+Nha Trang,2017,27.4,Đông Nam Bộ,Quận Tân Bình
+Nha Trang,2018,27.4,Đông Nam Bộ,Quận Hồng Bàng
+Nha Trang,2019,27.9,Đông Nam Bộ,Quận Bình Thạnh
+Vũng Tàu,2006,28.0,Nam Trung Bộ,Quận Hồng Bàng
+Vũng Tàu,2007,27.8,Nam Trung Bộ,Huyện Ứng Hòa
+Vũng Tàu,2008,27.7,Nam Trung Bộ,Quận Ninh Kiều
+Vũng Tàu,2009,27.7,Nam Trung Bộ,Quận 1
+Vũng Tàu,2010,27.7,Nam Trung Bộ,Quận Hải An
+Vũng Tàu,2011,27.5,Nam Trung Bộ,Huyện Quốc Oai
+Vũng Tàu,2012,28.0,Nam Trung Bộ,Quận Kiến An
+Vũng Tàu,2013,28.0,Nam Trung Bộ,Quận Tân Phú
+Vũng Tàu,2014,27.9,Nam Trung Bộ,Huyện Thạch Thất
+Vũng Tàu,2015,28.1,Nam Trung Bộ,Quận Tây Hồ
+Vũng Tàu,2016,28.3,Nam Trung Bộ,Quận 11
+Vũng Tàu,2017,28.0,Nam Trung Bộ,Huyện Nhà Bè
+Vũng Tàu,2018,27.9,Nam Trung Bộ,Huyện Kiến Thuỵ
+Vũng Tàu,2019,28.2,Nam Trung Bộ,Quận Bình Thạnh
+Cà Mau,2006,27.6,Đồng Bằng Sông Cửu Long,Huyện Đầm Dơi
+Cà Mau,2007,27.5,Đồng Bằng Sông Cửu Long,Huyện Trần Văn Thời
+Cà Mau,2008,27.2,Đồng Bằng Sông Cửu Long,Thành phố Cà Mau
+Cà Mau,2009,27.5,Đồng Bằng Sông Cửu Long,Huyện Trần Văn Thời
+Cà Mau,2010,27.5,Đồng Bằng Sông Cửu Long,Huyện Phú Tân
+Cà Mau,2011,27.5,Đồng Bằng Sông Cửu Long,Huyện Trần Văn Thời
+Cà Mau,2012,27.7,Đồng Bằng Sông Cửu Long,Huyện Thới Bình
+Cà Mau,2013,27.8,Đồng Bằng Sông Cửu Long,Huyện Năm Căn
+Cà Mau,2014,27.7,Đồng Bằng Sông Cửu Long,Huyện Đầm Dơi
+Cà Mau,2015,28.0,Đồng Bằng Sông Cửu Long,Huyện Thới Bình
+Cà Mau,2016,28.2,Đồng Bằng Sông Cửu Long,Huyện Phú Tân
+Cà Mau,2017,27.9,Đồng Bằng Sông Cửu Long,Huyện Năm Căn
+Cà Mau,2018,27.9,Đồng Bằng Sông Cửu Long,Thành phố Cà Mau
+Cà Mau,2019,28.1,Đồng Bằng Sông Cửu Long,Huyện Ngọc Hiển

@@ -1,0 +1,672 @@
+city,year,sumOfForestAcreage,ratioForestCover,area,district
+Hà Nội,2008,23.0,6.6,Đồng Bằng Sông Hồng,Huyện Quốc Oai
+Hà Nội,2009,24.5,7.1,Đồng Bằng Sông Hồng,Quận Hai Bà Trưng
+Hà Nội,2010,24.3,7.0,Đồng Bằng Sông Hồng,Huyện Quốc Oai
+Hà Nội,2011,24.3,7.0,Đồng Bằng Sông Hồng,Quận Ba Đình
+Hà Nội,2012,24.5,7.1,Đồng Bằng Sông Hồng,Huyện Thường Tín
+Hà Nội,2013,23.8,6.8,Đồng Bằng Sông Hồng,Quận Bắc Từ Liêm
+Hà Nội,2014,23.7,6.8,Đồng Bằng Sông Hồng,Quận Nam Từ Liêm
+Hà Nội,2015,20.0,5.6,Đồng Bằng Sông Hồng,Quận Tây Hồ
+Hà Nội,2016,20.0,5.6,Đồng Bằng Sông Hồng,Huyện Ứng Hòa
+Hà Nội,2018,19.6,5.5,Đồng Bằng Sông Hồng,Quận Tây Hồ
+Hà Nội,2019,19.6,5.7,Đồng Bằng Sông Hồng,Huyện Đông Anh
+Vĩnh Phúc,2008,28.4,21.8,Đồng Bằng Sông Hồng,Huyện Tam Dương
+Vĩnh Phúc,2009,28.6,22.3,Đồng Bằng Sông Hồng,Huyện Sông Lô
+Vĩnh Phúc,2010,28.5,22.4,Đồng Bằng Sông Hồng,Huyện Yên Lạc
+Vĩnh Phúc,2011,28.2,22.1,Đồng Bằng Sông Hồng,Huyện Tam Đảo
+Vĩnh Phúc,2012,31.0,24.1,Đồng Bằng Sông Hồng,Huyện Vĩnh Tường
+Vĩnh Phúc,2013,31.9,25.0,Đồng Bằng Sông Hồng,Huyện Tam Dương
+Vĩnh Phúc,2014,31.8,24.9,Đồng Bằng Sông Hồng,Huyện Sông Lô
+Vĩnh Phúc,2015,33.3,24.1,Đồng Bằng Sông Hồng,Thành phố Vĩnh Yên
+Vĩnh Phúc,2016,33.3,23.8,Đồng Bằng Sông Hồng,Thị xã Phúc Yên
+Vĩnh Phúc,2018,33.5,24.4,Đồng Bằng Sông Hồng,Huyện Tam Dương
+Vĩnh Phúc,2019,33.2,24.7,Đồng Bằng Sông Hồng,Thị xã Phúc Yên
+Bắc Ninh,2008,0.6,0.5,Đồng Bằng Sông Hồng,Huyện Lương Tài
+Bắc Ninh,2009,0.6,0.7,Đồng Bằng Sông Hồng,Huyện Lương Tài
+Bắc Ninh,2010,0.6,0.7,Đồng Bằng Sông Hồng,Huyện Yên Phong
+Bắc Ninh,2011,0.6,0.7,Đồng Bằng Sông Hồng,Huyện Thuận Thành
+Bắc Ninh,2012,0.6,0.7,Đồng Bằng Sông Hồng,Huyện Thuận Thành
+Bắc Ninh,2013,0.6,0.7,Đồng Bằng Sông Hồng,Thành phố Bắc Ninh
+Bắc Ninh,2014,0.6,0.7,Đồng Bằng Sông Hồng,Huyện Tiên Du
+Bắc Ninh,2015,0.6,0.7,Đồng Bằng Sông Hồng,Thành phố Bắc Ninh
+Bắc Ninh,2016,0.6,0.7,Đồng Bằng Sông Hồng,Huyện Tiên Du
+Bắc Ninh,2018,0.6,0.7,Đồng Bằng Sông Hồng,Huyện Thuận Thành
+Bắc Ninh,2019,0.6,0.7,Đồng Bằng Sông Hồng,Huyện Gia Bình
+Quảng Ninh,2008,291.3,42.6,Đồng Bằng Sông Hồng,Huyện Bình Liêu
+Quảng Ninh,2009,301.8,44.4,Đồng Bằng Sông Hồng,Thành phố Cẩm Phả
+Quảng Ninh,2010,310.4,46.2,Đồng Bằng Sông Hồng,Thị xã Đông Triều
+Quảng Ninh,2011,316.6,47.7,Đồng Bằng Sông Hồng,Thị xã Đông Triều
+Quảng Ninh,2012,322.4,48.9,Đồng Bằng Sông Hồng,Thị xã Đông Triều
+Quảng Ninh,2013,340.7,53.0,Đồng Bằng Sông Hồng,Thành phố Uông Bí
+Quảng Ninh,2014,356.2,53.5,Đồng Bằng Sông Hồng,Thành phố Cẩm Phả
+Quảng Ninh,2015,369.9,53.6,Đồng Bằng Sông Hồng,Huyện Vân Đồn
+Quảng Ninh,2016,370.3,54.1,Đồng Bằng Sông Hồng,Huyện Đầm Hà
+Quảng Ninh,2018,370.4,54.7,Đồng Bằng Sông Hồng,Thị xã Quảng Yên
+Quảng Ninh,2019,370.3,54.8,Đồng Bằng Sông Hồng,Thị xã Đông Triều
+Hải Dương,2008,10.4,6.3,Đồng Bằng Sông Hồng,Huyện Thanh Miện
+Hải Dương,2009,10.3,6.2,Đồng Bằng Sông Hồng,Huyện Tứ Kỳ
+Hải Dương,2010,10.2,6.2,Đồng Bằng Sông Hồng,Huyện Kinh Môn
+Hải Dương,2011,10.4,6.3,Đồng Bằng Sông Hồng,Huyện Kinh Môn
+Hải Dương,2012,10.4,6.3,Đồng Bằng Sông Hồng,Huyện Bình Giang
+Hải Dương,2013,10.4,6.3,Đồng Bằng Sông Hồng,Huyện Thanh Miện
+Hải Dương,2014,11.1,6.0,Đồng Bằng Sông Hồng,Thị xã Chí Linh
+Hải Dương,2015,11.1,6.7,Đồng Bằng Sông Hồng,Huyện Tứ Kỳ
+Hải Dương,2016,9.1,5.2,Đồng Bằng Sông Hồng,Huyện Cẩm Giàng
+Hải Dương,2018,9.0,5.2,Đồng Bằng Sông Hồng,Huyện Kinh Môn
+Hải Dương,2019,9.0,5.1,Đồng Bằng Sông Hồng,Huyện Bình Giang
+Hải Phòng,2008,17.3,11.2,Đồng Bằng Sông Hồng,Quận Kiến An
+Hải Phòng,2009,17.8,11.2,Đồng Bằng Sông Hồng,Huyện Vĩnh Bảo
+Hải Phòng,2010,18.0,11.3,Đồng Bằng Sông Hồng,Huyện An Dương
+Hải Phòng,2011,18.0,11.3,Đồng Bằng Sông Hồng,Huyện An Lão
+Hải Phòng,2012,18.0,11.3,Đồng Bằng Sông Hồng,Huyện Kiến Thuỵ
+Hải Phòng,2013,18.0,11.3,Đồng Bằng Sông Hồng,Huyện Kiến Thuỵ
+Hải Phòng,2014,18.0,11.3,Đồng Bằng Sông Hồng,Quận Kiến An
+Hải Phòng,2015,18.3,11.3,Đồng Bằng Sông Hồng,Huyện Kiến Thuỵ
+Hải Phòng,2016,13.8,8.8,Đồng Bằng Sông Hồng,Quận Kiến An
+Hải Phòng,2018,13.9,8.5,Đồng Bằng Sông Hồng,Quận Ngô Quyền
+Hải Phòng,2019,13.8,8.5,Đồng Bằng Sông Hồng,Huyện An Lão
+Thái Bình,2008,7.5,4.4,Đồng Bằng Sông Hồng,Huyện Thái Thụy
+Thái Bình,2009,7.7,4.9,Đồng Bằng Sông Hồng,Huyện Kiến Xương
+Thái Bình,2010,7.3,4.8,Đồng Bằng Sông Hồng,Thành phố Thái Bình
+Thái Bình,2011,7.3,4.7,Đồng Bằng Sông Hồng,Thành phố Thái Bình
+Thái Bình,2012,5.7,3.6,Đồng Bằng Sông Hồng,Huyện Quỳnh Phụ
+Thái Bình,2013,5.7,3.6,Đồng Bằng Sông Hồng,Thành phố Thái Bình
+Thái Bình,2014,5.9,3.8,Đồng Bằng Sông Hồng,Huyện Hưng Hà
+Thái Bình,2015,3.6,2.1,Đồng Bằng Sông Hồng,Huyện Hưng Hà
+Thái Bình,2016,4.6,2.5,Đồng Bằng Sông Hồng,Huyện Kiến Xương
+Thái Bình,2018,4.2,2.2,Đồng Bằng Sông Hồng,Huyện Hưng Hà
+Thái Bình,2019,4.3,2.4,Đồng Bằng Sông Hồng,Huyện Hưng Hà
+Hà Nam,2008,8.0,9.3,Đồng Bằng Sông Hồng,Huyện Lý Nhân
+Hà Nam,2009,7.4,8.6,Đồng Bằng Sông Hồng,Huyện Lý Nhân
+Hà Nam,2010,4.8,5.3,Đồng Bằng Sông Hồng,Huyện Kim Bảng
+Hà Nam,2011,4.8,5.3,Đồng Bằng Sông Hồng,Huyện Thanh Liêm
+Hà Nam,2012,4.7,5.5,Đồng Bằng Sông Hồng,Huyện Lý Nhân
+Hà Nam,2013,4.8,5.5,Đồng Bằng Sông Hồng,Huyện Bình Lục
+Hà Nam,2014,4.8,5.4,Đồng Bằng Sông Hồng,Huyện Thanh Liêm
+Hà Nam,2015,5.5,6.4,Đồng Bằng Sông Hồng,Huyện Thanh Liêm
+Hà Nam,2016,5.5,6.2,Đồng Bằng Sông Hồng,Huyện Thanh Liêm
+Hà Nam,2018,5.4,6.3,Đồng Bằng Sông Hồng,Huyện Thanh Liêm
+Hà Nam,2019,5.4,6.2,Đồng Bằng Sông Hồng,Huyện Kim Bảng
+Nam Định,2008,2.8,1.7,Đồng Bằng Sông Hồng,Huyện Ý Yên
+Nam Định,2009,2.8,1.7,Đồng Bằng Sông Hồng,Huyện Mỹ Lộc
+Nam Định,2010,3.6,2.2,Đồng Bằng Sông Hồng,Huyện Vụ Bản
+Nam Định,2011,3.7,2.2,Đồng Bằng Sông Hồng,Huyện Nam Trực
+Nam Định,2012,3.5,2.1,Đồng Bằng Sông Hồng,Huyện Nam Trực
+Nam Định,2013,3.5,2.1,Đồng Bằng Sông Hồng,Huyện Giao Thủy
+Nam Định,2014,3.5,2.1,Đồng Bằng Sông Hồng,Huyện Trực Ninh
+Nam Định,2015,3.1,1.7,Đồng Bằng Sông Hồng,Huyện Ý Yên
+Nam Định,2016,3.1,1.7,Đồng Bằng Sông Hồng,Huyện Xuân Trường
+Nam Định,2018,3.1,1.8,Đồng Bằng Sông Hồng,Thành phố Nam Định
+Nam Định,2019,3.1,1.9,Đồng Bằng Sông Hồng,Huyện Ý Yên
+Ninh Bình,2008,27.1,18.8,Đồng Bằng Sông Hồng,Thành phố Tam Điệp
+Ninh Bình,2009,27.4,19.1,Đồng Bằng Sông Hồng,Huyện Hoa Lư
+Ninh Bình,2010,27.2,19.3,Đồng Bằng Sông Hồng,Huyện Hoa Lư
+Ninh Bình,2011,26.9,19.2,Đồng Bằng Sông Hồng,Thành phố Ninh Bình
+Ninh Bình,2012,26.9,19.3,Đồng Bằng Sông Hồng,Huyện Kim Sơn
+Ninh Bình,2013,26.6,19.1,Đồng Bằng Sông Hồng,Huyện Yên Mô
+Ninh Bình,2014,27.4,19.6,Đồng Bằng Sông Hồng,Huyện Kim Sơn
+Ninh Bình,2015,26.2,18.1,Đồng Bằng Sông Hồng,Huyện Yên Khánh
+Ninh Bình,2016,27.5,18.8,Đồng Bằng Sông Hồng,Huyện Nho Quan
+Ninh Bình,2018,27.3,19.3,Đồng Bằng Sông Hồng,Thành phố Ninh Bình
+Ninh Bình,2019,27.6,19.3,Đồng Bằng Sông Hồng,Huyện Hoa Lư
+Hà Giang,2008,422.4,52.6,Đông Bắc,Huyện Quang Bình
+Hà Giang,2009,427.5,51.6,Đông Bắc,Huyện Yên Minh
+Hà Giang,2010,444.9,53.3,Đông Bắc,Huyện Mèo Vạc
+Hà Giang,2011,447.9,54.2,Đông Bắc,Huyện Yên Minh
+Hà Giang,2012,447.9,55.2,Đông Bắc,Huyện Mèo Vạc
+Hà Giang,2013,437.2,54.3,Đông Bắc,Huyện Mèo Vạc
+Hà Giang,2014,437.0,54.3,Đông Bắc,Huyện Quản Bạ
+Hà Giang,2015,455.6,56.3,Đông Bắc,Huyện Quang Bình
+Hà Giang,2016,448.9,55.1,Đông Bắc,Huyện Đồng Văn
+Hà Giang,2018,459.2,56.5,Đông Bắc,Huyện Hoàng Su Phì
+Hà Giang,2019,470.1,58.0,Đông Bắc,Huyện Bắc Mê
+Cao Bằng,2008,333.5,49.5,Đông Bắc,Huyện Hạ Lang
+Cao Bằng,2009,334.9,49.8,Đông Bắc,Huyện Thạch An
+Cao Bằng,2010,336.8,50.0,Đông Bắc,Thành phố Cao Bằng
+Cao Bằng,2011,338.3,50.4,Đông Bắc,Huyện Phục Hoà
+Cao Bằng,2012,339.0,50.5,Đông Bắc,Huyện Phục Hoà
+Cao Bằng,2013,339.5,50.5,Đông Bắc,Huyện Hà Quảng
+Cao Bằng,2014,339.2,50.5,Đông Bắc,Huyện Hạ Lang
+Cao Bằng,2015,360.5,53.5,Đông Bắc,Thành phố Cao Bằng
+Cao Bằng,2016,360.8,53.5,Đông Bắc,Thành phố Cao Bằng
+Cao Bằng,2018,367.9,54.4,Đông Bắc,Huyện Trùng Khánh
+Cao Bằng,2019,373.3,55.2,Đông Bắc,Huyện Hạ Lang
+Bắc Kạn,2008,274.3,55.7,Đông Bắc,Huyện Bạch Thông
+Bắc Kạn,2009,281.3,56.6,Đông Bắc,Huyện Pác Nặm
+Bắc Kạn,2010,288.1,57.5,Đông Bắc,Huyện Ba Bể
+Bắc Kạn,2011,296.9,58.7,Đông Bắc,Huyện Na Rì
+Bắc Kạn,2012,367.5,70.6,Đông Bắc,Huyện Pác Nặm
+Bắc Kạn,2013,368.9,70.8,Đông Bắc,Huyện Ngân Sơn
+Bắc Kạn,2014,370.0,70.8,Đông Bắc,Huyện Bạch Thông
+Bắc Kạn,2015,370.2,71.0,Đông Bắc,Huyện Bạch Thông
+Bắc Kạn,2016,370.4,71.4,Đông Bắc,Huyện Na Rì
+Bắc Kạn,2018,371.9,72.6,Đông Bắc,Huyện Bạch Thông
+Bắc Kạn,2019,371.9,72.9,Đông Bắc,Huyện Ngân Sơn
+Tuyên Quang,2008,386.1,62.5,Đông Bắc,Huyện Lâm Bình
+Tuyên Quang,2009,386.1,62.8,Đông Bắc,Huyện Hàm Yên
+Tuyên Quang,2010,390.1,64.1,Đông Bắc,Huyện Yên Sơn
+Tuyên Quang,2011,397.4,64.2,Đông Bắc,Huyện Lâm Bình
+Tuyên Quang,2012,405.5,64.3,Đông Bắc,Huyện Yên Sơn
+Tuyên Quang,2013,408.6,64.5,Đông Bắc,Huyện Sơn Dương
+Tuyên Quang,2014,415.6,64.7,Đông Bắc,Huyện Yên Sơn
+Tuyên Quang,2015,415.6,64.8,Đông Bắc,Huyện Lâm Bình
+Tuyên Quang,2016,417.0,64.7,Đông Bắc,Huyện Sơn Dương
+Tuyên Quang,2018,422.5,65.0,Đông Bắc,Huyện Hàm Yên
+Tuyên Quang,2019,424.7,65.2,Đông Bắc,Huyện Chiêm Hóa
+Lào Cai,2008,314.9,47.8,Tây Bắc,Huyện Văn Bàn
+Lào Cai,2009,323.3,49.4,Tây Bắc,Huyện Bảo Yên
+Lào Cai,2010,327.8,50.1,Tây Bắc,Huyện Si Ma Cai
+Lào Cai,2011,333.6,50.8,Tây Bắc,Huyện Văn Bàn
+Lào Cai,2012,334.9,51.2,Tây Bắc,Huyện Sa Pa
+Lào Cai,2013,344.3,52.0,Tây Bắc,Huyện Sa Pa
+Lào Cai,2014,351.4,52.8,Tây Bắc,Huyện Mường Khương
+Lào Cai,2015,348.3,53.1,Tây Bắc,Huyện Mường Khương
+Lào Cai,2016,353.0,53.8,Tây Bắc,Huyện Văn Bàn
+Lào Cai,2018,361.1,54.8,Tây Bắc,Thành phố Lào Cai
+Lào Cai,2019,367.5,55.6,Tây Bắc,Huyện Bảo Thắng
+Yên Bái,2008,400.2,56.3,Tây Bắc,Huyện Trạm Tấu
+Yên Bái,2009,404.4,56.9,Tây Bắc,Thị xã Nghĩa Lộ
+Yên Bái,2010,410.7,57.7,Tây Bắc,Huyện Văn Yên
+Yên Bái,2011,410.8,58.1,Tây Bắc,Huyện Lục Yên
+Yên Bái,2012,414.6,58.8,Tây Bắc,Huyện Trạm Tấu
+Yên Bái,2013,407.8,57.5,Tây Bắc,Thành phố Yên Bái
+Yên Bái,2014,430.9,60.4,Tây Bắc,Thành phố Yên Bái
+Yên Bái,2015,453.1,62.2,Tây Bắc,Huyện Yên Bình
+Yên Bái,2016,454.8,62.5,Tây Bắc,Huyện Trạm Tấu
+Yên Bái,2018,464.2,63.0,Tây Bắc,Huyện Lục Yên
+Yên Bái,2019,462.3,63.0,Tây Bắc,Huyện Trạm Tấu
+Thái Nguyên,2008,167.9,45.3,Đông Bắc,Thị xã Phổ Yên
+Thái Nguyên,2009,171.7,45.7,Đông Bắc,Huyện Đồng Hỷ
+Thái Nguyên,2010,175.1,46.0,Đông Bắc,Huyện Phú Bình
+Thái Nguyên,2011,177.8,46.6,Đông Bắc,Huyện Phú Lương
+Thái Nguyên,2012,178.8,47.2,Đông Bắc,Huyện Đại Từ
+Thái Nguyên,2013,181.0,47.8,Đông Bắc,Thành phố Thái Nguyên
+Thái Nguyên,2014,182.7,47.9,Đông Bắc,Huyện Đại Từ
+Thái Nguyên,2015,185.5,48.8,Đông Bắc,Huyện Đồng Hỷ
+Thái Nguyên,2016,186.5,47.1,Đông Bắc,Huyện Định Hóa
+Thái Nguyên,2018,187.4,46.5,Đông Bắc,Thành phố Thái Nguyên
+Thái Nguyên,2019,187.5,47.6,Đông Bắc,Huyện Võ Nhai
+Lạng Sơn,2008,382.4,44.1,Đông Bắc,Huyện Văn Lãng
+Lạng Sơn,2009,393.9,45.1,Đông Bắc,Huyện Cao Lộc
+Lạng Sơn,2010,409.4,46.4,Đông Bắc,Huyện Văn Quan
+Lạng Sơn,2011,418.9,47.6,Đông Bắc,Huyện Chi Lăng
+Lạng Sơn,2012,435.1,49.6,Đông Bắc,Huyện Cao Lộc
+Lạng Sơn,2013,448.2,50.9,Đông Bắc,Huyện Văn Quan
+Lạng Sơn,2014,467.2,54.5,Đông Bắc,Huyện Chi Lăng
+Lạng Sơn,2015,513.8,60.6,Đông Bắc,Huyện Đình Lập
+Lạng Sơn,2016,522.5,60.5,Đông Bắc,Huyện Cao Lộc
+Lạng Sơn,2018,533.0,62.4,Đông Bắc,Huyện Bắc Sơn
+Lạng Sơn,2019,531.7,62.4,Đông Bắc,Huyện Tràng Định
+Bắc Giang,2008,156.9,36.5,Đông Bắc,Huyện Yên Thế
+Bắc Giang,2009,159.0,37.6,Đông Bắc,Huyện Tân Yên
+Bắc Giang,2010,127.3,29.4,Đông Bắc,Huyện Tân Yên
+Bắc Giang,2011,144.4,34.1,Đông Bắc,Huyện Sơn Động
+Bắc Giang,2012,145.7,35.5,Đông Bắc,Huyện Yên Thế
+Bắc Giang,2013,149.4,36.5,Đông Bắc,Huyện Việt Yên
+Bắc Giang,2014,152.4,37.0,Đông Bắc,Huyện Lục Nam
+Bắc Giang,2015,156.4,36.4,Đông Bắc,Huyện Lục Ngạn
+Bắc Giang,2016,159.0,37.2,Đông Bắc,Huyện Tân Yên
+Bắc Giang,2018,160.3,37.6,Đông Bắc,Huyện Lạng Giang
+Bắc Giang,2019,160.5,37.8,Đông Bắc,Thành phố Bắc Giang
+Phú Thọ,2008,175.4,47.8,Tây Bắc,Huyện Cẩm Khê
+Phú Thọ,2009,178.9,48.8,Tây Bắc,Thị xã Phú Thọ
+Phú Thọ,2010,183.1,49.4,Tây Bắc,Huyện Đoan Hùng
+Phú Thọ,2011,182.7,50.0,Tây Bắc,Huyện Tam Nông
+Phú Thọ,2012,184.6,50.6,Tây Bắc,Huyện Thanh Thuỷ
+Phú Thọ,2013,184.6,50.4,Tây Bắc,Huyện Yên Lập
+Phú Thọ,2014,185.8,50.6,Tây Bắc,Huyện Yên Lập
+Phú Thọ,2015,170.5,39.3,Tây Bắc,Huyện Thanh Thuỷ
+Phú Thọ,2016,170.8,39.4,Tây Bắc,Huyện Đoan Hùng
+Phú Thọ,2018,171.7,39.6,Tây Bắc,Huyện Tam Nông
+Phú Thọ,2019,171.6,39.7,Tây Bắc,Huyện Phù Ninh
+Điện Biên,2008,397.1,41.6,Tây Bắc,Huyện Tủa Chùa
+Điện Biên,2009,394.6,41.0,Tây Bắc,Huyện Điện Biên
+Điện Biên,2010,347.2,36.2,Tây Bắc,Huyện Nậm Pồ
+Điện Biên,2011,350.5,36.6,Tây Bắc,Huyện Tuần Giáo
+Điện Biên,2012,393.3,40.2,Tây Bắc,Thị Xã Mường Lay
+Điện Biên,2013,400.0,40.9,Tây Bắc,Huyện Tuần Giáo
+Điện Biên,2014,401.7,41.3,Tây Bắc,Huyện Tủa Chùa
+Điện Biên,2015,368.3,38.4,Tây Bắc,Thành phố Điện Biên Phủ
+Điện Biên,2016,368.8,38.5,Tây Bắc,Huyện Điện Biên Đông
+Điện Biên,2018,381.6,39.8,Tây Bắc,Huyện Điện Biên
+Điện Biên,2019,406.3,42.2,Tây Bắc,Thị Xã Mường Lay
+Lai Châu,2008,349.9,38.1,Tây Bắc,Huyện Tam Đường
+Lai Châu,2009,363.4,39.4,Tây Bắc,Huyện Sìn Hồ
+Lai Châu,2010,383.6,41.2,Tây Bắc,Huyện Nậm Nhùn
+Lai Châu,2011,391.0,41.7,Tây Bắc,Thành phố Lai Châu
+Lai Châu,2012,403.1,43.7,Tây Bắc,Huyện Mường Tè
+Lai Châu,2013,409.9,43.8,Tây Bắc,Huyện Tam Đường
+Lai Châu,2014,419.4,45.0,Tây Bắc,Huyện Phong Thổ
+Lai Châu,2015,416.4,45.4,Tây Bắc,Huyện Tam Đường
+Lai Châu,2016,420.8,46.8,Tây Bắc,Huyện Phong Thổ
+Lai Châu,2018,445.3,49.3,Tây Bắc,Huyện Sìn Hồ
+Lai Châu,2019,454.8,50.2,Tây Bắc,Huyện Mường Tè
+Sơn La,2008,583.5,41.2,Tây Bắc,Huyện Sốp Cộp
+Sơn La,2009,587.0,41.3,Tây Bắc,Huyện Thuận Châu
+Sơn La,2010,625.8,44.1,Tây Bắc,Huyện Thuận Châu
+Sơn La,2011,633.7,44.6,Tây Bắc,Huyện Phù Yên
+Sơn La,2012,635.2,44.7,Tây Bắc,Huyện Mộc Châu
+Sơn La,2013,635.9,44.7,Tây Bắc,Huyện Yên Châu
+Sơn La,2014,633.7,44.6,Tây Bắc,Thành phố Sơn La
+Sơn La,2015,601.1,42.3,Tây Bắc,Huyện Thuận Châu
+Sơn La,2016,599.0,42.4,Tây Bắc,Huyện Yên Châu
+Sơn La,2018,619.8,43.5,Tây Bắc,Huyện Vân Hồ
+Sơn La,2019,634.5,44.5,Tây Bắc,Huyện Quỳnh Nhai
+Hoà Bình,2008,213.9,42.2,Tây Bắc,Huyện Kim Bôi
+Hoà Bình,2009,227.5,45.5,Tây Bắc,Huyện Kỳ Sơn
+Hoà Bình,2010,225.0,0.5,Tây Bắc,Huyện Kim Bôi
+Hoà Bình,2011,222.6,45.8,Tây Bắc,Huyện Tân Lạc
+Hoà Bình,2012,240.0,49.3,Tây Bắc,Huyện Lạc Thủy
+Hoà Bình,2013,244.0,49.4,Tây Bắc,Huyện Lương Sơn
+Hoà Bình,2014,242.8,48.9,Tây Bắc,Huyện Đà Bắc
+Hoà Bình,2015,267.3,51.0,Tây Bắc,Thành phố Hòa Bình
+Hoà Bình,2016,265.7,51.1,Tây Bắc,Huyện Yên Thủy
+Hoà Bình,2018,257.5,51.5,Tây Bắc,Huyện Đà Bắc
+Hoà Bình,2019,261.8,51.5,Tây Bắc,Huyện Mai Châu
+Thanh Hoá,2008,527.1,46.1,Bắc Trung Bộ,Huyện Nga Sơn
+Thanh Hoá,2009,534.7,46.7,Bắc Trung Bộ,Huyện Hậu Lộc
+Thanh Hoá,2010,545.0,49.0,Bắc Trung Bộ,Huyện Bá Thước
+Thanh Hoá,2011,551.3,49.1,Bắc Trung Bộ,Huyện Quan Sơn
+Thanh Hoá,2012,565.2,50.5,Bắc Trung Bộ,Huyện Thọ Xuân
+Thanh Hoá,2013,576.5,51.0,Bắc Trung Bộ,Huyện Ngọc Lặc
+Thanh Hoá,2014,583.6,51.5,Bắc Trung Bộ,Huyện Ngọc Lặc
+Thanh Hoá,2015,626.7,52.8,Bắc Trung Bộ,Huyện Thiệu Hóa
+Thanh Hoá,2016,626.7,52.9,Bắc Trung Bộ,Huyện Hà Trung
+Thanh Hoá,2018,633.2,53.0,Bắc Trung Bộ,Huyện Nông Cống
+Thanh Hoá,2019,641.9,53.4,Bắc Trung Bộ,Huyện Đông Sơn
+Nghệ An,2008,807.2,47.8,Bắc Trung Bộ,Huyện Yên Thành
+Nghệ An,2009,854.2,51.0,Bắc Trung Bộ,Huyện Đô Lương
+Nghệ An,2010,874.5,52.3,Bắc Trung Bộ,Huyện Quế Phong
+Nghệ An,2011,884.0,53.1,Bắc Trung Bộ,Huyện Nam Đàn
+Nghệ An,2012,885.2,53.3,Bắc Trung Bộ,Huyện Nghĩa Đàn
+Nghệ An,2013,899.9,54.0,Bắc Trung Bộ,Thành phố Vinh
+Nghệ An,2014,902.2,54.6,Bắc Trung Bộ,Thành phố Vinh
+Nghệ An,2015,987.8,57.2,Bắc Trung Bộ,Huyện Hưng Nguyên
+Nghệ An,2016,988.5,57.0,Bắc Trung Bộ,Huyện Quế Phong
+Nghệ An,2018,992.4,58.0,Bắc Trung Bộ,Thị xã Thái Hoà
+Nghệ An,2019,996.8,58.5,Bắc Trung Bộ,Huyện Tương Dương
+Hà Tĩnh,2008,308.0,48.6,Bắc Trung Bộ,Quận Cái Răng
+Hà Tĩnh,2009,312.1,49.1,Bắc Trung Bộ,Huyện Quốc Oai
+Hà Tĩnh,2010,318.2,50.2,Bắc Trung Bộ,Huyện Cần Giờ
+Hà Tĩnh,2011,321.4,51.4,Bắc Trung Bộ,Huyện Thường Tín
+Hà Tĩnh,2012,327.3,49.5,Bắc Trung Bộ,Quận 8
+Hà Tĩnh,2013,336.3,50.3,Bắc Trung Bộ,Huyện Cờ Đỏ
+Hà Tĩnh,2014,328.0,52.5,Bắc Trung Bộ,Huyện Đan Phượng
+Hà Tĩnh,2015,326.2,52.6,Bắc Trung Bộ,Huyện Cờ Đỏ
+Hà Tĩnh,2016,325.5,52.4,Bắc Trung Bộ,Quận Phú Nhuận
+Hà Tĩnh,2018,328.3,52.2,Bắc Trung Bộ,Thị xã Sơn Tây
+Hà Tĩnh,2019,328.9,52.5,Bắc Trung Bộ,Quận Ngô Quyền
+Quảng Bình,2008,545.8,66.9,Bắc Trung Bộ,Huyện Bố Trạch
+Quảng Bình,2009,548.7,66.6,Bắc Trung Bộ,Thành Phố Đồng Hới
+Quảng Bình,2010,548.3,66.9,Bắc Trung Bộ,Huyện Lệ Thủy
+Quảng Bình,2011,549.5,67.0,Bắc Trung Bộ,Thành Phố Đồng Hới
+Quảng Bình,2012,574.9,70.1,Bắc Trung Bộ,Thị xã Ba Đồn
+Quảng Bình,2013,555.6,67.4,Bắc Trung Bộ,Thành Phố Đồng Hới
+Quảng Bình,2014,561.6,67.6,Bắc Trung Bộ,Huyện Bố Trạch
+Quảng Bình,2015,563.4,67.5,Bắc Trung Bộ,Thị xã Ba Đồn
+Quảng Bình,2016,591.4,67.5,Bắc Trung Bộ,Huyện Lệ Thủy
+Quảng Bình,2018,585.2,67.4,Bắc Trung Bộ,Huyện Lệ Thủy
+Quảng Bình,2019,585.2,67.8,Bắc Trung Bộ,Huyện Bố Trạch
+Quảng Trị,2008,218.7,45.4,Bắc Trung Bộ,Huyện Triệu Phong
+Quảng Trị,2009,220.8,45.7,Bắc Trung Bộ,Huyện Triệu Phong
+Quảng Trị,2010,226.5,46.7,Bắc Trung Bộ,Huyện Triệu Phong
+Quảng Trị,2011,229.8,47.1,Bắc Trung Bộ,Huyện Vĩnh Linh
+Quảng Trị,2012,231.7,47.6,Bắc Trung Bộ,Huyện Gio Linh
+Quảng Trị,2013,236.0,48.0,Bắc Trung Bộ,Huyện Triệu Phong
+Quảng Trị,2014,241.1,48.6,Bắc Trung Bộ,Thành phố Đông Hà
+Quảng Trị,2015,242.3,49.5,Bắc Trung Bộ,Huyện Hướng Hóa
+Quảng Trị,2016,254.3,49.6,Bắc Trung Bộ,Thành phố Đông Hà
+Quảng Trị,2018,253.5,50.1,Bắc Trung Bộ,Thị xã Quảng Trị
+Quảng Trị,2019,253.0,50.1,Bắc Trung Bộ,Huyện Gio Linh
+Thừa Thiên Huế,2008,293.2,55.0,Bắc Trung Bộ,Huyện A Lưới
+Thừa Thiên Huế,2009,294.3,56.2,Bắc Trung Bộ,Huyện A Lưới
+Thừa Thiên Huế,2010,294.7,56.5,Bắc Trung Bộ,Thị xã Hương Thủy
+Thừa Thiên Huế,2011,294.7,56.7,Bắc Trung Bộ,Huyện Quảng Điền
+Thừa Thiên Huế,2012,295.0,56.7,Bắc Trung Bộ,Huyện Nam Đông
+Thừa Thiên Huế,2013,296.1,56.6,Bắc Trung Bộ,Thị xã Hương Trà
+Thừa Thiên Huế,2014,297.8,56.6,Bắc Trung Bộ,Thị xã Hương Thủy
+Thừa Thiên Huế,2015,298.6,56.9,Bắc Trung Bộ,Thành phố Huế
+Thừa Thiên Huế,2016,312.3,56.3,Bắc Trung Bộ,Huyện Phú Lộc
+Thừa Thiên Huế,2018,311.1,57.3,Bắc Trung Bộ,Huyện Phú Lộc
+Thừa Thiên Huế,2019,311.2,57.4,Bắc Trung Bộ,Huyện Phong Điền
+Đà Nẵng,2008,56.6,36.4,Nam Trung Bộ,Quận Sơn Trà
+Đà Nẵng,2009,47.0,33.1,Nam Trung Bộ,Huyện Hòa Vang
+Đà Nẵng,2010,51.3,38.8,Nam Trung Bộ,Quận Liên Chiểu
+Đà Nẵng,2011,59.9,46.0,Nam Trung Bộ,Quận Thanh Khê
+Đà Nẵng,2012,59.9,45.2,Nam Trung Bộ,Huyện Hòa Vang
+Đà Nẵng,2013,56.0,43.5,Nam Trung Bộ,Quận Sơn Trà
+Đà Nẵng,2014,54.9,40.8,Nam Trung Bộ,Quận Thanh Khê
+Đà Nẵng,2015,58.1,42.4,Nam Trung Bộ,Quận Thanh Khê
+Đà Nẵng,2016,62.6,43.6,Nam Trung Bộ,Quận Ngũ Hành Sơn
+Đà Nẵng,2018,62.8,46.7,Nam Trung Bộ,Quận Sơn Trà
+Đà Nẵng,2019,63.6,47.0,Nam Trung Bộ,Quận Thanh Khê
+Quảng Nam,2008,457.2,43.1,Nam Trung Bộ,Huyện Phước Sơn
+Quảng Nam,2009,465.4,43.5,Nam Trung Bộ,Huyện Bắc Trà My
+Quảng Nam,2010,512.5,48.2,Nam Trung Bộ,Huyện Quế Sơn
+Quảng Nam,2011,513.8,48.3,Nam Trung Bộ,Huyện Nam Trà My
+Quảng Nam,2012,517.1,48.6,Nam Trung Bộ,Huyện Thăng Bình
+Quảng Nam,2013,546.2,49.4,Nam Trung Bộ,Huyện Phú Ninh
+Quảng Nam,2014,550.3,44.9,Nam Trung Bộ,Huyện Tiên Phước
+Quảng Nam,2015,552.1,51.5,Nam Trung Bộ,Huyện Nam Trà My
+Quảng Nam,2016,680.4,56.9,Nam Trung Bộ,Huyện Nam Giang
+Quảng Nam,2018,680.6,58.6,Nam Trung Bộ,Huyện Hiệp Đức
+Quảng Nam,2019,682.2,59.4,Nam Trung Bộ,Huyện Đông Giang
+Quảng Ngãi,2008,231.7,41.6,Nam Trung Bộ,Huyện Sơn Tây
+Quảng Ngãi,2009,234.8,41.7,Nam Trung Bộ,Huyện Tư Nghĩa
+Quảng Ngãi,2010,250.1,43.9,Nam Trung Bộ,Huyện Lý Sơn
+Quảng Ngãi,2011,255.6,45.3,Nam Trung Bộ,Thành phố Quảng Ngãi
+Quảng Ngãi,2012,261.6,46.6,Nam Trung Bộ,Huyện Trà Bồng
+Quảng Ngãi,2013,277.9,48.3,Nam Trung Bộ,Huyện Sơn Hà
+Quảng Ngãi,2014,294.1,49.8,Nam Trung Bộ,Thành phố Quảng Ngãi
+Quảng Ngãi,2015,310.2,51.1,Nam Trung Bộ,Thành phố Quảng Ngãi
+Quảng Ngãi,2016,344.9,49.1,Nam Trung Bộ,Huyện Tư Nghĩa
+Quảng Ngãi,2018,334.3,49.6,Nam Trung Bộ,Huyện Đức Phổ
+Quảng Ngãi,2019,333.4,51.6,Nam Trung Bộ,Huyện Minh Long
+Bình Định,2008,261.9,41.2,Nam Trung Bộ,Huyện Hoài Nhơn
+Bình Định,2009,272.0,43.6,Nam Trung Bộ,Huyện Hoài Nhơn
+Bình Định,2010,287.5,45.8,Nam Trung Bộ,Huyện Vĩnh Thạnh
+Bình Định,2011,299.4,47.2,Nam Trung Bộ,Huyện Phù Mỹ
+Bình Định,2012,304.7,48.2,Nam Trung Bộ,Thị xã An Nhơn
+Bình Định,2013,311.9,48.8,Nam Trung Bộ,Thị xã An Nhơn
+Bình Định,2014,316.6,49.9,Nam Trung Bộ,Huyện Phù Cát
+Bình Định,2015,329.5,52.2,Nam Trung Bộ,Huyện Vân Canh
+Bình Định,2016,383.6,52.5,Nam Trung Bộ,Huyện Phù Cát
+Bình Định,2018,383.1,54.9,Nam Trung Bộ,Huyện Hoài Ân
+Bình Định,2019,380.6,55.2,Nam Trung Bộ,Huyện Phù Cát
+Phú Yên,2008,163.9,31.8,Nam Trung Bộ,Thị xã Sông Cầu
+Phú Yên,2009,173.6,33.8,Nam Trung Bộ,Thành phố Tuy Hoà
+Phú Yên,2010,178.5,34.4,Nam Trung Bộ,Huyện Đồng Xuân
+Phú Yên,2011,181.7,35.1,Nam Trung Bộ,Thành phố Tuy Hoà
+Phú Yên,2012,181.4,35.1,Nam Trung Bộ,Huyện Đông Hòa
+Phú Yên,2013,182.0,35.2,Nam Trung Bộ,Huyện Đông Hòa
+Phú Yên,2014,183.5,35.2,Nam Trung Bộ,Huyện Tuy An
+Phú Yên,2015,194.6,36.4,Nam Trung Bộ,Huyện Đồng Xuân
+Phú Yên,2016,232.2,38.2,Nam Trung Bộ,Huyện Sơn Hòa
+Phú Yên,2018,231.5,43.4,Nam Trung Bộ,Huyện Đồng Xuân
+Phú Yên,2019,236.9,44.0,Nam Trung Bộ,Thị xã Sông Cầu
+Khánh Hoà,2008,194.4,40.8,Nam Trung Bộ,Huyện Diên Khánh
+Khánh Hoà,2009,202.6,42.7,Nam Trung Bộ,Huyện Trường Sa
+Khánh Hoà,2010,204.5,43.2,Nam Trung Bộ,Huyện Khánh Vĩnh
+Khánh Hoà,2011,206.1,39.3,Nam Trung Bộ,Huyện Cam Lâm
+Khánh Hoà,2012,211.5,40.5,Nam Trung Bộ,Thị xã Ninh Hòa
+Khánh Hoà,2013,212.9,40.6,Nam Trung Bộ,Thành phố Nha Trang
+Khánh Hoà,2014,214.0,40.8,Nam Trung Bộ,Huyện Diên Khánh
+Khánh Hoà,2015,215.0,40.9,Nam Trung Bộ,Huyện Trường Sa
+Khánh Hoà,2016,249.0,46.0,Nam Trung Bộ,Huyện Diên Khánh
+Khánh Hoà,2018,247.1,45.8,Nam Trung Bộ,Huyện Vạn Ninh
+Khánh Hoà,2019,244.0,45.5,Nam Trung Bộ,Huyện Cam Lâm
+Ninh Thuận,2008,147.4,43.9,Đông Nam Bộ,Huyện Ninh Sơn
+Ninh Thuận,2009,147.9,43.7,Đông Nam Bộ,Huyện Thuận Nam
+Ninh Thuận,2010,148.7,43.6,Đông Nam Bộ,Huyện Ninh Phước
+Ninh Thuận,2011,149.0,43.5,Đông Nam Bộ,Huyện Ninh Sơn
+Ninh Thuận,2012,148.6,43.7,Đông Nam Bộ,Huyện Ninh Sơn
+Ninh Thuận,2013,148.7,44.0,Đông Nam Bộ,Huyện Ninh Sơn
+Ninh Thuận,2014,148.8,44.2,Đông Nam Bộ,Huyện Ninh Hải
+Ninh Thuận,2015,148.9,44.1,Đông Nam Bộ,Huyện Thuận Bắc
+Ninh Thuận,2016,144.4,42.3,Đông Nam Bộ,Huyện Bác Ái
+Ninh Thuận,2018,144.6,42.3,Đông Nam Bộ,Huyện Thuận Nam
+Ninh Thuận,2019,155.4,45.6,Đông Nam Bộ,Thành phố Phan RangTháp Chàm
+Bình Thuận,2008,284.3,36.3,Đông Nam Bộ,Huyện Đức Linh
+Bình Thuận,2009,283.9,35.8,Đông Nam Bộ,Huyện Tuy Phong
+Bình Thuận,2010,286.6,35.5,Đông Nam Bộ,Huyện Bắc Bình
+Bình Thuận,2011,300.5,38.2,Đông Nam Bộ,Huyện Đức Linh
+Bình Thuận,2012,300.1,37.0,Đông Nam Bộ,Huyện Đức Linh
+Bình Thuận,2013,295.6,37.4,Đông Nam Bộ,Huyện Hàm Tân
+Bình Thuận,2014,292.9,37.2,Đông Nam Bộ,Thành phố Phan Thiết
+Bình Thuận,2015,326.4,39.8,Đông Nam Bộ,Huyện Phú Quí
+Bình Thuận,2016,326.2,40.3,Đông Nam Bộ,Huyện Phú Quí
+Bình Thuận,2018,326.1,40.3,Đông Nam Bộ,Huyện Tánh Linh
+Bình Thuận,2019,340.5,43.1,Đông Nam Bộ,Huyện Hàm Thuận Nam
+Tây Nguyên,2008,2928.7,2928.7,Đông Nam Bộ,Huyện Phong Điền
+Tây Nguyên,2009,2925.2,2925.2,Đông Nam Bộ,Quận Thốt Nốt
+Tây Nguyên,2010,2874.4,2874.4,Đông Nam Bộ,Quận 8
+Tây Nguyên,2011,2848.0,2848.0,Đông Nam Bộ,Quận Tây Hồ
+Tây Nguyên,2012,2903.9,2903.9,Đông Nam Bộ,Huyện Thạch Thất
+Tây Nguyên,2013,2848.7,2848.7,Đông Nam Bộ,Quận 5
+Tây Nguyên,2014,2567.1,45.8,Đông Nam Bộ,Huyện Thạch Thất
+Tây Nguyên,2015,2562.0,46.1,Đông Nam Bộ,Quận Ngô Quyền
+Tây Nguyên,2016,2558.7,46.0,Đông Nam Bộ,Quận Kiến An
+Tây Nguyên,2018,2557.4,46.0,Đông Nam Bộ,Quận 3
+Tây Nguyên,2019,2559.9,45.9,Đông Nam Bộ,Huyện Hòa Vang
+Kon Tum,2008,655.9,67.3,Nam Trung Bộ,Huyện Ia H Drai
+Kon Tum,2009,650.3,66.7,Nam Trung Bộ,Thành phố Kon Tum
+Kon Tum,2010,654.1,66.8,Nam Trung Bộ,Huyện Kon Plông
+Kon Tum,2011,632.0,64.6,Nam Trung Bộ,Huyện Ngọc Hồi
+Kon Tum,2012,656.8,67.4,Nam Trung Bộ,Thành phố Kon Tum
+Kon Tum,2013,656.6,67.7,Nam Trung Bộ,Huyện Kon Plông
+Kon Tum,2014,617.7,62.4,Nam Trung Bộ,Thành phố Kon Tum
+Kon Tum,2015,617.9,62.3,Nam Trung Bộ,Huyện Đắk Tô
+Kon Tum,2016,617.7,62.2,Nam Trung Bộ,Huyện Ngọc Hồi
+Kon Tum,2018,616.8,62.3,Nam Trung Bộ,Huyện Đắk Glei
+Kon Tum,2019,621.1,63.0,Nam Trung Bộ,Thành phố Kon Tum
+Gia Lai,2008,717.4,46.0,Nam Trung Bộ,Huyện Mang Yang
+Gia Lai,2009,715.7,45.9,Nam Trung Bộ,Huyện Phú Thiện
+Gia Lai,2010,719.8,45.5,Nam Trung Bộ,Huyện Đăk Đoa
+Gia Lai,2011,719.5,45.7,Nam Trung Bộ,Thị xã Ayun Pa
+Gia Lai,2012,720.6,45.4,Nam Trung Bộ,Huyện Chư Prông
+Gia Lai,2013,719.9,45.4,Nam Trung Bộ,Huyện Chư Pưh
+Gia Lai,2014,627.9,40.1,Nam Trung Bộ,Huyện Kông Chro
+Gia Lai,2015,627.0,40.3,Nam Trung Bộ,Huyện Đăk Pơ
+Gia Lai,2016,625.9,40.2,Nam Trung Bộ,Huyện Đức Cơ
+Gia Lai,2018,632.2,40.8,Nam Trung Bộ,Huyện Krông Pa
+Gia Lai,2019,633.3,40.2,Nam Trung Bộ,Huyện Phú Thiện
+Đắk Lắk,2008,629.0,47.2,Nam Trung Bộ,Huyện Buôn Đôn
+Đắk Lắk,2009,633.2,47.2,Nam Trung Bộ,Huyện Krông Pắc
+Đắk Lắk,2010,610.5,45.5,Nam Trung Bộ,Huyện Krông Năng
+Đắk Lắk,2011,609.3,45.1,Nam Trung Bộ,Thành phố Buôn Ma Thuột
+Đắk Lắk,2012,641.2,48.0,Nam Trung Bộ,Huyện Krông Búk
+Đắk Lắk,2013,641.2,48.0,Nam Trung Bộ,Huyện Krông Búk
+Đắk Lắk,2014,528.1,38.7,Nam Trung Bộ,Huyện Ea Súp
+Đắk Lắk,2015,526.5,39.2,Nam Trung Bộ,Huyện Krông Năng
+Đắk Lắk,2016,526.4,39.3,Nam Trung Bộ,Thị Xã Buôn Hồ
+Đắk Lắk,2018,512.8,38.5,Nam Trung Bộ,Huyện Buôn Đôn
+Đắk Lắk,2019,515.0,38.6,Nam Trung Bộ,Huyện Buôn Đôn
+Đắk Nông,2008,323.7,49.0,Nam Trung Bộ,Huyện Đắk RLấp
+Đắk Nông,2009,324.0,49.1,Nam Trung Bộ,Huyện Đắk Mil
+Đắk Nông,2010,288.8,44.2,Nam Trung Bộ,Huyện Krông Nô
+Đắk Nông,2011,289.0,44.0,Nam Trung Bộ,Huyện Đăk Glong
+Đắk Nông,2012,287.6,43.6,Nam Trung Bộ,Huyện Đắk Mil
+Đắk Nông,2013,230.6,35.3,Nam Trung Bộ,Thị xã Gia Nghĩa
+Đắk Nông,2014,261.2,39.0,Nam Trung Bộ,Huyện Tuy Đức
+Đắk Nông,2015,258.5,39.1,Nam Trung Bộ,Huyện Cư Jút
+Đắk Nông,2016,256.1,38.8,Nam Trung Bộ,Huyện Krông Nô
+Đắk Nông,2018,258.8,39.2,Nam Trung Bộ,Huyện Cư Jút
+Đắk Nông,2019,251.2,37.9,Nam Trung Bộ,Huyện Đắk Song
+Lâm Đồng,2008,602.7,61.2,Đông Nam Bộ,Huyện Cát Tiên
+Lâm Đồng,2009,602.0,47.2,Đông Nam Bộ,Huyện Đơn Dương
+Lâm Đồng,2010,601.2,60.8,Đông Nam Bộ,Huyện Đức Trọng
+Lâm Đồng,2011,598.2,60.4,Đông Nam Bộ,Huyện Đam Rông
+Lâm Đồng,2012,597.7,60.3,Đông Nam Bộ,Huyện Đạ Tẻh
+Lâm Đồng,2013,600.4,60.3,Đông Nam Bộ,Huyện Di Linh
+Lâm Đồng,2014,532.1,52.5,Đông Nam Bộ,Huyện Đam Rông
+Lâm Đồng,2015,532.1,53.1,Đông Nam Bộ,Huyện Đạ Huoai
+Lâm Đồng,2016,532.6,53.1,Đông Nam Bộ,Huyện Đạ Tẻh
+Lâm Đồng,2018,536.7,54.0,Đông Nam Bộ,Huyện Đạ Tẻh
+Lâm Đồng,2019,539.4,54.5,Đông Nam Bộ,Huyện Lâm Hà
+Bình Phước,2008,132.3,17.2,Đông Nam Bộ,Thị xã Bình Long
+Bình Phước,2009,113.9,15.0,Đông Nam Bộ,Huyện Bù Gia Mập
+Bình Phước,2010,116.7,13.5,Đông Nam Bộ,Huyện Chơn Thành
+Bình Phước,2011,116.5,13.4,Đông Nam Bộ,Huyện Bù Đăng
+Bình Phước,2012,160.6,19.5,Đông Nam Bộ,Huyện Lộc Ninh
+Bình Phước,2013,160.3,21.6,Đông Nam Bộ,Huyện Chơn Thành
+Bình Phước,2014,160.4,22.7,Đông Nam Bộ,Thị xã Bình Long
+Bình Phước,2015,159.3,23.1,Đông Nam Bộ,Thị xã Bình Long
+Bình Phước,2016,161.2,21.6,Đông Nam Bộ,Huyện Bù Đốp
+Bình Phước,2018,160.6,22.8,Đông Nam Bộ,Thị xã Bình Long
+Bình Phước,2019,160.7,22.8,Đông Nam Bộ,Thị xã Phước Long
+Tây Ninh,2008,45.3,11.1,Đông Nam Bộ,Huyện Gò Dầu
+Tây Ninh,2009,46.3,11.2,Đông Nam Bộ,Huyện Trảng Bàng
+Tây Ninh,2010,48.1,11.4,Đông Nam Bộ,Huyện Dương Minh Châu
+Tây Ninh,2011,52.1,12.2,Đông Nam Bộ,Huyện Dương Minh Châu
+Tây Ninh,2012,57.0,13.8,Đông Nam Bộ,Huyện Gò Dầu
+Tây Ninh,2013,57.9,14.0,Đông Nam Bộ,Huyện Bến Cầu
+Tây Ninh,2014,60.1,14.6,Đông Nam Bộ,Huyện Tân Biên
+Tây Ninh,2015,60.4,14.7,Đông Nam Bộ,Huyện Dương Minh Châu
+Tây Ninh,2016,66.3,15.7,Đông Nam Bộ,Huyện Tân Biên
+Tây Ninh,2018,66.5,16.0,Đông Nam Bộ,Thành phố Tây Ninh
+Tây Ninh,2019,65.7,16.0,Đông Nam Bộ,Huyện Bến Cầu
+Bình Dương,2008,9.3,3.4,Đông Nam Bộ,Huyện Phú Giáo
+Bình Dương,2009,9.2,3.4,Đông Nam Bộ,Thị xã Thuận An
+Bình Dương,2010,9.3,3.4,Đông Nam Bộ,Thị xã Bến Cát
+Bình Dương,2011,9.3,3.4,Đông Nam Bộ,Thị xã Tân Uyên
+Bình Dương,2012,10.2,3.8,Đông Nam Bộ,Thị xã Tân Uyên
+Bình Dương,2013,10.2,3.7,Đông Nam Bộ,Thị xã Bến Cát
+Bình Dương,2014,10.2,3.7,Đông Nam Bộ,Thị xã Thuận An
+Bình Dương,2015,10.2,3.8,Đông Nam Bộ,Thị xã Thuận An
+Bình Dương,2016,10.4,3.4,Đông Nam Bộ,Huyện Phú Giáo
+Bình Dương,2018,10.3,3.2,Đông Nam Bộ,Thị xã Bến Cát
+Bình Dương,2019,10.0,3.1,Đông Nam Bộ,Thành phố Thủ Dầu Một
+Đồng Nai,2008,167.3,28.3,Đông Nam Bộ,Huyện Trảng Bom
+Đồng Nai,2009,167.6,28.4,Đông Nam Bộ,Huyện Tân Phú
+Đồng Nai,2010,167.9,28.4,Đông Nam Bộ,Huyện Cẩm Mỹ
+Đồng Nai,2011,179.7,29.8,Đông Nam Bộ,Huyện Xuân Lộc
+Đồng Nai,2012,178.7,29.7,Đông Nam Bộ,Huyện Thống Nhất
+Đồng Nai,2013,177.9,29.8,Đông Nam Bộ,Huyện Long Thành
+Đồng Nai,2014,185.4,30.8,Đông Nam Bộ,Thị xã Long Khánh
+Đồng Nai,2015,184.2,30.7,Đông Nam Bộ,Thành phố Biên Hòa
+Đồng Nai,2016,182.3,29.1,Đông Nam Bộ,Huyện Trảng Bom
+Đồng Nai,2018,184.5,29.0,Đông Nam Bộ,Huyện Vĩnh Cửu
+Đồng Nai,2019,182.7,29.1,Đông Nam Bộ,Huyện Tân Phú
+Bà Rịa - Vũng Tàu,2008,26.8,13.2,Đông Nam Bộ,Huyện Châu Đức
+Bà Rịa - Vũng Tàu,2009,26.8,12.9,Đông Nam Bộ,Thành phố Vũng Tàu
+Bà Rịa - Vũng Tàu,2010,26.7,12.9,Đông Nam Bộ,Huyện Đất Đỏ
+Bà Rịa - Vũng Tàu,2011,26.1,12.9,Đông Nam Bộ,Huyện Châu Đức
+Bà Rịa - Vũng Tàu,2012,26.0,12.5,Đông Nam Bộ,Huyện Tân Thành
+Bà Rịa - Vũng Tàu,2013,26.1,12.6,Đông Nam Bộ,Huyện Châu Đức
+Bà Rịa - Vũng Tàu,2014,25.6,12.7,Đông Nam Bộ,Thành phố Vũng Tàu
+Bà Rịa - Vũng Tàu,2015,25.4,12.5,Đông Nam Bộ,Thành phố Bà Rịa
+Bà Rịa - Vũng Tàu,2016,28.3,13.7,Đông Nam Bộ,Thành phố Vũng Tàu
+Bà Rịa - Vũng Tàu,2018,28.2,13.6,Đông Nam Bộ,Huyện Tân Thành
+Bà Rịa - Vũng Tàu,2019,28.4,13.5,Đông Nam Bộ,Huyện Long Điền
+TP.Hồ Chí Minh,2008,38.9,18.5,Đông Nam Bộ,Quận 5
+TP.Hồ Chí Minh,2009,39.0,18.6,Đông Nam Bộ,Quận Gò Vấp
+TP.Hồ Chí Minh,2010,39.3,18.8,Đông Nam Bộ,Quận 11
+TP.Hồ Chí Minh,2011,39.3,18.7,Đông Nam Bộ,Quận Tân Phú
+TP.Hồ Chí Minh,2012,39.3,18.7,Đông Nam Bộ,Quận Bình Thạnh
+TP.Hồ Chí Minh,2013,34.4,16.4,Đông Nam Bộ,Quận Phú Nhuận
+TP.Hồ Chí Minh,2014,34.4,16.4,Đông Nam Bộ,Quận Bình Tân
+TP.Hồ Chí Minh,2015,34.4,16.4,Đông Nam Bộ,Huyện Cần Giờ
+TP.Hồ Chí Minh,2016,36.6,17.2,Đông Nam Bộ,Huyện Củ Chi
+TP.Hồ Chí Minh,2018,36.6,17.5,Đông Nam Bộ,Quận 4
+TP.Hồ Chí Minh,2019,33.5,16.0,Đông Nam Bộ,Quận 7
+Long An,2008,52.8,11.6,Đồng Bằng Sông Cửu Long,Thị xã Kiến Tường
+Long An,2009,46.5,10.1,Đồng Bằng Sông Cửu Long,Thị xã Kiến Tường
+Long An,2010,38.2,8.3,Đồng Bằng Sông Cửu Long,Huyện Cần Giuộc
+Long An,2011,33.4,7.4,Đồng Bằng Sông Cửu Long,Huyện Cần Đước
+Long An,2012,29.7,6.6,Đồng Bằng Sông Cửu Long,Huyện Thủ Thừa
+Long An,2013,28.0,6.2,Đồng Bằng Sông Cửu Long,Huyện Đức Huệ
+Long An,2014,25.7,5.7,Đồng Bằng Sông Cửu Long,Huyện Cần Đước
+Long An,2015,25.6,5.7,Đồng Bằng Sông Cửu Long,Huyện Tân Thạnh
+Long An,2016,23.0,4.8,Đồng Bằng Sông Cửu Long,Huyện Cần Giuộc
+Long An,2018,22.5,4.3,Đồng Bằng Sông Cửu Long,Thị xã Kiến Tường
+Long An,2019,22.6,3.7,Đồng Bằng Sông Cửu Long,Huyện Vĩnh Hưng
+Tiền Giang,2008,10.4,4.1,Đồng Bằng Sông Cửu Long,Huyện Cái Bè
+Tiền Giang,2009,8.8,3.5,Đồng Bằng Sông Cửu Long,Huyện Gò Công Đông
+Tiền Giang,2010,7.7,3.1,Đồng Bằng Sông Cửu Long,Huyện Chợ Gạo
+Tiền Giang,2011,6.3,2.4,Đồng Bằng Sông Cửu Long,Huyện Chợ Gạo
+Tiền Giang,2012,5.5,2.2,Đồng Bằng Sông Cửu Long,Thành phố Mỹ Tho
+Tiền Giang,2013,3.9,1.5,Đồng Bằng Sông Cửu Long,Huyện Gò Công Tây
+Tiền Giang,2014,3.9,1.6,Đồng Bằng Sông Cửu Long,Huyện Gò Công Đông
+Tiền Giang,2015,3.8,1.2,Đồng Bằng Sông Cửu Long,Thị xã Cai Lậy
+Tiền Giang,2016,3.4,1.3,Đồng Bằng Sông Cửu Long,Huyện Tân Phú Đông
+Tiền Giang,2018,2.6,1.0,Đồng Bằng Sông Cửu Long,Huyện Cai Lậy
+Tiền Giang,2019,2.6,1.0,Đồng Bằng Sông Cửu Long,Thị xã Cai Lậy
+Bến Tre,2008,3.8,1.5,Đồng Bằng Sông Cửu Long,Huyện Mỏ Cày Nam
+Bến Tre,2009,3.8,1.5,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Bến Tre,2010,3.9,1.6,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Bến Tre,2011,4.0,1.6,Đồng Bằng Sông Cửu Long,Huyện Thạnh Phú
+Bến Tre,2012,4.0,1.6,Đồng Bằng Sông Cửu Long,Huyện Mỏ Cày Bắc
+Bến Tre,2013,3.9,1.6,Đồng Bằng Sông Cửu Long,Huyện Chợ Lách
+Bến Tre,2014,4.1,1.6,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Bến Tre,2015,4.1,1.6,Đồng Bằng Sông Cửu Long,Huyện Ba Tri
+Bến Tre,2016,4.2,1.6,Đồng Bằng Sông Cửu Long,Thành phố Bến Tre
+Bến Tre,2018,4.2,1.6,Đồng Bằng Sông Cửu Long,Huyện Mỏ Cày Nam
+Bến Tre,2019,4.4,1.8,Đồng Bằng Sông Cửu Long,Huyện Chợ Lách
+Trà Vinh,2008,6.7,2.9,Đồng Bằng Sông Cửu Long,Huyện Càng Long
+Trà Vinh,2009,7.2,3.1,Đồng Bằng Sông Cửu Long,Thị xã Duyên Hải
+Trà Vinh,2010,7.5,3.2,Đồng Bằng Sông Cửu Long,Thị xã Duyên Hải
+Trà Vinh,2011,7.5,3.2,Đồng Bằng Sông Cửu Long,Thị xã Duyên Hải
+Trà Vinh,2012,7.5,3.1,Đồng Bằng Sông Cửu Long,Huyện Cầu Kè
+Trà Vinh,2013,7.8,3.2,Đồng Bằng Sông Cửu Long,Huyện Duyên Hải
+Trà Vinh,2014,8.2,3.1,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Trà Vinh,2015,8.7,3.7,Đồng Bằng Sông Cửu Long,Huyện Trà Cú
+Trà Vinh,2016,9.0,3.3,Đồng Bằng Sông Cửu Long,Thị xã Duyên Hải
+Trà Vinh,2018,9.0,3.7,Đồng Bằng Sông Cửu Long,Huyện Duyên Hải
+Trà Vinh,2019,9.2,3.8,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Đồng Tháp,2008,9.0,2.5,Đồng Bằng Sông Cửu Long,Huyện Cao Lãnh
+Đồng Tháp,2009,8.4,2.4,Đồng Bằng Sông Cửu Long,Huyện Tam Nông
+Đồng Tháp,2010,7.6,2.2,Đồng Bằng Sông Cửu Long,Huyện Tháp Mười
+Đồng Tháp,2011,7.1,2.0,Đồng Bằng Sông Cửu Long,Huyện Thanh Bình
+Đồng Tháp,2012,6.7,1.9,Đồng Bằng Sông Cửu Long,Huyện Hồng Ngự
+Đồng Tháp,2013,44.1,13.0,Đồng Bằng Sông Cửu Long,Huyện Lấp Vò
+Đồng Tháp,2014,52.4,15.2,Đồng Bằng Sông Cửu Long,Huyện Thanh Bình
+Đồng Tháp,2015,52.2,15.1,Đồng Bằng Sông Cửu Long,Huyện Tháp Mười
+Đồng Tháp,2016,6.1,1.7,Đồng Bằng Sông Cửu Long,Huyện Cao Lãnh
+Đồng Tháp,2018,6.1,1.5,Đồng Bằng Sông Cửu Long,Huyện Lấp Vò
+Đồng Tháp,2019,6.1,1.6,Đồng Bằng Sông Cửu Long,Huyện Lai Vung
+An Giang,2008,14.1,3.9,Đồng Bằng Sông Cửu Long,Huyện Châu Phú
+An Giang,2009,13.4,3.6,Đồng Bằng Sông Cửu Long,Huyện Tri Tôn
+An Giang,2010,13.8,3.8,Đồng Bằng Sông Cửu Long,Thị xã Tân Châu
+An Giang,2011,12.5,3.4,Đồng Bằng Sông Cửu Long,Huyện Chợ Mới
+An Giang,2012,12.3,3.4,Đồng Bằng Sông Cửu Long,Thành phố Châu Đốc
+An Giang,2013,12.3,3.4,Đồng Bằng Sông Cửu Long,Thành phố Long Xuyên
+An Giang,2014,12.2,3.3,Đồng Bằng Sông Cửu Long,Huyện An Phú
+An Giang,2015,12.2,3.3,Đồng Bằng Sông Cửu Long,Huyện Tịnh Biên
+An Giang,2016,12.9,3.2,Đồng Bằng Sông Cửu Long,Thành phố Châu Đốc
+An Giang,2018,13.7,3.3,Đồng Bằng Sông Cửu Long,Huyện Tịnh Biên
+An Giang,2019,13.7,3.6,Đồng Bằng Sông Cửu Long,Huyện Phú Tân
+Kiên Giang,2008,86.9,13.6,Đồng Bằng Sông Cửu Long,Huyện Giồng Riềng
+Kiên Giang,2009,71.8,11.2,Đồng Bằng Sông Cửu Long,Huyện Phú Quốc
+Kiên Giang,2010,72.6,11.3,Đồng Bằng Sông Cửu Long,Huyện Phú Quốc
+Kiên Giang,2011,71.1,11.1,Đồng Bằng Sông Cửu Long,Huyện U Minh Thượng
+Kiên Giang,2012,63.8,10.0,Đồng Bằng Sông Cửu Long,Huyện Giang Thành
+Kiên Giang,2013,61.7,9.6,Đồng Bằng Sông Cửu Long,Huyện Kiên Lương
+Kiên Giang,2014,55.5,8.6,Đồng Bằng Sông Cửu Long,Huyện An Biên
+Kiên Giang,2015,55.3,8.5,Đồng Bằng Sông Cửu Long,Huyện U Minh Thượng
+Kiên Giang,2016,55.2,8.2,Đồng Bằng Sông Cửu Long,Huyện An Biên
+Kiên Giang,2018,70.5,10.7,Đồng Bằng Sông Cửu Long,Huyện Hòn Đất
+Kiên Giang,2019,76.2,12.0,Đồng Bằng Sông Cửu Long,Huyện An Biên
+Hậu Giang,2008,2.5,1.2,Đồng Bằng Sông Cửu Long,Huyện Châu Thành A
+Hậu Giang,2009,2.5,1.4,Đồng Bằng Sông Cửu Long,Huyện Long Mỹ
+Hậu Giang,2010,2.6,1.6,Đồng Bằng Sông Cửu Long,Huyện Châu Thành A
+Hậu Giang,2011,2.9,1.7,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Hậu Giang,2012,3.3,1.7,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Hậu Giang,2013,2.5,1.3,Đồng Bằng Sông Cửu Long,Huyện Phụng Hiệp
+Hậu Giang,2014,2.5,1.3,Đồng Bằng Sông Cửu Long,Thị xã Long Mỹ
+Hậu Giang,2015,2.6,1.3,Đồng Bằng Sông Cửu Long,Thành phố Vị Thanh
+Hậu Giang,2016,2.8,1.4,Đồng Bằng Sông Cửu Long,Huyện Vị Thuỷ
+Hậu Giang,2018,3.1,1.5,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Hậu Giang,2019,3.2,1.6,Đồng Bằng Sông Cửu Long,Thị xã Long Mỹ
+Sóc Trăng,2008,10.5,3.1,Đồng Bằng Sông Cửu Long,Huyện Cù Lao Dung
+Sóc Trăng,2009,10.5,3.1,Đồng Bằng Sông Cửu Long,Huyện Cù Lao Dung
+Sóc Trăng,2010,10.6,3.0,Đồng Bằng Sông Cửu Long,Huyện Kế Sách
+Sóc Trăng,2011,10.6,3.1,Đồng Bằng Sông Cửu Long,Huyện Cù Lao Dung
+Sóc Trăng,2012,10.3,2.9,Đồng Bằng Sông Cửu Long,Huyện Châu Thành
+Sóc Trăng,2013,10.3,2.9,Đồng Bằng Sông Cửu Long,Huyện Mỹ Xuyên
+Sóc Trăng,2014,9.4,2.0,Đồng Bằng Sông Cửu Long,Huyện Cù Lao Dung
+Sóc Trăng,2015,10.5,2.2,Đồng Bằng Sông Cửu Long,Huyện Long Phú
+Sóc Trăng,2016,10.7,2.6,Đồng Bằng Sông Cửu Long,Huyện Long Phú
+Sóc Trăng,2018,11.1,2.8,Đồng Bằng Sông Cửu Long,Thành phố Sóc Trăng
+Sóc Trăng,2019,10.7,2.8,Đồng Bằng Sông Cửu Long,Huyện Thạnh Trị
+Bạc Liêu,2008,4.3,1.7,Đồng Bằng Sông Cửu Long,Huyện Vĩnh Lợi
+Bạc Liêu,2009,4.2,1.7,Đồng Bằng Sông Cửu Long,Huyện Phước Long
+Bạc Liêu,2010,4.0,1.6,Đồng Bằng Sông Cửu Long,Thành phố Bạc Liêu
+Bạc Liêu,2011,4.0,1.6,Đồng Bằng Sông Cửu Long,Huyện Phước Long
+Bạc Liêu,2012,3.4,1.6,Đồng Bằng Sông Cửu Long,Thị xã Giá Rai
+Bạc Liêu,2013,3.4,1.4,Đồng Bằng Sông Cửu Long,Huyện Phước Long
+Bạc Liêu,2014,4.6,1.9,Đồng Bằng Sông Cửu Long,Huyện Đông Hải
+Bạc Liêu,2015,4.6,1.8,Đồng Bằng Sông Cửu Long,Huyện Phước Long
+Bạc Liêu,2016,4.6,1.8,Đồng Bằng Sông Cửu Long,Huyện Hoà Bình
+Bạc Liêu,2018,4.7,1.8,Đồng Bằng Sông Cửu Long,Huyện Đông Hải
+Bạc Liêu,2019,4.5,1.7,Đồng Bằng Sông Cửu Long,Thành phố Bạc Liêu
+Cà Mau,2008,97.5,16.2,Đồng Bằng Sông Cửu Long,Huyện Ngọc Hiển
+Cà Mau,2009,99.2,16.5,Đồng Bằng Sông Cửu Long,Huyện Cái Nước
+Cà Mau,2010,100.4,16.7,Đồng Bằng Sông Cửu Long,Huyện Trần Văn Thời
+Cà Mau,2011,100.7,17.0,Đồng Bằng Sông Cửu Long,Huyện Năm Căn
+Cà Mau,2012,102.7,17.3,Đồng Bằng Sông Cửu Long,Huyện Cái Nước
+Cà Mau,2013,104.2,17.6,Đồng Bằng Sông Cửu Long,Thành phố Cà Mau
+Cà Mau,2014,92.3,12.5,Đồng Bằng Sông Cửu Long,Huyện Thới Bình
+Cà Mau,2015,92.4,10.8,Đồng Bằng Sông Cửu Long,Huyện U Minh
+Cà Mau,2016,94.2,10.8,Đồng Bằng Sông Cửu Long,Huyện Đầm Dơi
+Cà Mau,2018,95.5,18.3,Đồng Bằng Sông Cửu Long,Huyện Ngọc Hiển
+Cà Mau,2019,96.1,18.4,Đồng Bằng Sông Cửu Long,Huyện U Minh
