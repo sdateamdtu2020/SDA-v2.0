@@ -4,26 +4,30 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Perform workflow
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* This set up may not compatible on your computer, you need to find solution to fix the error in case of error.
 
-### Contribution guidelines ###
+`
+pip3 -m venv env_airflow
+source env_airflow/bin/activate
 
-* Writing tests
-* Code review
-* Other guidelines
+pip3 install apache-airflow==1.10.9
+
+https://stackoverflow.com/questions/61101729/starting-airflow-webserver-fails-with-sqlalchemy-exc-noinspectionavailable-no-i
+
+pip3 install typing_extension
+
+..cd
+~airflow/
+
+airflow webserver
+airflow scheduler
+`
+
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Other community or team contact
