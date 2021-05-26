@@ -1,29 +1,26 @@
-# README #
+# README
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+### PYTHON VERSION >= 3.8 , Linux terminal
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+- DATABASE : Postgresql
+- Using pip to install necessary packages
+- bonobo, apt_pkg, psycopg2-binary, dotenv, pandas, numpy, xlrd==1.2.0, openpyxl
 
-### How do I get set up? ###
+# After install all the necessary packages
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Define .env inside database folder
 
-### Contribution guidelines ###
+- dbname = "edsdadb"
+- user = "postgres"
+- password = ""
 
-* Writing tests
-* Code review
-* Other guidelines
+### Inside folder database having a file name : perform_edsda.sh
 
-### Who do I talk to? ###
+### To perform perform_edsda.sh file : type the follow commnads below in linux terminal
 
-* Repo owner or admin
-* Other community or team contact1
+- 1/ 
+sed -i -e 's/\r$//' perform_edsda.sh
+- 2/ 
+./perform_edsda.sh

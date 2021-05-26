@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background-color: peachpuff;
+}
+
+input {
+  cursor: pointer;
+}

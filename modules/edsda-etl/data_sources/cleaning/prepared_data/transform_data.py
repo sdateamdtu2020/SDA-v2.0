@@ -8,6 +8,7 @@ import bonobo
 import requests
 import sys
 import random
+from STATIC_DATA import *
 
 #info area data
 #https://www.vvfc.vn/tin-trong-nuoc-va-quoc-te/chia-ca-nuoc-thanh-7-vung-doi-moi-va-dot-pha-tat-ca-dong-y.html
@@ -20,27 +21,7 @@ except:
     DATA_SOURCE = "source_humidity.csv"
 
 
-#AREA DATA
-DONG_BAC = ['Hà Giang', 'Cao Bằng', 'Bắc Kạn', 'Tuyên Quang', 'Thái Nguyên', 'Lạng Sơn', 'Bắc Giang','Bãi Cháy']
-TAY_BAC = ['Lào Cai', 'Yên Bái', 'Phú Thọ', 'Điện Biên', 'Lai Châu', 'Sơn La', 'Hòa Bình']
-DONG_BANG_SONG_HONG = ['Hà Nội', 'Vĩnh Phúc', 'Bắc Ninh', 'Quảng Ninh', 'Hải Dương', 'Hải Phòng', 'Hưng Yên', 'Thái Bình', 'Hà Nam', 'Nam Định', 'Ninh Bình']
-BAC_TRUNG_BO = ['Thanh Hóa', 'Nghệ An', 'Hà Tĩnh', 'Quảng Bình', 'Quảng Trị', 'Bắc Trung Bộ và Duyên hải miền Trung','Thừa Thiên Huế', 'Huế']
-NAM_TRUNG_BO = [ 'Đà Nẵng', 'Quảng Nam', 'Quảng Ngãi', 'Bình Định', 'Phú Yên', 'Khánh Hòa', 'Kon Tum', 'Gia Lai', 'Đắk Lắk', 'Đắk Nông', 'Đà Lạt', 'Vũng Tàu']
-DONG_NAM_BO = ['Ninh Thuận', 'Bình Thuận', 'Lâm Đồng', 'Bình Phước', 'Tây Ninh', 'Tây Nguyên','Bình Dương', 'Đồng Nai', 'Bà Rịa - Vũng Tàu', 'TP. Hồ Chí Minh', 'Qui Nhơn', 'Pleiku', 'Nha Trang', 'Đông Nam Bộ']
-DONG_BANG_SONG_CUU_LONG = ['Long An', 'Tiền Giang', 'Vinh', 'Bến Tre', 'Trà Vinh', 'Vĩnh Long', 'Đồng Tháp', 'An Giang', 'Kiên Giang', 'Cần Thơ', 'Hậu Giang' ,'Sóc Trăng', 'Bạc Liêu', 'Cà Mau']
-AREA_DATA = [DONG_BAC, TAY_BAC, DONG_BANG_SONG_HONG, BAC_TRUNG_BO, NAM_TRUNG_BO, DONG_NAM_BO, DONG_BANG_SONG_CUU_LONG]
 
-#DISTRICT
-HA_NOI = ['Ba Đình', 'Đống Đa', 'Hoàn Kiếm', 'Hai Bà Trưng', 'Tây Hồ', 'Long Biên', 
-        'Hoàng Mai', 'Cầu Giấy', 'Thanh Xuân', 'Hà Đông', 'Bắc Từ Liêm', 'Nam Từ Liêm']
-HAI_PHONG = ['Hồng Bàng', 'Lê Chân', 'Ngô Quyền', 'Hải An', 'Kiến An', 'Dương Kinh', 'Đồ Sơn']
-DA_NANG = ['Hải Châu', 'Thanh Khê', 'Liên Chiểu', 'Sơn Trà', 'Ngũ Hành Sơn', 'Cẩm Lệ']
-TP_HOCHIMINH = ['Quận 1', 'Quận 3', 'Quận 4', 'Quận 5', 'Quận 6', 'Quận 7', 'Quận 8', 'Quận 10',
-         'Quận 11', 'Quận 12', 'Gò Vấp', 'Bình Thạnh', 'Phú Nhuận', 'Bình Tân', 'Tân Bình', 'Tân Phú']
-CAN_THO = ['Ninh Kiều', 'Bình Thủy', 'Cái Răng', 'Ô Môn', 'Thốt Nốt']
-
-MESSY_DATA = HA_NOI+HAI_PHONG+DA_NANG+TP_HOCHIMINH+CAN_THO
-DISTRICTS_DATA = [HA_NOI, HAI_PHONG, DA_NANG, TP_HOCHIMINH, CAN_THO]
 
 def textTransfer(text):
     result = text.lower()
@@ -140,7 +121,7 @@ def transfer_to_structured_data(fileName, *args):
         storeData.append(arg)
 
     data, column_names, area = storeData
-    columns = _column_names(column_names, 'area','district','month','quarter')
+    columns = _column_names(column_names, 'area','district')
     with open('{}'.format(fileName), 'w', newline='') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(columns)
@@ -154,10 +135,6 @@ def transfer_to_structured_data(fileName, *args):
             row_data.append(area[i-1])
             # adding district
             row_data.append(districts_generator(row_data[0]))
-            # adding month,quarter 
-            month, quarter= time_generator()
-            row_data.append(month)
-            row_data.append(quarter)
             #Write data
             writer.writerow(row_data[:len(columns)])
 

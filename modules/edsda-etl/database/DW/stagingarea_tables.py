@@ -11,12 +11,11 @@ ForestSourceDataStaging = forest.gather_Elements(forest.createTable("ForestSourc
         "CityID VARCHAR null",
         "District VARCHAR null",
         "DistrictID VARCHAR null",
-        "TimeID int null",
+        "YearID int null",
         "Year int null",
-        "Month INT null",
-        "Quarter INT null",
-        "Afforestation double precision null",
-        "ForestCover double precision null"))
+        "afforestation double precision null",
+        "sumOfForestAcreage double precision null",
+        "ratioForestCover double precision null"))
 
 
 climate = Table()
@@ -28,11 +27,9 @@ ClimateSourceDataStaging = climate.gather_Elements(climate.createTable("ClimateS
         "City VARCHAR null",
         "CityID VARCHAR null",
         "District VARCHAR null",
-        "DistrictID INT null",
-        "TimeID INT null",
+        "DistrictID VARCHAR null",
+        "YearID INT null",
         "Year int null",
-        "Month INT null",
-        "Quarter INT null",
         "Humidity double precision null",
         "Rainfall double precision null",
         "Temperature double precision null"))
@@ -46,11 +43,9 @@ PopulationSourceDataStaging = population.gather_Elements(population.createTable(
         "City VARCHAR null",
         "CityID VARCHAR null",
         "District VARCHAR null",
-        "DistrictID INT null",
-        "TimeID INT null",
+        "DistrictID VARCHAR null",
+        "YearID INT null",
         "Year INT null",
-        "Month INT null",
-        "Quarter INT null",
         "Population double precision null"))
 
 
@@ -63,11 +58,9 @@ IndustrySourceDataStaging = industry.gather_Elements(industry.createTable("Indus
         "City VARCHAR null",
         "CityID VARCHAR null",
         "District VARCHAR null",
-        "DistrictID INT null",
-        "TimeID int null",
+        "DistrictID VARCHAR null",
+        "YearID int null",
         "Year INT null",
-        "Month INT null",
-        "Quarter INT null", 
         "Industry double precision null"))
 
 

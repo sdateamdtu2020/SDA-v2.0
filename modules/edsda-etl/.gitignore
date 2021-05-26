@@ -11,9 +11,10 @@ __pycache__/
 *test.py
 Database.pyc
 .env
+testfile.txt
 # Compiled Java class files
 *.class
- 
+
 # Compiled Python bytecode
 *.py[cod]
 

@@ -87,7 +87,7 @@ def load_to_dw(TABLE, column_names, data, cur, conn):
 def data_table_object(csv_name):
     FOREST, CLIMATE, POPULATION, INDUSTRY = stagingAreaObjects
 
-    forest = ['source_afforestation.csv']   
+    forest = ['source_afforestation.csv', 'source_forestcover.csv']   
     climate = ['source_humidity.csv','source_rainfall.csv','source_temperature.csv']
     population = ['source_population.csv']
     industry = ['source_industry.csv']

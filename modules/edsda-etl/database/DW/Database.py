@@ -62,6 +62,10 @@ class Table:
             self.alter += "ALTER TABLE "+self.tableName+" ADD "+action+"; "
         return self.alter
 
+    def createMultipleAlter(self, query):
+        self.alter = query
+        return self.alter
+
     # Gather all the element : tables, measures, and alter v.v..
     def gather_Elements(self, *gatherElements):
         for element in gatherElements:
