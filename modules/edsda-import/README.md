@@ -12,8 +12,8 @@
 ### For running this file ###
 
 * Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Nodejs , Reactjs
+
 
 ### How do I get set up? ###
 - Access to client folder
