@@ -12,18 +12,22 @@ This README would normally document whatever steps are necessary to get your app
 
 
 -`pip3 -m venv env_airflow`
+
 -`source env_airflow/bin/activate`
 
 -`pip3 install apache-airflow==1.10.9`
+
 *Fix the error with this link
 -`https://stackoverflow.com/questions/61101729/starting-airflow-webserver-fails-with-sqlalchemy-exc-noinspectionavailable-no-i`
 
 -`pip3 install typing_extension`
 
 -`..cd`
+
 -`~airflow/`
 
 -`airflow webserver`
+
 -`airflow scheduler`
 
 
