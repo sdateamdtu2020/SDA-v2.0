@@ -1,10 +1,10 @@
-# Planning for Sprint 4
+# Planning for Sprint 6
 
 ### Timeline:
 
 | From          | To            |
 | ------------- | ------------- |
-| 26 - Apr - 21 | 09 - May - 21 |
+| 17 - May - 21 | 30 - May - 21 |
 
 ### Mentor meeting:
 
@@ -15,5 +15,5 @@
 
 | Integration | Content                                                                                                         | Date            |
 | ----------- | --------------------------------------------------------------------------------------------------------------- | --------------- |
-| 11          | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-4/team-meeting/integration-11.md) | 26/Apr - 02/May |
-| 12          | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-4/team-meeting/integration-12.md) | 03/May - 09/May |
+| 15          | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-6/team-meeting/integration-15.md) | 17/May - 23/May |
+| 16          | [Link](https://github.com/sdateamdtu2020/SDA-v2.0/blob/master/planning/sprint-6/team-meeting/integration-16.md) | 24/May - 30/May |

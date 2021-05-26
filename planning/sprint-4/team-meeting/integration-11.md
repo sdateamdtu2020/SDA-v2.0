@@ -11,21 +11,6 @@
 - Change server implement method
 - Change flow of APIs
 
-### Sprint Retrospective (Sprint 1 & 2)
-
-**MAD - What made us mad? 😠**
-
-- We need to write too much methods without the help of any libraries/frameworks.
-
-**SAD - What made us sad? 😓**
-
-- Timeline is delayed.
-- We couldn't follow the sprint.
-
-**GLAD - What made us glad? 😎**
-
-- Normal
-
 ### Post Meeting Action Items
 
 #### Hoa
@@ -60,6 +45,9 @@ Last week:
 This week:
 
 - [ ] build basic new UI
+- [ ] create default screen
+- [ ] create introduction screen
+- [ ] create about screen
 
 #### Kieu
 
