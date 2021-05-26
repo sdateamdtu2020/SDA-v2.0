@@ -1,29 +1,31 @@
-# README #
+# EDSDA import structure folder #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+```
+/edsda-import:
+  /client:
+  /server:
 
-### What is this repository for? ###
+```
+- `client`: User interface for importing data,...
+- `server`: Server handling import file from user. 
+
+### For running this file ###
 
 * Quick summary
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
+- Access to client folder
+- `cd client`
+- `npm install`
+- `npm start`
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+- Access to server folder
+- `cd client`
+- `npm install`
+- `npm start`
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Other community or team contact
