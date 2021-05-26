@@ -1,4 +1,4 @@
-# Integration 9 (29/Mar - 05/Apr/21)
+# Integration 1 (29/Mar - 05/Apr/21)
 
 ### Agenda:
 
@@ -41,7 +41,8 @@ Last week:
 
 This week:
 
-- [ ] updating
+- [ ] Implement API for calling RDF Engine that built in Scala
+- [ ] Continue building common APIs
 
 #### Dong
 
@@ -52,7 +53,7 @@ Last week:
 
 This week:
 
-- [ ] updating
+- [ ] Fill up DW, and ETL with Bonobo
 
 #### Tin
 
@@ -65,16 +66,16 @@ Last week:
 
 This week:
 
-- [ ] updating
+- [ ] build function dnd item from sidebar to main
 
 #### Kieu
 
 Last week:
 
-- [ ] Learn Bug Reporting
-- [ ] Learn to write Test Cases
-- [ ] Write Test Cases for all features in base UI
+- [x] Learn Bug Reporting
+- [x] Learn to write Test Cases
+- [x] Write Test Cases for all features in base UI
 
 This week:
 
-- [ ] updating
+- [ ] Write Test Cases for all features in base UI

@@ -15,29 +15,30 @@
 
 <img src="./assets/edsda-project-timeline.png" alt="project-timeline" width="600"/>
 
-### Folder Structure: updating
+### Folder Structure:
 
 ```
 /modules:
-  /edsda-webapp:
-  /edsda-backend:
-  /edsda-ui-design:
-
+  /edsda-webapp
+  /edsda-backend
+  /edsda-ui-design
+  /edsda-etl
 ```
 
 - `modules`: include all the project's source code, divided into each module
 - `edsda-webapp`: source code of Client website
-- `edsda-backend`: source code of server, ETL process, data crawler,...
+- `edsda-backend`: source code of server: API, DW2RDF,...
+- `edsda-etl`: source code of ETL process, data sources, data warehouse...
 - `edsda-ui-design`: UI Design, Prototype of project
 
 ## Members:
 
-| Avatar                                                   | Name                | Role                                              | Contact                    |
-| -------------------------------------------------------- | ------------------- | ------------------------------------------------- | -------------------------- |
-| <img src="./assets/avatar-members/hoa.png" width="50"/>  | Vo Van Hoa          | **Team Leader**, DevOps, Back-end, RDF Data Cubes | hoavo1490@gmail.com        |
-| <img src="./assets/avatar-members/tin.png" width="50"/>  | Pham Van Tin        | **Secretary**, Front-end, UI/UX Design , DevOps   | tinphamvan123@gmail.com    |
-| <img src="./assets/avatar-members/dong.png" width="50"/> | Ky Huu Dong         | **BE** Database, Crawl , ETL                      | kyhuudong@gmail.com        |
-| <img src="./assets/avatar-members/kieu.png" width="50"/> | Tran Thi Thanh Kieu | Tester                                            | thanhkieutran391@gmail.com |
+| Avatar                                                   | Name                | Role                                                          | Contact                    |
+| -------------------------------------------------------- | ------------------- | ------------------------------------------------------------- | -------------------------- |
+| <img src="./assets/avatar-members/hoa.png" width="50"/>  | Vo Van Hoa          | **Team Leader**, DevOps, Back-end: server API, RDF Data Cubes | hoavo1490@gmail.com        |
+| <img src="./assets/avatar-members/tin.png" width="50"/>  | Pham Van Tin        | Front-end, UI/UX Design, DevOps                               | www.tinspham.info          |
+| <img src="./assets/avatar-members/dong.png" width="50"/> | Ky Huu Dong         | Back-end: Crawl, ETL                                          | kyhuudong@gmail.com        |
+| <img src="./assets/avatar-members/kieu.png" width="50"/> | Tran Thi Thanh Kieu | Tester                                                        | thanhkieutran391@gmail.com |
 
 ## Contributing:
 
