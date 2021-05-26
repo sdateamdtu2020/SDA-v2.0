@@ -2,13 +2,13 @@
 
 ## Presentation:
 
-## 000 Requirements Description: 
-
-https://docs.google.com/document/d/1NZIua1XcrnnaI_kCiIsVbEEGHHHsELZL_YjUc3A7kfM/edit?usp=sharing
-
-## 001 Proposal:
+## 000 Proposal:
 
 https://docs.google.com/document/d/1i5YAMZ1wxw7DIX-KArDY1_1yXWSKtZ7MliIYvf_uAoo/edit
+
+## 001 Requirements Description:
+
+https://docs.google.com/document/d/1NZIua1XcrnnaI_kCiIsVbEEGHHHsELZL_YjUc3A7kfM/edit?usp=sharing
 
 ## 002 Project Plan:
 
@@ -44,16 +44,24 @@ https://docs.google.com/spreadsheets/d/1a1GqHsPL9oKJyFvqAPi3B2CEYL89deCXzCUGTDB_
 
 ## 010 Code Standard
 
+https://drive.google.com/file/d/17sW35Cnyc_mT9jbvzwBzYyNauoriJVjN/view?usp=sharing
 
 ## 011 Technologies Stack:
 
 https://docs.google.com/document/d/1DnWvniATIfAxsXl8dq2-REEw9L7tW5cYyz_W0GR6n9U/edit?usp=sharing
 
 ## 012 Team Meeting:
-https://docs.google.com/document/d/1P_kN3luIvaD_dQpiI3pIwp6S1e86sKvz3mZqL_aoyuY/edit?usp=sharing
+
+https://drive.google.com/file/d/1VDjE282guH3jTuFoBkLOb5DTK05khZ4A/view?usp=sharing
 
 ## 013 Mentor Meeting
 
-https://docs.google.com/document/d/1rnMIGHodPgNRLpVYzMVBNBvx4uIhJrPsmgG2ad2kLRo/edit?usp=sharing
+https://drive.google.com/file/d/1cgHW-XPRA1dhj82tdULjVjlpRMCcxLh8/view?usp=sharing
 
-## 014 Reflection
+## 014 Team Reflection
+
+https://docs.google.com/document/d/10n1TR0KmAxulK2YtfFeL-5KFuMPqokqbWosfc9vT5BQ/edit?usp=sharing
+
+## 015 Team Evaluate
+
+https://docs.google.com/document/d/1UMwIlpjatHHnqv72YrX6C_BVjhNH8CLoEcqozBISVqA/edit?usp=sharing
