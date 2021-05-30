@@ -22,7 +22,7 @@
 - `npm start`
 
 - Access to server folder
-- `cd client`
+- `cd server`
 - `npm install`
 - `npm start`
 
