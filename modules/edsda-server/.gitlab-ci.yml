@@ -1,0 +1,32 @@
+image: node:10.14.0
+
+cache:
+  paths:
+    - node_modules/
+
+jest:
+  stage: test
+  script:
+    - yarn --silent --production=false
+    - yarn db:migrate --env test
+    - yarn db:seed --env test
+    - yarn test
+  only:
+    refs:
+      - master
+      - develop
+# deploy:
+#   stage: deploy
+#   script:
+#     - export NODE_ENV=production
+#     - export DATABASE_URL=$DATABASE_URL
+#     - apt update -qq
+#     - apt install -qq -y ruby
+#     - gem install -q dpl
+#     - dpl --provider=heroku --app=$APP_NAME --api-key=$AUTH_TOKEN
+#     - yarn --silent --production=false
+#     - yarn db:migrate
+#     - yarn db:seed
+#     - yarn test
+#   only:
+#     - master

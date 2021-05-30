@@ -1,0 +1,28 @@
+CONSTRUCT {
+  ?tm rr:subjectMap [
+  rr:class qb:Observation ;
+  rr:termType rr:BlankNode ;
+  rr:template ?x ;
+  ] .
+  ?tm rr:predicateObjectMap [
+  rr:predicateqb:dataSet ;
+  rr:object ?ds; 
+  ] . 
+} WHERE {
+  ?tm pam:correspondsWith ?dsd ; 
+   rr:logicalTable [ rr:tableName ?t ] ; 
+  BIND(IRI(?t) AS ?ds)
+  {
+   SELECT
+    (CONCAT("{", GROUP_CONCAT(?c; SEPARATOR="}-{"), "}") as ?x) {
+    ?dsd qb:component ?component . 
+    { ?component qb:dimension [ rr:column ?c ] } 
+    UNION
+    { ?component qb:dimension [ 
+                    rrf:functionCall [ 
+                      rrf:parameterBindings( [ rr:column ?c ] )
+                    ]
+    ]}
+    } GROUP BY ?dsd 
+  }
+} 
