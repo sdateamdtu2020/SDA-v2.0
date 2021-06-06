@@ -18,9 +18,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Inside folder database having a file name : perform_edsda.sh
 
-### To perform perform_edsda.sh file : type the follow commnads below in linux terminal
+### To perform perform_edsda.sh file : type the follow comment in linux terminal
 
-- 1/ 
-sed -i -e 's/\r$//' perform_edsda.sh
-- 2/ 
-./perform_edsda.sh
+- 1/ sed -i -e 's/\r$//' perform_edsda.sh
+- 2/ ./perform_edsda.sh

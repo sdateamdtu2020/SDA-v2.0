@@ -80,7 +80,8 @@ cities = soup.find_all('h3')
 ulTags = soup.find_all('ul')
 
 #Ghi file
-f = open("district_data.txt", "a")
+print('Running file Crawl')
+f = open("./district_data.txt", "a")
 
 
 index = 0
@@ -101,26 +102,5 @@ for ul in ulTags:
         
 f.writelines(districts_data+"\n")
 f.close()
-    
 
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
+print('file Crawl successfully')
