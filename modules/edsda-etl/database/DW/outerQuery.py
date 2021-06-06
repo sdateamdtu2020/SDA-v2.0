@@ -207,17 +207,17 @@ DimDistrict_table_insert = ("""
 
 
 insert_fact_tables = ("""
-        INSERT INTO FactClimate(AreaID , YearID, Humidity, Rainfall, Temperature)
-        SELECT AreaId, YearID, Humidity, Rainfall, Temperature FROM ClimateSourceDataStaging;
+        INSERT INTO FactClimate(DistrictId , YearID, Humidity, Rainfall, Temperature)
+        SELECT DistrictId, YearID, Humidity, Rainfall, Temperature FROM ClimateSourceDataStaging;
 
-        INSERT INTO FactForest(AreaID , YearID, Afforestation, SumOfForestAcreage, RatioForestCover)
-        SELECT AreaId, YearID, Afforestation, SumOfForestAcreage, RatioForestCover FROM ForestSourceDataStaging;
+        INSERT INTO FactForest(DistrictId , YearID, Afforestation, SumOfForestAcreage, RatioForestCover)
+        SELECT DistrictId, YearID, Afforestation, SumOfForestAcreage, RatioForestCover FROM ForestSourceDataStaging;
 
-        INSERT INTO FactIndustry(AreaID , YearID, Industry)
-        SELECT AreaId, YearID, Industry FROM IndustrySourceDataStaging;
+        INSERT INTO FactIndustry(DistrictId , YearID, Industry)
+        SELECT DistrictId, YearID, Industry FROM IndustrySourceDataStaging;
 
-        INSERT INTO FactPopulation(AreaID , YearID, Population)
-        SELECT AreaId, YearID, Population FROM PopulationSourceDataStaging;
+        INSERT INTO FactPopulation(DistrictId , YearID, Population)
+        SELECT DistrictId, YearID, Population FROM PopulationSourceDataStaging;
     """)
 
 
