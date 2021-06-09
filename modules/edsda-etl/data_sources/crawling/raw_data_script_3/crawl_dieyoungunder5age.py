@@ -1,0 +1,1 @@
+print('die young under 5 age called !')

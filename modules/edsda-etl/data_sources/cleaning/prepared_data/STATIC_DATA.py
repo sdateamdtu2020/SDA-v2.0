@@ -40,6 +40,7 @@ HATINH = [ 'Thành phố Hà Tĩnh' ,'Thị xã Hồng Lĩnh' ,'Huyện Hương 
 QUANGBINH = [ 'Thành Phố Đồng Hới' ,'Huyện Minh Hóa' ,'Huyện Tuyên Hóa' ,'Huyện Quảng Trạch' ,'Huyện Bố Trạch' ,'Huyện Quảng Ninh' ,'Huyện Lệ Thủy' ,'Thị xã Ba Đồn'  ]
 QUANGTRI = [ 'Thành phố Đông Hà' ,'Thị xã Quảng Trị' ,'Huyện Vĩnh Linh' ,'Huyện Hướng Hóa' ,'Huyện Gio Linh' ,'Huyện Đa Krông' ,'Huyện Cam Lộ' ,'Huyện Triệu Phong' ,'Huyện Hải Lăng'  ]
 THUATHIENHUE = [ 'Thành phố Huế' ,'Huyện Phong Điền' ,'Huyện Quảng Điền' ,'Huyện Phú Vang' ,'Thị xã Hương Thủy' ,'Thị xã Hương Trà' ,'Huyện A Lưới' ,'Huyện Phú Lộc' ,'Huyện Nam Đông'  ]
+HUE= [ 'Thành phố Huế' ,'Huyện Phong Điền' ,'Huyện Quảng Điền' ,'Huyện Phú Vang' ,'Thị xã Hương Thủy' ,'Thị xã Hương Trà' ,'Huyện A Lưới' ,'Huyện Phú Lộc' ,'Huyện Nam Đông'  ]
 DANANG = [ 'Quận Liên Chiểu' ,'Quận Thanh Khê' ,'Quận Hải Châu' ,'Quận Sơn Trà' ,'Quận Ngũ Hành Sơn' ,'Quận Cẩm Lệ' ,'Huyện Hòa Vang'  ]
 QUANGNAM = [ 'Thành phố Tam Kỳ' ,'Thành phố Hội An' ,'Huyện Tây Giang' ,'Huyện Đông Giang' ,'Huyện Đại Lộc' ,'Thị xã Điện Bàn' ,'Huyện Duy Xuyên' ,'Huyện Quế Sơn' ,'Huyện Nam Giang' ,'Huyện Phước Sơn' ,'Huyện Hiệp Đức' ,'Huyện Thăng Bình' ,'Huyện Tiên Phước' ,'Huyện Bắc Trà My' ,'Huyện Nam Trà My' ,'Huyện Núi Thành' ,'Huyện Phú Ninh' ,'Huyện Nông Sơn'  ]
 QUANGNGAI = [ 'Thành phố Quảng Ngãi' ,'Huyện Bình Sơn' ,'Huyện Trà Bồng' ,'Huyện Tây Trà' ,'Huyện Sơn Tịnh' ,'Huyện Tư Nghĩa' ,'Huyện Sơn Hà' ,'Huyện Sơn Tây' ,'Huyện Minh Long' ,'Huyện Nghĩa Hành' ,'Huyện Mộ Đức' ,'Huyện Đức Phổ' ,'Huyện Ba Tơ' ,'Huyện Lý Sơn'  ]
@@ -76,4 +77,4 @@ CAMAU = [ 'Thành phố Cà Mau' ,'Huyện U Minh' ,'Huyện Thới Bình' ,'Huy
 MESSY_DATA = HANOI+HAIPHONG+DANANG+TPHOCHIMINH+CANTHO
 DISTRICTS_DATA = [HANOI, HAGIANG, CAOBANG, BACKAN, TUYENQUANG, LAOCAI, DIENBIEN, LAICHAU, SONLA, YENBAI, HOABINH, THAINGUYEN, LANGSON, QUANGNINH, BACGIANG, PHUTHO, VINHPHUC, BACNINH, HAIDUONG, HAIPHONG, HUNGYEN, THAIBINH, HANAM, NAMDINH, NINHBINH, THANHHOA, NGHEAN, QUANGBINH, QUANGTRI, THUATHIENHUE, DANANG, QUANGNAM, QUANGNGAI, BINHDINH, PHUYEN, KHANHHOA, NINHTHUAN, BINHTHUAN, KONTUM, GIALAI, DAKLAK, DAKNONG, LAMDONG, BINHPHUOC, TAYNINH,
     BINHDUONG, DONGNAI, BARIAVUNGTAU, TPHOCHIMINH, LONGAN, TIENGIANG, BENTRE,
-    TRAVINH, VINHLONG, DONGTHAP, ANGIANG, KIENGIANG, CANTHO, HAUGIANG, SOCTRANG, BACLIEU, CAMAU]
+    TRAVINH, VINHLONG, DONGTHAP, ANGIANG, KIENGIANG, CANTHO, HAUGIANG, SOCTRANG, BACLIEU, CAMAU, HUE]
