@@ -1,0 +1,2836 @@
+[
+  {
+    "data": {
+      "area": "Tây Bắc",
+      "cities": [
+        {
+          "city": "Phú Thọ",
+          "districts": [
+            { "district": "Huyện Đoan Hùng", "years": null },
+            { "district": "Huyện Hạ Hoà", "years": null },
+            { "district": "Huyện Lâm Thao", "years": null },
+            { "district": "Huyện Tam Nông", "years": null },
+            { "district": "Huyện Tân Sơn", "years": null },
+            { "district": "Huyện Thanh Ba", "years": null },
+            { "district": "Thị xã Phú Thọ", "years": null },
+            { "district": "Huyện Phù Ninh", "years": null },
+            { "district": "Huyện Thanh Sơn", "years": null },
+            { "district": "Huyện Thanh Thuỷ", "years": null },
+            { "district": "Huyện Yên Lập", "years": null }
+          ]
+        },
+        {
+          "city": "Lào Cai",
+          "districts": [
+            { "district": "Huyện Bảo Thắng", "years": null },
+            { "district": "Huyện Bảo Yên", "years": null },
+            { "district": "Huyện Bát Xát", "years": null },
+            { "district": "Huyện Mường Khương", "years": null },
+            { "district": "Huyện Si Ma Cai", "years": null },
+            { "district": "Huyện Văn Bàn", "years": null },
+            { "district": "Thành phố Lào Cai", "years": null },
+            { "district": "Huyện Bắc Hà", "years": null },
+            { "district": "Huyện Sa Pa", "years": null }
+          ]
+        },
+        {
+          "city": "Lai Châu",
+          "districts": [
+            {
+              "district": "Huyện Mường Tè",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 82.3,
+                  "rainfall": 2017.7,
+                  "temperature": 23.6
+                },
+                {
+                  "year": 2019,
+                  "humidity": 82.1,
+                  "rainfall": 2542.5,
+                  "temperature": 20.9
+                }
+              ]
+            },
+            {
+              "district": "Huyện Phong Thổ",
+              "years": [
+                {
+                  "year": 2009,
+                  "humidity": 80.1,
+                  "rainfall": 1975.9,
+                  "temperature": 23.8
+                },
+                {
+                  "year": 2013,
+                  "humidity": 83,
+                  "rainfall": 2656.6,
+                  "temperature": 19.9
+                },
+                {
+                  "year": 2014,
+                  "humidity": 79.6,
+                  "rainfall": 2267.2,
+                  "temperature": 20.1
+                }
+              ]
+            },
+            {
+              "district": "Huyện Sìn Hồ",
+              "years": [
+                {
+                  "year": 2018,
+                  "humidity": 85.2,
+                  "rainfall": 2895.1,
+                  "temperature": 20
+                }
+              ]
+            },
+            {
+              "district": "Huyện Tam Đường",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 83.8,
+                  "rainfall": 2628,
+                  "temperature": 23
+                },
+                {
+                  "year": 2010,
+                  "humidity": 79.2,
+                  "rainfall": 1857.8,
+                  "temperature": 24
+                }
+              ]
+            },
+            {
+              "district": "Huyện Tân Uyên",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 78,
+                  "rainfall": 1727,
+                  "temperature": 23.3
+                },
+                {
+                  "year": 2007,
+                  "humidity": 81,
+                  "rainfall": 2476,
+                  "temperature": 23.2
+                },
+                {
+                  "year": 2016,
+                  "humidity": 81.5,
+                  "rainfall": 2186.4,
+                  "temperature": 20.2
+                },
+                {
+                  "year": 2017,
+                  "humidity": 84.3,
+                  "rainfall": 3179.1,
+                  "temperature": 19.7
+                }
+              ]
+            },
+            {
+              "district": "Huyện Than Uyên",
+              "years": [
+                {
+                  "year": 2012,
+                  "humidity": 83.2,
+                  "rainfall": 2618.7,
+                  "temperature": 20.2
+                },
+                {
+                  "year": 2015,
+                  "humidity": 80.5,
+                  "rainfall": 2295.1,
+                  "temperature": 20.6
+                }
+              ]
+            },
+            { "district": "Thành phố Lai Châu", "years": null },
+            { "district": "Huyện Nậm Nhùn", "years": null }
+          ]
+        },
+        {
+          "city": "Yên Bái",
+          "districts": [
+            { "district": "Huyện Lục Yên", "years": null },
+            { "district": "Huyện Mù Căng Chải", "years": null },
+            { "district": "Huyện Trạm Tấu", "years": null },
+            { "district": "Huyện Trấn Yên", "years": null },
+            { "district": "Huyện Văn Chấn", "years": null },
+            { "district": "Huyện Văn Yên", "years": null },
+            { "district": "Huyện Yên Bình", "years": null },
+            { "district": "Thành phố Yên Bái", "years": null }
+          ]
+        },
+        {
+          "city": "Sơn La",
+          "districts": [
+            {
+              "district": "Huyện Bắc Yên",
+              "years": [
+                {
+                  "year": 2010,
+                  "humidity": 78.3,
+                  "rainfall": 1209.8,
+                  "temperature": 22.1
+                }
+              ]
+            },
+            {
+              "district": "Huyện Mai Sơn",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 80,
+                  "rainfall": 1212,
+                  "temperature": 21.8
+                },
+                {
+                  "year": 2009,
+                  "humidity": 77.9,
+                  "rainfall": 1002.4,
+                  "temperature": 21.9
+                },
+                {
+                  "year": 2013,
+                  "humidity": 80,
+                  "rainfall": 1540,
+                  "temperature": 21.4
+                },
+                {
+                  "year": 2016,
+                  "humidity": 78.8,
+                  "rainfall": 1472.3,
+                  "temperature": 21.9
+                }
+              ]
+            },
+            {
+              "district": "Huyện Mộc Châu",
+              "years": [
+                {
+                  "year": 2014,
+                  "humidity": 79.8,
+                  "rainfall": 1414.6,
+                  "temperature": 21.8
+                },
+                {
+                  "year": 2017,
+                  "humidity": 78.8,
+                  "rainfall": 1382,
+                  "temperature": 21.7
+                }
+              ]
+            },
+            {
+              "district": "Huyện Mường La",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 80,
+                  "rainfall": 1353,
+                  "temperature": 21.5
+                }
+              ]
+            },
+            {
+              "district": "Huyện Quỳnh Nhai",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 82.8,
+                  "rainfall": 2083,
+                  "temperature": 20.7
+                }
+              ]
+            },
+            {
+              "district": "Huyện Sông Mã",
+              "years": [
+                {
+                  "year": 2012,
+                  "humidity": 80.2,
+                  "rainfall": 1480,
+                  "temperature": 21.9
+                }
+              ]
+            },
+            {
+              "district": "Huyện Vân Hồ",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 81.2,
+                  "rainfall": 1093.4,
+                  "temperature": 20.6
+                },
+                {
+                  "year": 2018,
+                  "humidity": 79.3,
+                  "rainfall": 1539.6,
+                  "temperature": 21.6
+                },
+                {
+                  "year": 2019,
+                  "humidity": 77,
+                  "rainfall": 1015.3,
+                  "temperature": 22.7
+                }
+              ]
+            },
+            {
+              "district": "Thành phố Sơn La",
+              "years": [
+                {
+                  "year": 2015,
+                  "humidity": 78.7,
+                  "rainfall": 1803.4,
+                  "temperature": 22.3
+                }
+              ]
+            },
+            { "district": "Huyện Phù Yên", "years": null },
+            { "district": "Huyện Thuận Châu", "years": null },
+            { "district": "Huyện Yên Châu", "years": null },
+            { "district": "Huyện Sốp Cộp", "years": null }
+          ]
+        },
+        {
+          "city": "Hoà Bình",
+          "districts": [
+            { "district": "Huyện Kỳ Sơn", "years": null },
+            { "district": "Huyện Lạc Sơn", "years": null },
+            { "district": "Huyện Lạc Thủy", "years": null },
+            { "district": "Huyện Lương Sơn", "years": null },
+            { "district": "Huyện Mai Châu", "years": null },
+            { "district": "Huyện Tân Lạc", "years": null },
+            { "district": "Huyện Yên Thủy", "years": null },
+            { "district": "Huyện Kim Bôi", "years": null },
+            { "district": "Thành phố Hòa Bình", "years": null },
+            { "district": "Huyện Cao Phong", "years": null },
+            { "district": "Huyện Đà Bắc", "years": null }
+          ]
+        },
+        {
+          "city": "Điện Biên",
+          "districts": [
+            { "district": "Huyện Điện Biên Đông", "years": null },
+            { "district": "Huyện Mường Ảng", "years": null },
+            { "district": "Huyện Mường Chà", "years": null },
+            { "district": "Huyện Mường Nhé", "years": null },
+            { "district": "Huyện Tủa Chùa", "years": null },
+            { "district": "Huyện Tuần Giáo", "years": null },
+            { "district": "Thị Xã Mường Lay", "years": null },
+            { "district": "Huyện Điện Biên", "years": null },
+            { "district": "Huyện Nậm Pồ", "years": null },
+            { "district": "Thành phố Điện Biên Phủ", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Nam Trung Bộ",
+      "cities": [
+        {
+          "city": "Đà Lạt",
+          "districts": [
+            {
+              "district": "Huyện An Lão",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 78,
+                  "rainfall": 819,
+                  "temperature": 27.2
+                },
+                {
+                  "year": 2019,
+                  "humidity": 82.8,
+                  "rainfall": 1680.5,
+                  "temperature": 18.5
+                },
+                {
+                  "year": 2013,
+                  "humidity": 84,
+                  "rainfall": 2499.3,
+                  "temperature": 24.5
+                },
+                {
+                  "year": 2012,
+                  "humidity": 80.8,
+                  "rainfall": 2207.5,
+                  "temperature": 22.5
+                },
+                {
+                  "year": 2010,
+                  "humidity": 87.1,
+                  "rainfall": 2854,
+                  "temperature": 25.4
+                },
+                {
+                  "year": 2018,
+                  "humidity": 86.3,
+                  "rainfall": 2517.3,
+                  "temperature": 25.1
+                }
+              ]
+            },
+            { "district": "Huyện Hoài Đức", "years": null },
+            {
+              "district": "Huyện Hòa Vang",
+              "years": [
+                {
+                  "year": 2018,
+                  "humidity": 79.1,
+                  "rainfall": 2539.1,
+                  "temperature": 26.5
+                },
+                {
+                  "year": 2016,
+                  "humidity": 84.7,
+                  "rainfall": 2033.8,
+                  "temperature": 19
+                },
+                {
+                  "year": 2014,
+                  "humidity": 83.3,
+                  "rainfall": 1466.5,
+                  "temperature": 24.8
+                },
+                {
+                  "year": 2009,
+                  "humidity": 81,
+                  "rainfall": 3017.8,
+                  "temperature": 26.3
+                }
+              ]
+            },
+            {
+              "district": "Huyện Nhà Bè",
+              "years": [
+                {
+                  "year": 2014,
+                  "humidity": 85.8,
+                  "rainfall": 2079,
+                  "temperature": 18.2
+                }
+              ]
+            },
+            {
+              "district": "Huyện Thạch Thất",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 80.8,
+                  "rainfall": 1971,
+                  "temperature": 23.1
+                },
+                {
+                  "year": 2017,
+                  "humidity": 86,
+                  "rainfall": 2047.9,
+                  "temperature": 18.7
+                },
+                {
+                  "year": 2010,
+                  "humidity": 83,
+                  "rainfall": 2725.4,
+                  "temperature": 22
+                }
+              ]
+            },
+            { "district": "Huyện Thường Tín", "years": null },
+            {
+              "district": "Quận 7",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 86.8,
+                  "rainfall": 1577,
+                  "temperature": 18
+                },
+                {
+                  "year": 2010,
+                  "humidity": 82.3,
+                  "rainfall": 1842,
+                  "temperature": 24
+                },
+                {
+                  "year": 2012,
+                  "humidity": 84.2,
+                  "rainfall": 2142,
+                  "temperature": 23.5
+                },
+                {
+                  "year": 2015,
+                  "humidity": 85.4,
+                  "rainfall": 2206.3,
+                  "temperature": 25.7
+                }
+              ]
+            },
+            { "district": "Quận Đồ Sơn", "years": null },
+            {
+              "district": "Quận Hai Bà Trưng",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 83,
+                  "rainfall": 2178,
+                  "temperature": 22.3
+                },
+                {
+                  "year": 2009,
+                  "humidity": 79.6,
+                  "rainfall": 1162.7,
+                  "temperature": 27.7
+                },
+                {
+                  "year": 2018,
+                  "humidity": 84.2,
+                  "rainfall": 1872.3,
+                  "temperature": 18.4
+                }
+              ]
+            },
+            { "district": "Quận Nam Từ Liêm", "years": null },
+            { "district": "Quận Ngũ Hành Sơn", "years": null },
+            {
+              "district": "Quận Ninh Kiều",
+              "years": [
+                {
+                  "year": 2010,
+                  "humidity": 85.8,
+                  "rainfall": 1849.1,
+                  "temperature": 18.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Đà Nẵng",
+          "districts": [
+            { "district": "Huyện Hòa Vang", "years": null },
+            {
+              "district": "Quận Cẩm Lệ",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 82,
+                  "rainfall": 3063,
+                  "temperature": 26.2
+                },
+                {
+                  "year": 2019,
+                  "humidity": 78.1,
+                  "rainfall": 2150.4,
+                  "temperature": 27.3
+                },
+                {
+                  "year": 2013,
+                  "humidity": 81,
+                  "rainfall": 2316.7,
+                  "temperature": 26.2
+                },
+                {
+                  "year": 2014,
+                  "humidity": 80.6,
+                  "rainfall": 2224.1,
+                  "temperature": 26.3
+                }
+              ]
+            },
+            { "district": "Quận Hải Châu", "years": null },
+            {
+              "district": "Quận Liên Chiểu",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 80.8,
+                  "rainfall": 3647.8,
+                  "temperature": 25.2
+                },
+                {
+                  "year": 2015,
+                  "humidity": 80.7,
+                  "rainfall": 1872.4,
+                  "temperature": 26.7
+                }
+              ]
+            },
+            {
+              "district": "Quận Sơn Trà",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 81,
+                  "rainfall": 2233,
+                  "temperature": 26.3
+                }
+              ]
+            },
+            {
+              "district": "Quận Thanh Khê",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 82,
+                  "rainfall": 2528,
+                  "temperature": 25.5
+                },
+                {
+                  "year": 2009,
+                  "humidity": 87.2,
+                  "rainfall": 3809.1,
+                  "temperature": 25
+                },
+                {
+                  "year": 2012,
+                  "humidity": 79.9,
+                  "rainfall": 1696.1,
+                  "temperature": 26.5
+                }
+              ]
+            },
+            { "district": "Quận Ngũ Hành Sơn", "years": null }
+          ]
+        },
+        {
+          "city": "Vũng Tàu",
+          "districts": [
+            {
+              "district": "Huyện An Dương",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 80,
+                  "rainfall": 1565,
+                  "temperature": 26.7
+                },
+                {
+                  "year": 2011,
+                  "humidity": 79.1,
+                  "rainfall": 1382.9,
+                  "temperature": 27.5
+                }
+              ]
+            },
+            { "district": "Huyện Đông Anh", "years": null },
+            {
+              "district": "Huyện Kiến Thuỵ",
+              "years": [
+                {
+                  "year": 2010,
+                  "humidity": 81.8,
+                  "rainfall": 1162.7,
+                  "temperature": 27.7
+                }
+              ]
+            },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Quận 11", "years": null },
+            {
+              "district": "Quận Bình Thạnh",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 77,
+                  "rainfall": 1514,
+                  "temperature": 28
+                },
+                {
+                  "year": 2014,
+                  "humidity": 80.2,
+                  "rainfall": 2457.7,
+                  "temperature": 22.4
+                },
+                {
+                  "year": 2017,
+                  "humidity": 78.5,
+                  "rainfall": 1709.7,
+                  "temperature": 28
+                }
+              ]
+            },
+            {
+              "district": "Quận Bình Thuỷ",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 87.6,
+                  "rainfall": 3850,
+                  "temperature": 24.2
+                },
+                {
+                  "year": 2012,
+                  "humidity": 78.2,
+                  "rainfall": 1215.6,
+                  "temperature": 28
+                },
+                {
+                  "year": 2019,
+                  "humidity": 76.8,
+                  "rainfall": 1067.9,
+                  "temperature": 28.2
+                },
+                {
+                  "year": 2015,
+                  "humidity": 80.1,
+                  "rainfall": 1634.1,
+                  "temperature": 22.9
+                }
+              ]
+            },
+            {
+              "district": "Quận Gò Vấp",
+              "years": [
+                {
+                  "year": 2015,
+                  "humidity": 76.8,
+                  "rainfall": 1279.5,
+                  "temperature": 28.1
+                },
+                {
+                  "year": 2018,
+                  "humidity": 78,
+                  "rainfall": 1571.3,
+                  "temperature": 27.9
+                },
+                {
+                  "year": 2018,
+                  "humidity": 82.1,
+                  "rainfall": 1918.7,
+                  "temperature": 24.9
+                }
+              ]
+            },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Nam Từ Liêm", "years": null },
+            {
+              "district": "Quận Ô Môn",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 78,
+                  "rainfall": 1522,
+                  "temperature": 27.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Kon Tum",
+          "districts": [
+            { "district": "Huyện Đắk Glei", "years": null },
+            { "district": "Huyện Đắk Hà", "years": null },
+            { "district": "Huyện Ia H Drai", "years": null },
+            { "district": "Huyện Kon Plông", "years": null },
+            { "district": "Huyện Kon Rẫy", "years": null },
+            { "district": "Huyện Ngọc Hồi", "years": null },
+            { "district": "Huyện Tu Mơ Rông", "years": null },
+            { "district": "Thành phố Kon Tum", "years": null },
+            { "district": "Huyện Sa Thầy", "years": null }
+          ]
+        },
+        {
+          "city": "Khánh Hoà",
+          "districts": [
+            { "district": "Huyện Khánh Sơn", "years": null },
+            { "district": "Huyện Khánh Vĩnh", "years": null },
+            { "district": "Huyện Vạn Ninh", "years": null },
+            { "district": "Thành phố Cam Ranh", "years": null },
+            { "district": "Thị xã Ninh Hòa", "years": null },
+            { "district": "Huyện Cam Lâm", "years": null },
+            { "district": "Thành phố Nha Trang", "years": null },
+            { "district": "Huyện Trường Sa", "years": null }
+          ]
+        },
+        {
+          "city": "Gia Lai",
+          "districts": [
+            { "district": "Huyện Chư Păh", "years": null },
+            { "district": "Huyện Chư Prông", "years": null },
+            { "district": "Huyện Chư Pưh", "years": null },
+            { "district": "Huyện Chư Sê", "years": null },
+            { "district": "Huyện Đức Cơ", "years": null },
+            { "district": "Huyện Ia Grai", "years": null },
+            { "district": "Huyện Phú Thiện", "years": null },
+            { "district": "Thành phố Pleiku", "years": null },
+            { "district": "Thị xã An Khê", "years": null },
+            { "district": "Huyện Đăk Đoa", "years": null },
+            { "district": "Huyện Kông Chro", "years": null },
+            { "district": "Huyện Đăk Pơ", "years": null },
+            { "district": "Huyện Ia Pa", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Ngãi",
+          "districts": [
+            { "district": "Huyện Đức Phổ", "years": null },
+            { "district": "Huyện Lý Sơn", "years": null },
+            { "district": "Huyện Nghĩa Hành", "years": null },
+            { "district": "Huyện Sơn Hà", "years": null },
+            { "district": "Huyện Tây Trà", "years": null },
+            { "district": "Huyện Trà Bồng", "years": null },
+            { "district": "Thành phố Quảng Ngãi", "years": null },
+            { "district": "Huyện Bình Sơn", "years": null },
+            { "district": "Huyện Minh Long", "years": null },
+            { "district": "Huyện Mộ Đức", "years": null },
+            { "district": "Huyện Sơn Tịnh", "years": null },
+            { "district": "Huyện Ba Tơ", "years": null },
+            { "district": "Huyện Tư Nghĩa", "years": null }
+          ]
+        },
+        {
+          "city": "Đắk Nông",
+          "districts": [
+            { "district": "Huyện Cư Jút", "years": null },
+            { "district": "Huyện Đăk Glong", "years": null },
+            { "district": "Huyện Đắk Song", "years": null },
+            { "district": "Huyện Krông Nô", "years": null },
+            { "district": "Huyện Tuy Đức", "years": null },
+            { "district": "Thị xã Gia Nghĩa", "years": null },
+            { "district": "Huyện Đắk RLấp", "years": null },
+            { "district": "Huyện Đắk Mil", "years": null }
+          ]
+        },
+        {
+          "city": "Bình Định",
+          "districts": [
+            { "district": "Huyện Hoài Ân", "years": null },
+            { "district": "Huyện Hoài Nhơn", "years": null },
+            { "district": "Huyện Phù Cát", "years": null },
+            { "district": "Huyện Tây Sơn", "years": null },
+            { "district": "Huyện Vân Canh", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            { "district": "Thành phố Qui Nhơn", "years": null },
+            { "district": "Thị xã An Nhơn", "years": null },
+            { "district": "Huyện Tuy Phước", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Nam",
+          "districts": [
+            { "district": "Huyện Đại Lộc", "years": null },
+            { "district": "Huyện Hiệp Đức", "years": null },
+            { "district": "Huyện Nam Giang", "years": null },
+            { "district": "Huyện Nông Sơn", "years": null },
+            { "district": "Huyện Phước Sơn", "years": null },
+            { "district": "Huyện Quế Sơn", "years": null },
+            { "district": "Huyện Tiên Phước", "years": null },
+            { "district": "Thành phố Hội An", "years": null },
+            { "district": "Thành phố Tam Kỳ", "years": null },
+            { "district": "Huyện Bắc Trà My", "years": null },
+            { "district": "Huyện Đông Giang", "years": null },
+            { "district": "Huyện Thăng Bình", "years": null },
+            { "district": "Huyện Nam Trà My", "years": null },
+            { "district": "Huyện Núi Thành", "years": null },
+            { "district": "Huyện Phú Ninh", "years": null },
+            { "district": "Huyện Tây Giang", "years": null }
+          ]
+        },
+        {
+          "city": "Phú Yên",
+          "districts": [
+            { "district": "Huyện Đông Hòa", "years": null },
+            { "district": "Huyện Sông Hinh", "years": null },
+            { "district": "Huyện Sơn Hòa", "years": null },
+            { "district": "Huyện Tây Hoà", "years": null },
+            { "district": "Thành phố Tuy Hoà", "years": null },
+            { "district": "Thị xã Sông Cầu", "years": null },
+            { "district": "Huyện Đồng Xuân", "years": null },
+            { "district": "Huyện Phú Hoà", "years": null },
+            { "district": "Huyện Tuy An", "years": null }
+          ]
+        },
+        {
+          "city": "Đắk Lắk",
+          "districts": [
+            { "district": "Huyện Buôn Đôn", "years": null },
+            { "district": "Huyện Cư Mgar", "years": null },
+            { "district": "Huyện Ea Hleo", "years": null },
+            { "district": "Huyện Ea Kar", "years": null },
+            { "district": "Huyện Ea Súp", "years": null },
+            { "district": "uyện Krông A Na", "years": null },
+            { "district": "Huyện Krông Búk", "years": null },
+            { "district": "Huyện MĐrắk", "years": null },
+            { "district": "Huyện Cư Kuin", "years": null },
+            { "district": "Huyện Krông Năng", "years": null },
+            { "district": "Huyện Krông Pắc", "years": null },
+            { "district": "Huyện Krông Bông", "years": null },
+            { "district": "Thành phố Buôn Ma Thuột", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đông Nam Bộ",
+      "cities": [
+        {
+          "city": "Đông Nam Bộ",
+          "districts": [
+            { "district": "Huyện An Dương", "years": null },
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Chương Mỹ", "years": null },
+            { "district": "Huyện Hoài Đức", "years": null },
+            { "district": "Huyện Nhà Bè", "years": null },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            { "district": "Huyện Ứng Hòa", "years": null },
+            { "district": "Thị xã Sơn Tây", "years": null }
+          ]
+        },
+        {
+          "city": "Nha Trang",
+          "districts": [
+            { "district": "Huyện An Dương", "years": null },
+            { "district": "Huyện An Lão", "years": null },
+            {
+              "district": "Huyện Cát Hải",
+              "years": [
+                {
+                  "year": 2019,
+                  "humidity": 76.1,
+                  "rainfall": 980.9,
+                  "temperature": 27.9
+                },
+                {
+                  "year": 2013,
+                  "humidity": 83,
+                  "rainfall": 2724.1,
+                  "temperature": 23.5
+                },
+                {
+                  "year": 2015,
+                  "humidity": 77,
+                  "rainfall": 1450.5,
+                  "temperature": 27.4
+                }
+              ]
+            },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            { "district": "Huyện Quốc Oai", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            {
+              "district": "Quận 2",
+              "years": [
+                {
+                  "year": 2014,
+                  "humidity": 76.9,
+                  "rainfall": 972.2,
+                  "temperature": 27.1
+                }
+              ]
+            },
+            { "district": "Quận 8", "years": null },
+            {
+              "district": "Quận Ngô Quyền",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 80.3,
+                  "rainfall": 2301,
+                  "temperature": 26.6
+                },
+                {
+                  "year": 2016,
+                  "humidity": 79.4,
+                  "rainfall": 2392.2,
+                  "temperature": 27.5
+                }
+              ]
+            },
+            { "district": "Quận Tây Hồ", "years": null },
+            { "district": "Quận Thốt Nốt", "years": null }
+          ]
+        },
+        {
+          "city": "Pleiku",
+          "districts": [
+            { "district": "Huyện An Lão", "years": null },
+            {
+              "district": "Huyện Củ Chi",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 78.7,
+                  "rainfall": 2337,
+                  "temperature": 26.8
+                },
+                {
+                  "year": 2009,
+                  "humidity": 77.7,
+                  "rainfall": 2273.6,
+                  "temperature": 27.2
+                },
+                {
+                  "year": 2013,
+                  "humidity": 80,
+                  "rainfall": 2243.8,
+                  "temperature": 22.4
+                },
+                {
+                  "year": 2019,
+                  "humidity": 84.9,
+                  "rainfall": 1984.6,
+                  "temperature": 26.4
+                }
+              ]
+            },
+            {
+              "district": "Huyện Hoài Đức",
+              "years": [
+                {
+                  "year": 2009,
+                  "humidity": 85.8,
+                  "rainfall": 1849.1,
+                  "temperature": 18.2
+                },
+                {
+                  "year": 2009,
+                  "humidity": 83.2,
+                  "rainfall": 2725.4,
+                  "temperature": 22
+                }
+              ]
+            },
+            { "district": "Huyện Thạch Thất", "years": null },
+            {
+              "district": "Huyện Thanh Trì",
+              "years": [
+                {
+                  "year": 2018,
+                  "humidity": 81.6,
+                  "rainfall": 2329.3,
+                  "temperature": 22.6
+                }
+              ]
+            },
+            {
+              "district": "Quận 4",
+              "years": [
+                {
+                  "year": 2017,
+                  "humidity": 82.5,
+                  "rainfall": 1887.3,
+                  "temperature": 22.8
+                }
+              ]
+            },
+            { "district": "Quận 8", "years": null },
+            { "district": "Quận Bình Thạnh", "years": null },
+            { "district": "Quận Bình Thuỷ", "years": null },
+            {
+              "district": "Quận Cái Răng",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 83.5,
+                  "rainfall": 1645,
+                  "temperature": 21.8
+                }
+              ]
+            },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            {
+              "district": "Quận Hồng Bàng",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 82,
+                  "rainfall": 2567.2,
+                  "temperature": 21.6
+                }
+              ]
+            },
+            {
+              "district": "Quận Tây Hồ",
+              "years": [
+                {
+                  "year": 2019,
+                  "humidity": 81.1,
+                  "rainfall": 2062,
+                  "temperature": 22.9
+                },
+                {
+                  "year": 2013,
+                  "humidity": 78,
+                  "rainfall": 1365.4,
+                  "temperature": 27.2
+                },
+                {
+                  "year": 2011,
+                  "humidity": 77.3,
+                  "rainfall": 1795.2,
+                  "temperature": 23.3
+                }
+              ]
+            },
+            {
+              "district": "Thị xã Sơn Tây",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 79,
+                  "rainfall": 2241,
+                  "temperature": 27
+                },
+                {
+                  "year": 2016,
+                  "humidity": 81.2,
+                  "rainfall": 1890,
+                  "temperature": 23.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Qui Nhơn",
+          "districts": [
+            { "district": "Huyện Củ Chi", "years": null },
+            {
+              "district": "Huyện Thanh Oai",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 76.4,
+                  "rainfall": 1524.9,
+                  "temperature": 26.9
+                }
+              ]
+            },
+            {
+              "district": "Huyện Vĩnh Thạnh",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 77,
+                  "rainfall": 1291,
+                  "temperature": 27.4
+                },
+                {
+                  "year": 2016,
+                  "humidity": 80.4,
+                  "rainfall": 2518.3,
+                  "temperature": 27.4
+                },
+                {
+                  "year": 2012,
+                  "humidity": 78.5,
+                  "rainfall": 1681.7,
+                  "temperature": 27.5
+                },
+                {
+                  "year": 2012,
+                  "humidity": 85,
+                  "rainfall": 2370,
+                  "temperature": 25.3
+                }
+              ]
+            },
+            {
+              "district": "Quận 8",
+              "years": [
+                {
+                  "year": 2013,
+                  "humidity": 79,
+                  "rainfall": 1904.9,
+                  "temperature": 27.2
+                },
+                {
+                  "year": 2007,
+                  "humidity": 83,
+                  "rainfall": 2314,
+                  "temperature": 22.2
+                },
+                {
+                  "year": 2011,
+                  "humidity": 77.6,
+                  "rainfall": 1327.6,
+                  "temperature": 26.7
+                }
+              ]
+            },
+            {
+              "district": "Quận Hà Đông",
+              "years": [
+                {
+                  "year": 2012,
+                  "humidity": 75.2,
+                  "rainfall": 1483,
+                  "temperature": 27.7
+                },
+                {
+                  "year": 2014,
+                  "humidity": 78.5,
+                  "rainfall": 1660.6,
+                  "temperature": 24.6
+                },
+                {
+                  "year": 2017,
+                  "humidity": 76.6,
+                  "rainfall": 1858.8,
+                  "temperature": 25.1
+                }
+              ]
+            },
+            {
+              "district": "Quận Hoàng Mai",
+              "years": [
+                {
+                  "year": 2009,
+                  "humidity": 81.3,
+                  "rainfall": 1409.2,
+                  "temperature": 25
+                },
+                {
+                  "year": 2014,
+                  "humidity": 77.5,
+                  "rainfall": 1627.9,
+                  "temperature": 27.2
+                }
+              ]
+            },
+            {
+              "district": "Quận Nam Từ Liêm",
+              "years": [
+                {
+                  "year": 2016,
+                  "humidity": 78.5,
+                  "rainfall": 1366,
+                  "temperature": 28.3
+                },
+                {
+                  "year": 2010,
+                  "humidity": 80.8,
+                  "rainfall": 2684.9,
+                  "temperature": 27.4
+                },
+                {
+                  "year": 2013,
+                  "humidity": 84,
+                  "rainfall": 1935.4,
+                  "temperature": 18.4
+                }
+              ]
+            },
+            {
+              "district": "Quận Phú Nhuận",
+              "years": [
+                {
+                  "year": 2017,
+                  "humidity": 79.6,
+                  "rainfall": 2396.3,
+                  "temperature": 27.4
+                }
+              ]
+            },
+            {
+              "district": "Quận Tân Phú",
+              "years": [
+                {
+                  "year": 2015,
+                  "humidity": 80,
+                  "rainfall": 1351.4,
+                  "temperature": 27.5
+                }
+              ]
+            },
+            {
+              "district": "Quận Thanh Xuân",
+              "years": [
+                {
+                  "year": 2019,
+                  "humidity": 76.4,
+                  "rainfall": 1951.6,
+                  "temperature": 28.1
+                },
+                {
+                  "year": 2016,
+                  "humidity": 86.8,
+                  "rainfall": 3799.5,
+                  "temperature": 25.4
+                },
+                {
+                  "year": 2019,
+                  "humidity": 75.3,
+                  "rainfall": 1311.4,
+                  "temperature": 25.9
+                }
+              ]
+            },
+            {
+              "district": "Quận Thủ Đức",
+              "years": [
+                {
+                  "year": 2018,
+                  "humidity": 76.8,
+                  "rainfall": 1843.8,
+                  "temperature": 27.6
+                }
+              ]
+            },
+            { "district": "Thị xã Sơn Tây", "years": null }
+          ]
+        },
+        {
+          "city": "Bà Rịa - Vũng Tàu",
+          "districts": [
+            { "district": "Huyện Châu Đức", "years": null },
+            { "district": "Huyện Đất Đỏ", "years": null },
+            { "district": "Huyện Long Điền", "years": null },
+            { "district": "Huyện Tân Thành", "years": null },
+            { "district": "Huyện Xuyên Mộc", "years": null },
+            { "district": "Thành phố Bà Rịa", "years": null },
+            { "district": "Thành phố Vũng Tàu", "years": null }
+          ]
+        },
+        {
+          "city": "Bình Dương",
+          "districts": [
+            { "district": "Huyện Bắc Tân Uyên", "years": null },
+            { "district": "Huyện Bàu Bàng", "years": null },
+            { "district": "Huyện Phú Giáo", "years": null },
+            { "district": "Thành phố Thủ Dầu Một", "years": null },
+            { "district": "Thị xã Dĩ An", "years": null },
+            { "district": "Thị xã Tân Uyên", "years": null },
+            { "district": "Thị xã Thuận An", "years": null },
+            { "district": "Huyện Dầu Tiếng", "years": null },
+            { "district": "Thị xã Bến Cát", "years": null }
+          ]
+        },
+        {
+          "city": "Bình Phước",
+          "districts": [
+            { "district": "Huyện Bù Đăng", "years": null },
+            { "district": "Huyện Bù Đốp", "years": null },
+            { "district": "Huyện Đồng Phú", "years": null },
+            { "district": "Huyện Lộc Ninh", "years": null },
+            { "district": "Huyện Phú Riềng", "years": null },
+            { "district": "Thị xã Bình Long", "years": null },
+            { "district": "Thị xã Phước Long", "years": null },
+            { "district": "Huyện Bù Gia Mập", "years": null },
+            { "district": "Thị xã Đồng Xoài", "years": null },
+            { "district": "Huyện Hớn Quản", "years": null }
+          ]
+        },
+        {
+          "city": "Bình Thuận",
+          "districts": [
+            { "district": "Huyện Bắc Bình", "years": null },
+            { "district": "Huyện Hàm Tân", "years": null },
+            { "district": "Huyện Hàm Thuận Bắc", "years": null },
+            { "district": "Huyện Hàm Thuận Nam", "years": null },
+            { "district": "Huyện Phú Quí", "years": null },
+            { "district": "Huyện Tuy Phong", "years": null },
+            { "district": "Huyện Tánh Linh", "years": null },
+            { "district": "Thành phố Phan Thiết", "years": null }
+          ]
+        },
+        {
+          "city": "Đồng Nai",
+          "districts": [
+            { "district": "Huyện Cẩm Mỹ", "years": null },
+            { "district": "Huyện Long Thành", "years": null },
+            { "district": "Huyện Nhơn Trạch", "years": null },
+            { "district": "Huyện Thống Nhất", "years": null },
+            { "district": "Huyện Trảng Bom", "years": null },
+            { "district": "Huyện Vĩnh Cửu", "years": null },
+            { "district": "Huyện Xuân Lộc", "years": null },
+            { "district": "Thành phố Biên Hòa", "years": null },
+            { "district": "Thị xã Long Khánh", "years": null },
+            { "district": "Huyện Định Quán", "years": null },
+            { "district": "Huyện Tân Phú", "years": null }
+          ]
+        },
+        {
+          "city": "Lâm Đồng",
+          "districts": [
+            { "district": "Huyện Bảo Lâm", "years": null },
+            { "district": "Huyện Cát Tiên", "years": null },
+            { "district": "Huyện Đam Rông", "years": null },
+            { "district": "Huyện Đạ Tẻh", "years": null },
+            { "district": "Huyện Di Linh", "years": null },
+            { "district": "Huyện Đức Trọng", "years": null },
+            { "district": "Huyện Lâm Hà", "years": null },
+            { "district": "Thành phố Đà Lạt", "years": null },
+            { "district": "Huyện Đạ Huoai", "years": null },
+            { "district": "Huyện Đơn Dương", "years": null },
+            { "district": "Huyện Lạc Dương", "years": null },
+            { "district": "Thành phố Bảo Lộc", "years": null }
+          ]
+        },
+        {
+          "city": "Ninh Thuận",
+          "districts": [
+            { "district": "Huyện Bác Ái", "years": null },
+            { "district": "Huyện Ninh Hải", "years": null },
+            { "district": "Huyện Ninh Phước", "years": null },
+            { "district": "Huyện Thuận Bắc", "years": null },
+            { "district": "Huyện Thuận Nam", "years": null },
+            { "district": "Thành phố Phan RangTháp Chàm", "years": null },
+            { "district": "Huyện Ninh Sơn", "years": null }
+          ]
+        },
+        {
+          "city": "Tây Nguyên",
+          "districts": [
+            { "district": "Huyện Cát Hải", "years": null },
+            { "district": "Huyện Hóc Môn", "years": null },
+            { "district": "Huyện Sóc Sơn", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Quận 5", "years": null },
+            { "district": "Quận Ba Đình", "years": null },
+            { "district": "Quận Đống Đa", "years": null },
+            { "district": "Quận Dương Kinh", "years": null },
+            { "district": "Quận Long BiênQuận Cầu Giấy", "years": null },
+            { "district": "Quận Thủ Đức", "years": null },
+            { "district": "Thị xã Sơn Tây", "years": null },
+            { "district": "Huyện Củ Chi", "years": null },
+            { "district": "Huyện Đông Anh", "years": null },
+            { "district": "Quận 11", "years": null },
+            { "district": "Quận 4", "years": null },
+            { "district": "Quận Gò Vấp", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Hoàn Kiếm", "years": null }
+          ]
+        },
+        {
+          "city": "Tây Ninh",
+          "districts": [
+            { "district": "Huyện Bến Cầu", "years": null },
+            { "district": "Huyện Dương Minh Châu", "years": null },
+            { "district": "Huyện Gò Dầu", "years": null },
+            { "district": "Huyện Hòa Thành", "years": null },
+            { "district": "Huyện Tân Biên", "years": null },
+            { "district": "Huyện Tân Châu", "years": null },
+            { "district": "Huyện Trảng Bàng", "years": null },
+            { "district": "Thành phố Tây Ninh", "years": null }
+          ]
+        },
+        {
+          "city": "TP.Hồ Chí Minh",
+          "districts": [
+            { "district": "Huyện Củ Chi", "years": null },
+            { "district": "Huyện Nhà Bè", "years": null },
+            { "district": "Quận 1", "years": null },
+            { "district": "Quận 11", "years": null },
+            { "district": "Quận 2", "years": null },
+            { "district": "Quận 4", "years": null },
+            { "district": "Quận 9", "years": null },
+            { "district": "Quận Bình Tân", "years": null },
+            { "district": "Quận Bình Thạnh", "years": null },
+            { "district": "Quận Phú Nhuận", "years": null },
+            { "district": "Huyện Bình Chánh", "years": null },
+            { "district": "Quận 3", "years": null },
+            { "district": "Quận 5", "years": null },
+            { "district": "Quận 6", "years": null },
+            { "district": "Quận Tân Phú", "years": null },
+            { "district": "Quận 12", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đồng Bằng Sông Hồng",
+      "cities": [
+        {
+          "city": "Hải Phòng",
+          "districts": [
+            { "district": "Huyện An Dương", "years": null },
+            { "district": "Huyện Cát Hải", "years": null },
+            { "district": "Huyện Vĩnh Bảo", "years": null },
+            { "district": "Quận Đồ Sơn", "years": null },
+            { "district": "Quận Hải An", "years": null },
+            { "district": "Quận Hồng Bàng", "years": null },
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Kiến Thuỵ", "years": null },
+            { "district": "Huyện Thuỷ Nguyên", "years": null },
+            { "district": "Quận Dương Kinh", "years": null },
+            { "district": "Quận Kiến An", "years": null },
+            { "district": "Huyện Tiên Lãng", "years": null },
+            { "district": "Quận Ngô Quyền", "years": null }
+          ]
+        },
+        {
+          "city": "Ninh Bình",
+          "districts": [
+            { "district": "Huyện Gia Viễn", "years": null },
+            { "district": "Huyện Kim Sơn", "years": null },
+            { "district": "Huyện Nho Quan", "years": null },
+            { "district": "Thành phố Ninh Bình", "years": null },
+            { "district": "Thành phố Tam Điệp", "years": null },
+            { "district": "Huyện Hoa Lư", "years": null },
+            { "district": "Huyện Yên Khánh", "years": null }
+          ]
+        },
+        {
+          "city": "Hà Nam",
+          "districts": [
+            { "district": "Huyện Duy Tiên", "years": null },
+            { "district": "Huyện Kim Bảng", "years": null },
+            { "district": "Huyện Lý Nhân", "years": null },
+            { "district": "Huyện Thanh Liêm", "years": null },
+            { "district": "Thành phố Phủ Lý", "years": null },
+            { "district": "Huyện Bình Lục", "years": null }
+          ]
+        },
+        {
+          "city": "Thái Bình",
+          "districts": [
+            { "district": "Huyện Đông Hưng", "years": null },
+            { "district": "Huyện Hưng Hà", "years": null },
+            { "district": "Huyện Quỳnh Phụ", "years": null },
+            { "district": "Huyện Thái Thụy", "years": null },
+            { "district": "Huyện Vũ Thư", "years": null },
+            { "district": "Thành phố Thái Bình", "years": null },
+            { "district": "Huyện Kiến Xương", "years": null },
+            { "district": "Huyện Tiền Hải", "years": null }
+          ]
+        },
+        {
+          "city": "Nam Định",
+          "districts": [
+            {
+              "district": "Huyện Giao Thủy",
+              "years": [
+                {
+                  "year": 2009,
+                  "humidity": 82.9,
+                  "rainfall": 1643.6,
+                  "temperature": 24.4
+                }
+              ]
+            },
+            {
+              "district": "Huyện Mỹ Lộc",
+              "years": [
+                {
+                  "year": 2016,
+                  "humidity": 80.7,
+                  "rainfall": 1612.3,
+                  "temperature": 24.6
+                }
+              ]
+            },
+            {
+              "district": "Huyện Nam Trực",
+              "years": [
+                {
+                  "year": 2017,
+                  "humidity": 82.8,
+                  "rainfall": 2318.3,
+                  "temperature": 24.4
+                }
+              ]
+            },
+            {
+              "district": "Huyện Nghĩa Hưng",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 82,
+                  "rainfall": 1087,
+                  "temperature": 24.2
+                },
+                {
+                  "year": 2019,
+                  "humidity": 82.7,
+                  "rainfall": 1265,
+                  "temperature": 25.3
+                },
+                {
+                  "year": 2008,
+                  "humidity": 83.6,
+                  "rainfall": 1800,
+                  "temperature": 23.3
+                }
+              ]
+            },
+            {
+              "district": "Huyện Trực Ninh",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 81.1,
+                  "rainfall": 1767.2,
+                  "temperature": 22.9
+                }
+              ]
+            },
+            {
+              "district": "Huyện Xuân Trường",
+              "years": [
+                {
+                  "year": 2014,
+                  "humidity": 83.6,
+                  "rainfall": 1721.4,
+                  "temperature": 24.2
+                },
+                {
+                  "year": 2018,
+                  "humidity": 82.4,
+                  "rainfall": 1800.1,
+                  "temperature": 24.5
+                }
+              ]
+            },
+            {
+              "district": "Huyện Ý Yên",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 83,
+                  "rainfall": 1114,
+                  "temperature": 24.4
+                },
+                {
+                  "year": 2010,
+                  "humidity": 83,
+                  "rainfall": 1461.4,
+                  "temperature": 24.6
+                },
+                {
+                  "year": 2012,
+                  "humidity": 84.7,
+                  "rainfall": 1772.8,
+                  "temperature": 24
+                },
+                {
+                  "year": 2015,
+                  "humidity": 82.2,
+                  "rainfall": 1349.7,
+                  "temperature": 25
+                }
+              ]
+            },
+            {
+              "district": "Thành phố Nam Định",
+              "years": [
+                {
+                  "year": 2013,
+                  "humidity": 84,
+                  "rainfall": 1757.3,
+                  "temperature": 23.8
+                }
+              ]
+            },
+            { "district": "Huyện Vụ Bản", "years": null },
+            { "district": "Huyện Hải Hậu", "years": null }
+          ]
+        },
+        {
+          "city": "Vĩnh Phúc",
+          "districts": [
+            { "district": "Huyện Bình Xuyên", "years": null },
+            { "district": "Huyện Lập Thạch", "years": null },
+            { "district": "Huyện Tam Dương", "years": null },
+            { "district": "Huyện Vĩnh Tường", "years": null },
+            { "district": "Thành phố Vĩnh Yên", "years": null },
+            { "district": "Thị xã Phúc Yên", "years": null },
+            { "district": "Huyện Sông Lô", "years": null },
+            { "district": "Huyện Tam Đảo", "years": null },
+            { "district": "Huyện Yên Lạc", "years": null }
+          ]
+        },
+        {
+          "city": "Bắc Ninh",
+          "districts": [
+            { "district": "Huyện Gia Bình", "years": null },
+            { "district": "Huyện Lương Tài", "years": null },
+            { "district": "Huyện Quế Võ", "years": null },
+            { "district": "Huyện Thuận Thành", "years": null },
+            { "district": "Huyện Tiên Du", "years": null },
+            { "district": "Huyện Yên Phong", "years": null },
+            { "district": "Thị xã Từ Sơn", "years": null },
+            { "district": "Thành phố Bắc Ninh", "years": null }
+          ]
+        },
+        {
+          "city": "Hà Nội",
+          "districts": [
+            {
+              "district": "Huyện Ba Vì",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 83,
+                  "rainfall": 2258.6,
+                  "temperature": 23.3
+                },
+                {
+                  "year": 2013,
+                  "humidity": 78,
+                  "rainfall": 1934.7,
+                  "temperature": 24.4
+                },
+                {
+                  "year": 2016,
+                  "humidity": 73.9,
+                  "rainfall": 1631.1,
+                  "temperature": 25.2
+                }
+              ]
+            },
+            {
+              "district": "Huyện Đông Anh",
+              "years": [
+                {
+                  "year": 2014,
+                  "humidity": 77.6,
+                  "rainfall": 1377.4,
+                  "temperature": 27.9
+                },
+                {
+                  "year": 2012,
+                  "humidity": 78.5,
+                  "rainfall": 1801.2,
+                  "temperature": 24.3
+                }
+              ]
+            },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            {
+              "district": "Huyện Phú Xuyên",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 78,
+                  "rainfall": 1659,
+                  "temperature": 24.6
+                }
+              ]
+            },
+            {
+              "district": "Huyện Quốc Oai",
+              "years": [
+                {
+                  "year": 2017,
+                  "humidity": 80,
+                  "rainfall": 1381.1,
+                  "temperature": 27.4
+                },
+                {
+                  "year": 2015,
+                  "humidity": 78.3,
+                  "rainfall": 1520,
+                  "temperature": 25.3
+                }
+              ]
+            },
+            {
+              "district": "Huyện Thường Tín",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 79.3,
+                  "rainfall": 2268,
+                  "temperature": 23.7
+                },
+                {
+                  "year": 2007,
+                  "humidity": 86,
+                  "rainfall": 2156,
+                  "temperature": 18.1
+                }
+              ]
+            },
+            {
+              "district": "Huyện Ứng Hòa",
+              "years": [
+                {
+                  "year": 2009,
+                  "humidity": 76.9,
+                  "rainfall": 1612.1,
+                  "temperature": 24.9
+                }
+              ]
+            },
+            { "district": "Quận Bắc Từ Liêm", "years": null },
+            { "district": "Quận Đống Đa", "years": null },
+            { "district": "Quận Hà Đông", "years": null },
+            { "district": "Quận Tây Hồ", "years": null },
+            { "district": "Quận Thanh Xuân", "years": null },
+            { "district": "Huyện Chương Mỹ", "years": null },
+            { "district": "Huyện Đan Phượng", "years": null },
+            { "district": "Huyện Hoài Đức", "years": null },
+            { "district": "Huyện Mỹ Đức", "years": null },
+            { "district": "Huyện Sóc Sơn", "years": null },
+            { "district": "Huyện Thạch Thất", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Ba Đình", "years": null },
+            { "district": "Quận Hoàng Mai", "years": null },
+            { "district": "Thị xã Sơn Tây", "years": null },
+            { "district": "Huyện Mê Linh", "years": null },
+            { "district": "Huyện Thanh Oai", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Ninh",
+          "districts": [
+            { "district": "Huyện Bình Liêu", "years": null },
+            { "district": "Huyện Đầm Hà", "years": null },
+            { "district": "Huyện Hải Hà", "years": null },
+            { "district": "Huyện Hoành Bồ", "years": null },
+            { "district": "Huyện Tiên Yên", "years": null },
+            { "district": "Huyện Vân Đồn", "years": null },
+            { "district": "Thành phố Uông Bí", "years": null },
+            { "district": "Thị xã Đông Triều", "years": null },
+            { "district": "Huyện Ba Chẽ", "years": null },
+            { "district": "Huyện Cô Tô", "years": null },
+            { "district": "Thành phố Cẩm Phả", "years": null }
+          ]
+        },
+        {
+          "city": "Hải Dương",
+          "districts": [
+            { "district": "Huyện Bình Giang", "years": null },
+            { "district": "Huyện Cẩm Giàng", "years": null },
+            { "district": "Huyện Kim Thành", "years": null },
+            { "district": "Huyện Kinh Môn", "years": null },
+            { "district": "Huyện Nam Sách", "years": null },
+            { "district": "Huyện Ninh Giang", "years": null },
+            { "district": "Huyện Thanh Hà", "years": null },
+            { "district": "Huyện Thanh Miện", "years": null },
+            { "district": "Thị xã Chí Linh", "years": null },
+            { "district": "Huyện Tứ Kỳ", "years": null },
+            { "district": "Thành phố Hải Dương", "years": null }
+          ]
+        },
+        {
+          "city": "Hưng Yên",
+          "districts": [
+            { "district": "Huyện Khoái Châu", "years": null },
+            { "district": "Huyện Mỹ Hào", "years": null },
+            { "district": "Huyện Phù Cừ", "years": null },
+            { "district": "Huyện Văn Lâm", "years": null },
+            { "district": "Huyện Yên Mỹ", "years": null },
+            { "district": "Thành phố Hưng Yên", "years": null },
+            { "district": "Huyện Kim Động", "years": null },
+            { "district": "Huyện Tiên Lữ", "years": null },
+            { "district": "Huyện Văn Giang", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đồng Bằng Sông Cửu Long",
+      "cities": [
+        {
+          "city": "Cần Thơ",
+          "districts": [
+            { "district": "Huyện Cờ Đỏ", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Quận Ninh Kiều", "years": null },
+            { "district": "Quận Ô Môn", "years": null },
+            { "district": "Quận Thốt Nốt", "years": null },
+            { "district": "Huyện Phong Điền", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            { "district": "Quận Cái Răng", "years": null }
+          ]
+        },
+        {
+          "city": "Bạc Liêu",
+          "districts": [
+            { "district": "Huyện Đông Hải", "years": null },
+            { "district": "Huyện Hoà Bình", "years": null },
+            { "district": "Huyện Hồng Dân", "years": null },
+            { "district": "Huyện Vĩnh Lợi", "years": null },
+            { "district": "Thành phố Bạc Liêu", "years": null },
+            { "district": "Thị xã Giá Rai", "years": null }
+          ]
+        },
+        {
+          "city": "Bến Tre",
+          "districts": [
+            { "district": "Huyện Bình Đại", "years": null },
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Huyện Chợ Lách", "years": null },
+            { "district": "Huyện Giồng Trôm", "years": null },
+            { "district": "Huyện Mỏ Cày Bắc", "years": null },
+            { "district": "Huyện Mỏ Cày Nam", "years": null },
+            { "district": "Huyện Thạnh Phú", "years": null },
+            { "district": "Thành phố Bến Tre", "years": null },
+            { "district": "Huyện Ba Tri", "years": null }
+          ]
+        },
+        {
+          "city": "Sóc Trăng",
+          "districts": [
+            { "district": "Huyện Cù Lao Dung", "years": null },
+            { "district": "Huyện Kế Sách", "years": null },
+            { "district": "Huyện Long Phú", "years": null },
+            { "district": "Huyện Mỹ Tú", "years": null },
+            { "district": "Thị xã Ngã Năm", "years": null },
+            { "district": "Huyện Thạnh Trị", "years": null },
+            { "district": "Huyện Trần Đề", "years": null },
+            { "district": "Thị xã Vĩnh Châu", "years": null }
+          ]
+        },
+        {
+          "city": "Vĩnh Long",
+          "districts": [
+            { "district": "Huyện Long Hồ", "years": null },
+            { "district": "Huyện Mang Thít", "years": null },
+            { "district": "Huyện Tam Bình", "years": null },
+            { "district": "Huyện Trà Ôn", "years": null },
+            { "district": "Thị xã Bình Minh", "years": null },
+            { "district": "Huyện Vũng Liêm", "years": null },
+            { "district": "Thành phố Vĩnh Long", "years": null }
+          ]
+        },
+        {
+          "city": "Hậu Giang",
+          "districts": [
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Huyện Châu Thành A", "years": null },
+            { "district": "Huyện Long Mỹ", "years": null },
+            { "district": "Huyện Phụng Hiệp", "years": null },
+            { "district": "Thành phố Vị Thanh", "years": null },
+            { "district": "Thị xã Ngã Bảy", "years": null },
+            { "district": "Huyện Vị Thuỷ", "years": null },
+            { "district": "Thị xã Long Mỹ", "years": null }
+          ]
+        },
+        {
+          "city": "Trà Vinh",
+          "districts": [
+            { "district": "Huyện Cầu Kè", "years": null },
+            { "district": "Huyện Cầu Ngang", "years": null },
+            { "district": "Huyện Duyên Hải", "years": null },
+            { "district": "Huyện Tiểu Cần", "years": null },
+            { "district": "Huyện Trà Cú", "years": null },
+            { "district": "Thành phố Trà Vinh", "years": null },
+            { "district": "Thị xã Duyên Hải", "years": null },
+            { "district": "Huyện Càng Long", "years": null },
+            { "district": "Huyện Châu Thành", "years": null }
+          ]
+        },
+        {
+          "city": "Tiền Giang",
+          "districts": [
+            { "district": "Huyện Cái Bè", "years": null },
+            { "district": "Huyện Cai Lậy", "years": null },
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Huyện Gò Công Đông", "years": null },
+            { "district": "Huyện Gò Công Tây", "years": null },
+            { "district": "Huyện Tân Phú Đông", "years": null },
+            { "district": "Huyện Tân Phước", "years": null },
+            { "district": "Thành phố Mỹ Tho", "years": null },
+            { "district": "Huyện Chợ Gạo", "years": null },
+            { "district": "Thị xã Cai Lậy", "years": null }
+          ]
+        },
+        {
+          "city": "Kiên Giang",
+          "districts": [
+            { "district": "Huyện An Minh", "years": null },
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Huyện Kiên Hải", "years": null },
+            { "district": "Huyện Kiên Lương", "years": null },
+            { "district": "Huyện Phú Quốc", "years": null },
+            { "district": "Huyện U Minh Thượng", "years": null },
+            { "district": "Huyện Vĩnh Thuận", "years": null },
+            { "district": "Thị xã Hà Tiên", "years": null },
+            { "district": "Huyện Giang Thành", "years": null },
+            { "district": "Thành phố Rạch Giá", "years": null },
+            { "district": "Huyện Giồng Riềng", "years": null },
+            { "district": "Huyện Gò Quao", "years": null },
+            { "district": "Huyện Hòn Đất", "years": null }
+          ]
+        },
+        {
+          "city": "An Giang",
+          "districts": [
+            { "district": "Huyện An Phú", "years": null },
+            { "district": "Huyện Chợ Mới", "years": null },
+            { "district": "Huyện Phú Tân", "years": null },
+            { "district": "Huyện Thoại Sơn", "years": null },
+            { "district": "Huyện Tịnh Biên", "years": null },
+            { "district": "Huyện Tri Tôn", "years": null },
+            { "district": "Thành phố Long Xuyên", "years": null },
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Thành phố Châu Đốc", "years": null },
+            { "district": "Huyện Châu Phú", "years": null },
+            { "district": "Thị xã Tân Châu", "years": null }
+          ]
+        },
+        {
+          "city": "Cà Mau",
+          "districts": [
+            {
+              "district": "Huyện Đầm Dơi",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 83.2,
+                  "rainfall": 2679,
+                  "temperature": 27.2
+                },
+                {
+                  "year": 2015,
+                  "humidity": 80,
+                  "rainfall": 2297.2,
+                  "temperature": 28
+                }
+              ]
+            },
+            {
+              "district": "Huyện Năm Căn",
+              "years": [
+                {
+                  "year": 2019,
+                  "humidity": 80.8,
+                  "rainfall": 2262.9,
+                  "temperature": 28.1
+                }
+              ]
+            },
+            {
+              "district": "Huyện Ngọc Hiển",
+              "years": [
+                {
+                  "year": 2014,
+                  "humidity": 81,
+                  "rainfall": 2065.7,
+                  "temperature": 27.7
+                }
+              ]
+            },
+            {
+              "district": "Huyện Phú Tân",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 83,
+                  "rainfall": 2387,
+                  "temperature": 27.6
+                },
+                {
+                  "year": 2012,
+                  "humidity": 81.3,
+                  "rainfall": 2153.9,
+                  "temperature": 27.7
+                },
+                {
+                  "year": 2009,
+                  "humidity": 82.3,
+                  "rainfall": 2244.4,
+                  "temperature": 27.5
+                },
+                {
+                  "year": 2010,
+                  "humidity": 84,
+                  "rainfall": 2244.4,
+                  "temperature": 27.5
+                }
+              ]
+            },
+            {
+              "district": "Huyện Thới Bình",
+              "years": [
+                {
+                  "year": 2013,
+                  "humidity": 81,
+                  "rainfall": 1941.3,
+                  "temperature": 27.8
+                }
+              ]
+            },
+            {
+              "district": "Huyện Trần Văn Thời",
+              "years": [
+                {
+                  "year": 2016,
+                  "humidity": 80.6,
+                  "rainfall": 2304.1,
+                  "temperature": 28.2
+                }
+              ]
+            },
+            {
+              "district": "Huyện U Minh",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 79.5,
+                  "rainfall": 2445.9,
+                  "temperature": 27.5
+                },
+                {
+                  "year": 2007,
+                  "humidity": 83,
+                  "rainfall": 2606,
+                  "temperature": 27.5
+                },
+                {
+                  "year": 2018,
+                  "humidity": 80.7,
+                  "rainfall": 2007.8,
+                  "temperature": 27.9
+                }
+              ]
+            },
+            {
+              "district": "Thành phố Cà Mau",
+              "years": [
+                {
+                  "year": 2017,
+                  "humidity": 80.8,
+                  "rainfall": 2175.2,
+                  "temperature": 27.9
+                }
+              ]
+            },
+            { "district": "Huyện Cái Nước", "years": null }
+          ]
+        },
+        {
+          "city": "Vinh",
+          "districts": [
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Ba Vì", "years": null },
+            { "district": "Huyện Hòa Vang", "years": null },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            {
+              "district": "Huyện Thới Lai",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 87,
+                  "rainfall": 4393,
+                  "temperature": 25
+                },
+                {
+                  "year": 2014,
+                  "humidity": 81.9,
+                  "rainfall": 1922,
+                  "temperature": 23.7
+                },
+                {
+                  "year": 2008,
+                  "humidity": 77.8,
+                  "rainfall": 1390,
+                  "temperature": 27.7
+                },
+                {
+                  "year": 2008,
+                  "humidity": 81.9,
+                  "rainfall": 2120,
+                  "temperature": 24.1
+                }
+              ]
+            },
+            {
+              "district": "Quận 10",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 82.1,
+                  "rainfall": 1823.8,
+                  "temperature": 22.6
+                },
+                {
+                  "year": 2016,
+                  "humidity": 81.8,
+                  "rainfall": 2174.9,
+                  "temperature": 24.9
+                }
+              ]
+            },
+            {
+              "district": "Quận 11",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 83,
+                  "rainfall": 1951,
+                  "temperature": 25.1
+                },
+                {
+                  "year": 2013,
+                  "humidity": 78,
+                  "rainfall": 1366.6,
+                  "temperature": 28
+                }
+              ]
+            },
+            {
+              "district": "Quận 9",
+              "years": [
+                {
+                  "year": 2015,
+                  "humidity": 81.8,
+                  "rainfall": 1464.2,
+                  "temperature": 25.5
+                }
+              ]
+            },
+            {
+              "district": "Quận Ba Đình",
+              "years": [
+                {
+                  "year": 2019,
+                  "humidity": 81.3,
+                  "rainfall": 3195.2,
+                  "temperature": 26.2
+                }
+              ]
+            },
+            { "district": "Quận Gò Vấp", "years": null },
+            { "district": "Quận Hoàng Mai", "years": null },
+            {
+              "district": "Quận Lê Chân",
+              "years": [
+                {
+                  "year": 2012,
+                  "humidity": 82.3,
+                  "rainfall": 1892.5,
+                  "temperature": 24.8
+                },
+                {
+                  "year": 2017,
+                  "humidity": 81.8,
+                  "rainfall": 2640.2,
+                  "temperature": 24
+                }
+              ]
+            },
+            {
+              "district": "Quận Thốt Nốt",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 85,
+                  "rainfall": 2479,
+                  "temperature": 25.4
+                },
+                {
+                  "year": 2010,
+                  "humidity": 81.7,
+                  "rainfall": 2716.5,
+                  "temperature": 25.3
+                },
+                {
+                  "year": 2017,
+                  "humidity": 83.6,
+                  "rainfall": 2334.7,
+                  "temperature": 24.9
+                },
+                {
+                  "year": 2009,
+                  "humidity": 79.9,
+                  "rainfall": 1392.5,
+                  "temperature": 27
+                },
+                {
+                  "year": 2018,
+                  "humidity": 78,
+                  "rainfall": 1769.8,
+                  "temperature": 27.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Long An",
+          "districts": [
+            { "district": "Huyện Cần Giuộc", "years": null },
+            { "district": "Huyện Tân Hưng", "years": null },
+            { "district": "Huyện Thủ Thừa", "years": null },
+            { "district": "Huyện Vĩnh Hưng", "years": null },
+            { "district": "Thành phố Tân An", "years": null },
+            { "district": "Thị xã Kiến Tường", "years": null },
+            { "district": "Huyện Cần Đước", "years": null },
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Huyện Đức Hòa", "years": null },
+            { "district": "Huyện Đức Huệ", "years": null },
+            { "district": "Huyện Bến Lức", "years": null },
+            { "district": "Huyện Mộc Hóa", "years": null },
+            { "district": "Huyện Thạnh Hóa", "years": null }
+          ]
+        },
+        {
+          "city": "Đồng Tháp",
+          "districts": [
+            { "district": "Huyện Cao Lãnh", "years": null },
+            { "district": "Huyện Lai Vung", "years": null },
+            { "district": "Huyện Tân Hồng", "years": null },
+            { "district": "Thành phố Cao Lãnh", "years": null },
+            { "district": "Thành phố Sa Đéc", "years": null },
+            { "district": "Thị xã Hồng Ngự", "years": null },
+            { "district": "Huyện Hồng Ngự", "years": null },
+            { "district": "Huyện Tam Nông", "years": null },
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Huyện Lấp Vò", "years": null },
+            { "district": "Huyện Thanh Bình", "years": null },
+            { "district": "Huyện Tháp Mười", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đông Bắc",
+      "cities": [
+        {
+          "city": "Hà Giang",
+          "districts": [
+            { "district": "Huyện Bắc Quang", "years": null },
+            { "district": "Huyện Đồng Văn", "years": null },
+            { "district": "Huyện Hoàng Su Phì", "years": null },
+            { "district": "Huyện Mèo Vạc", "years": null },
+            { "district": "Huyện Quang Bình", "years": null },
+            { "district": "Huyện Vị Xuyên", "years": null },
+            { "district": "Huyện Yên Minh", "years": null },
+            { "district": "Huyện Bắc Mê", "years": null },
+            { "district": "Huyện Quản Bạ", "years": null }
+          ]
+        },
+        {
+          "city": "Bắc Kạn",
+          "districts": [
+            { "district": "Huyện Ba Bể", "years": null },
+            { "district": "Huyện Bạch Thông", "years": null },
+            { "district": "Huyện Chợ Đồn", "years": null },
+            { "district": "Huyện Chợ Mới", "years": null },
+            { "district": "Huyện Na Rì", "years": null },
+            { "district": "Thành Phố Bắc Kạn", "years": null },
+            { "district": "Huyện Ngân Sơn", "years": null }
+          ]
+        },
+        {
+          "city": "Bắc Giang",
+          "districts": [
+            { "district": "Huyện Hiệp Hòa", "years": null },
+            { "district": "Huyện Lạng Giang", "years": null },
+            { "district": "Huyện Sơn Động", "years": null },
+            { "district": "Huyện Tân Yên", "years": null },
+            { "district": "Huyện Việt Yên", "years": null },
+            { "district": "Huyện Yên Dũng", "years": null },
+            { "district": "Huyện Yên Thế", "years": null },
+            { "district": "Thành phố Bắc Giang", "years": null },
+            { "district": "Huyện Lục Nam", "years": null }
+          ]
+        },
+        {
+          "city": "Lạng Sơn",
+          "districts": [
+            { "district": "Huyện Bắc Sơn", "years": null },
+            { "district": "Huyện Bình Gia", "years": null },
+            { "district": "Huyện Cao Lộc", "years": null },
+            { "district": "Huyện Chi Lăng", "years": null },
+            { "district": "Huyện Đình Lập", "years": null },
+            { "district": "Huyện Tràng Định", "years": null },
+            { "district": "Thành phố Lạng Sơn", "years": null },
+            { "district": "Huyện Lộc Bình", "years": null },
+            { "district": "Huyện Văn Lãng", "years": null }
+          ]
+        },
+        {
+          "city": "Tuyên Quang",
+          "districts": [
+            {
+              "district": "Huyện Chiêm Hóa",
+              "years": [
+                {
+                  "year": 2008,
+                  "humidity": 82.2,
+                  "rainfall": 1721,
+                  "temperature": 23.2
+                },
+                {
+                  "year": 2009,
+                  "humidity": 80.3,
+                  "rainfall": 1284.3,
+                  "temperature": 24.2
+                },
+                {
+                  "year": 2013,
+                  "humidity": 81,
+                  "rainfall": 1648.7,
+                  "temperature": 23.8
+                },
+                {
+                  "year": 2014,
+                  "humidity": 81.7,
+                  "rainfall": 1499.2,
+                  "temperature": 24
+                }
+              ]
+            },
+            {
+              "district": "Huyện Hàm Yên",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 83,
+                  "rainfall": 1596,
+                  "temperature": 24
+                },
+                {
+                  "year": 2016,
+                  "humidity": 79.8,
+                  "rainfall": 1494.9,
+                  "temperature": 24.4
+                }
+              ]
+            },
+            {
+              "district": "Huyện Lâm Bình",
+              "years": [
+                {
+                  "year": 2010,
+                  "humidity": 79.5,
+                  "rainfall": 1284.3,
+                  "temperature": 24.2
+                }
+              ]
+            },
+            {
+              "district": "Huyện Nà Hang",
+              "years": [
+                {
+                  "year": 2019,
+                  "humidity": 81.9,
+                  "rainfall": 1455.6,
+                  "temperature": 25
+                }
+              ]
+            },
+            {
+              "district": "Huyện Sơn Dương",
+              "years": [
+                {
+                  "year": 2012,
+                  "humidity": 82.1,
+                  "rainfall": 1995.3,
+                  "temperature": 23.8
+                },
+                {
+                  "year": 2017,
+                  "humidity": 81.5,
+                  "rainfall": 2372.7,
+                  "temperature": 24.2
+                },
+                {
+                  "year": 2018,
+                  "humidity": 80.9,
+                  "rainfall": 1534.2,
+                  "temperature": 24.4
+                }
+              ]
+            },
+            {
+              "district": "Huyện Yên Sơn",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 82,
+                  "rainfall": 1294,
+                  "temperature": 24
+                },
+                {
+                  "year": 2011,
+                  "humidity": 81.9,
+                  "rainfall": 1449.5,
+                  "temperature": 22.8
+                },
+                {
+                  "year": 2015,
+                  "humidity": 80.3,
+                  "rainfall": 2173.7,
+                  "temperature": 24.8
+                }
+              ]
+            },
+            { "district": "Thành phố Tuyên Quang", "years": null }
+          ]
+        },
+        {
+          "city": "Thái Nguyên",
+          "districts": [
+            { "district": "Huyện Định Hóa", "years": null },
+            { "district": "Huyện Phú Bình", "years": null },
+            { "district": "Huyện Phú Lương", "years": null },
+            { "district": "Huyện Võ Nhai", "years": null },
+            { "district": "Thành phố Sông Công", "years": null },
+            { "district": "Thành phố Thái Nguyên", "years": null },
+            { "district": "Thị xã Phổ Yên", "years": null },
+            { "district": "Huyện Đại Từ", "years": null },
+            { "district": "Huyện Đồng Hỷ", "years": null }
+          ]
+        },
+        {
+          "city": "Bãi Cháy",
+          "districts": [
+            { "district": "Huyện Cát Hải", "years": null },
+            {
+              "district": "Huyện Phúc Thọ",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 78,
+                  "rainfall": 1240,
+                  "temperature": 24.7
+                },
+                {
+                  "year": 2019,
+                  "humidity": 82.8,
+                  "rainfall": 1498.7,
+                  "temperature": 24.8
+                },
+                {
+                  "year": 2007,
+                  "humidity": 82,
+                  "rainfall": 1962,
+                  "temperature": 24.9
+                },
+                {
+                  "year": 2010,
+                  "humidity": 79.2,
+                  "rainfall": 2657.9,
+                  "temperature": 27.4
+                }
+              ]
+            },
+            { "district": "Huyện Thạch Thất", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            {
+              "district": "Huyện Thuỷ Nguyên",
+              "years": [
+                {
+                  "year": 2015,
+                  "humidity": 82.8,
+                  "rainfall": 2367.6,
+                  "temperature": 24.4
+                }
+              ]
+            },
+            { "district": "Quận 10", "years": null },
+            { "district": "Quận 7", "years": null },
+            {
+              "district": "Quận Bình Tân",
+              "years": [
+                {
+                  "year": 2018,
+                  "humidity": 82.5,
+                  "rainfall": 2306.1,
+                  "temperature": 24
+                }
+              ]
+            },
+            {
+              "district": "Quận Đống Đa",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 82,
+                  "rainfall": 1697,
+                  "temperature": 23.9
+                },
+                {
+                  "year": 2018,
+                  "humidity": 75,
+                  "rainfall": 1694.9,
+                  "temperature": 25.1
+                }
+              ]
+            },
+            {
+              "district": "Quận Đồ Sơn",
+              "years": [
+                {
+                  "year": 2011,
+                  "humidity": 84.3,
+                  "rainfall": 1650,
+                  "temperature": 18.1
+                },
+                {
+                  "year": 2012,
+                  "humidity": 83.8,
+                  "rainfall": 1859.5,
+                  "temperature": 18.5
+                },
+                {
+                  "year": 2009,
+                  "humidity": 81,
+                  "rainfall": 1567.3,
+                  "temperature": 24
+                }
+              ]
+            },
+            {
+              "district": "Quận Hải Châu",
+              "years": [
+                {
+                  "year": 2010,
+                  "humidity": 82.4,
+                  "rainfall": 2236.8,
+                  "temperature": 26.3
+                },
+                {
+                  "year": 2016,
+                  "humidity": 80.6,
+                  "rainfall": 2688.7,
+                  "temperature": 26.6
+                },
+                {
+                  "year": 2017,
+                  "humidity": 81.8,
+                  "rainfall": 2285.4,
+                  "temperature": 26.5
+                },
+                {
+                  "year": 2016,
+                  "humidity": 81.7,
+                  "rainfall": 2166.8,
+                  "temperature": 24
+                }
+              ]
+            },
+            { "district": "Quận Lê Chân", "years": null },
+            {
+              "district": "Quận Tân Bình",
+              "years": [
+                {
+                  "year": 2007,
+                  "humidity": 80,
+                  "rainfall": 1432,
+                  "temperature": 23.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Cao Bằng",
+          "districts": [
+            { "district": "Huyện Bảo Lạc", "years": null },
+            { "district": "Huyện Hạ Lang", "years": null },
+            { "district": "Huyện Quảng Uyên", "years": null },
+            { "district": "Huyện Thạch An", "years": null },
+            { "district": "Huyện Trà Lĩnh", "years": null },
+            { "district": "Huyện Trùng Khánh", "years": null },
+            { "district": "Thành phố Cao Bằng", "years": null },
+            { "district": "Huyện Bảo Lâm", "years": null },
+            { "district": "Huyện Thông Nông", "years": null },
+            { "district": "Huyện Nguyên Bình", "years": null },
+            { "district": "Huyện Phục Hoà", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Bắc Trung Bộ",
+      "cities": [
+        {
+          "city": "Thanh Hoá",
+          "districts": [
+            { "district": "Huyện Bá Thước", "years": null },
+            { "district": "Huyện Cẩm Thủy", "years": null },
+            { "district": "Huyện Đông Sơn", "years": null },
+            { "district": "Huyện Mường Lát", "years": null },
+            { "district": "Huyện Như Thanh", "years": null },
+            { "district": "Huyện Nông Cống", "years": null },
+            { "district": "Huyện Quan Sơn", "years": null },
+            { "district": "Huyện Vĩnh Lộc", "years": null },
+            { "district": "Huyện Yên Định", "years": null },
+            { "district": "Thành phố Thanh Hóa", "years": null },
+            { "district": "Thị xã Sầm Sơn", "years": null },
+            { "district": "Huyện Hà Trung", "years": null },
+            { "district": "Huyện Hậu Lộc", "years": null },
+            { "district": "Huyện Tĩnh Gia", "years": null },
+            { "district": "Huyện Hoằng Hóa", "years": null },
+            { "district": "Huyện Như Xuân", "years": null },
+            { "district": "Huyện Quan Hóa", "years": null },
+            { "district": "Huyện Thọ Xuân", "years": null }
+          ]
+        },
+        {
+          "city": "Hà Tĩnh",
+          "districts": [
+            { "district": "Huyện Nhà Bè", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Huyện Ứng Hòa", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            { "district": "Quận Gò Vấp", "years": null },
+            { "district": "Quận Kiến An", "years": null },
+            { "district": "Quận Ngô Quyền", "years": null },
+            { "district": "Quận Phú Nhuận", "years": null },
+            { "district": "Quận Tây Hồ", "years": null },
+            { "district": "Quận Thanh Khê", "years": null },
+            { "district": "Huyện Hoài Đức", "years": null },
+            { "district": "Huyện Sóc Sơn", "years": null },
+            { "district": "Huyện Thuỷ Nguyên", "years": null },
+            { "district": "Quận Ba Đình", "years": null },
+            { "district": "Quận Đồ Sơn", "years": null },
+            { "district": "Quận Hải Châu", "years": null },
+            { "district": "Quận Hoàn Kiếm", "years": null },
+            { "district": "Huyện Kiến Thuỵ", "years": null },
+            { "district": "Quận 1", "years": null },
+            { "district": "Quận 2", "years": null },
+            { "district": "Quận 4", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Long BiênQuận Cầu Giấy", "years": null },
+            { "district": "Quận Nam Từ Liêm", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Trị",
+          "districts": [
+            { "district": "Huyện Đa Krông", "years": null },
+            { "district": "Huyện Gio Linh", "years": null },
+            { "district": "Huyện Hải Lăng", "years": null },
+            { "district": "Huyện Hướng Hóa", "years": null },
+            { "district": "Huyện Triệu Phong", "years": null },
+            { "district": "Huyện Vĩnh Linh", "years": null },
+            { "district": "Thành phố Đông Hà", "years": null },
+            { "district": "Thị xã Quảng Trị", "years": null },
+            { "district": "Huyện Cam Lộ", "years": null }
+          ]
+        },
+        {
+          "city": "Huế",
+          "districts": [
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Củ Chi", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            {
+              "district": "Huyện Tiên Lãng",
+              "years": [
+                {
+                  "year": 2013,
+                  "humidity": 87,
+                  "rainfall": 2725.7,
+                  "temperature": 25
+                }
+              ]
+            },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            {
+              "district": "Quận 5",
+              "years": [
+                {
+                  "year": 2017,
+                  "humidity": 88.4,
+                  "rainfall": 4105.4,
+                  "temperature": 25.1
+                }
+              ]
+            },
+            { "district": "Quận 7", "years": null },
+            {
+              "district": "Quận Bắc Từ Liêm",
+              "years": [
+                {
+                  "year": 2014,
+                  "humidity": 85.4,
+                  "rainfall": 2309.5,
+                  "temperature": 25.3
+                },
+                {
+                  "year": 2010,
+                  "humidity": 77.7,
+                  "rainfall": 1239.2,
+                  "temperature": 24.9
+                }
+              ]
+            },
+            { "district": "Quận Bình Thuỷ", "years": null },
+            {
+              "district": "Quận Ngũ Hành Sơn",
+              "years": [
+                {
+                  "year": 2006,
+                  "humidity": 87,
+                  "rainfall": 1698,
+                  "temperature": 18.3
+                },
+                {
+                  "year": 2011,
+                  "humidity": 87.8,
+                  "rainfall": 4481,
+                  "temperature": 23.8
+                },
+                {
+                  "year": 2015,
+                  "humidity": 84,
+                  "rainfall": 1951.4,
+                  "temperature": 18.5
+                }
+              ]
+            },
+            { "district": "Quận Thanh Khê", "years": null },
+            { "district": "Quận Thanh Xuân", "years": null },
+            { "district": "Quận Thốt Nốt", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Bình",
+          "districts": [
+            { "district": "Huyện Bố Trạch", "years": null },
+            { "district": "Huyện Lệ Thủy", "years": null },
+            { "district": "Huyện Minh Hóa", "years": null },
+            { "district": "Huyện Quảng Ninh", "years": null },
+            { "district": "Huyện Quảng Trạch", "years": null },
+            { "district": "Huyện Tuyên Hóa", "years": null },
+            { "district": "Thành Phố Đồng Hới", "years": null },
+            { "district": "Thị xã Ba Đồn", "years": null }
+          ]
+        },
+        {
+          "city": "Thừa Thiên Huế",
+          "districts": [
+            { "district": "Huyện Phong Điền", "years": null },
+            { "district": "Huyện Phú Vang", "years": null },
+            { "district": "Huyện Quảng Điền", "years": null },
+            { "district": "Thành phố Huế", "years": null },
+            { "district": "Thị xã Hương Thủy", "years": null },
+            { "district": "Thị xã Hương Trà", "years": null },
+            { "district": "Huyện Nam Đông", "years": null },
+            { "district": "Huyện Phú Lộc", "years": null }
+          ]
+        },
+        {
+          "city": "Nghệ An",
+          "districts": [
+            { "district": "Huyện Anh Sơn", "years": null },
+            { "district": "Huyện Con Cuông", "years": null },
+            { "district": "Huyện Hưng Nguyên", "years": null },
+            { "district": "Huyện Kỳ Sơn", "years": null },
+            { "district": "Huyện Nghi Lộc", "years": null },
+            { "district": "Huyện Quỳ Hợp", "years": null },
+            { "district": "Huyện Thanh Chương", "years": null },
+            { "district": "Thị xã Cửa Lò", "years": null },
+            { "district": "Thị xã Thái Hoà", "years": null },
+            { "district": "Huyện Đô Lương", "years": null },
+            { "district": "Thành phố Vinh", "years": null },
+            { "district": "Thị xã Hoàng Mai", "years": null },
+            { "district": "Huyện Nam Đàn", "years": null },
+            { "district": "Huyện Quỳnh Lưu", "years": null }
+          ]
+        }
+      ]
+    }
+  }
+]

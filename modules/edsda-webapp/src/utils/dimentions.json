@@ -1,0 +1,1068 @@
+[
+  {
+    "data": {
+      "area": "Tây Bắc",
+      "cities": [
+        {
+          "city": "Phú Thọ",
+          "districts": [
+            { "district": "Huyện Đoan Hùng" },
+            { "district": "Huyện Hạ Hoà" },
+            { "district": "Huyện Lâm Thao" },
+            { "district": "Huyện Tam Nông" },
+            { "district": "Huyện Tân Sơn" },
+            { "district": "Huyện Thanh Ba" },
+            { "district": "Thị xã Phú Thọ" },
+            { "district": "Huyện Phù Ninh" },
+            { "district": "Huyện Thanh Sơn" },
+            { "district": "Huyện Thanh Thuỷ" },
+            { "district": "Huyện Yên Lập" }
+          ]
+        },
+        {
+          "city": "Lào Cai",
+          "districts": [
+            { "district": "Huyện Bảo Thắng" },
+            { "district": "Huyện Bảo Yên" },
+            { "district": "Huyện Bát Xát" },
+            { "district": "Huyện Mường Khương" },
+            { "district": "Huyện Si Ma Cai" },
+            { "district": "Huyện Văn Bàn" },
+            { "district": "Thành phố Lào Cai" },
+            { "district": "Huyện Bắc Hà" },
+            { "district": "Huyện Sa Pa" }
+          ]
+        },
+        {
+          "city": "Lai Châu",
+          "districts": [
+            { "district": "Huyện Mường Tè" },
+            { "district": "Huyện Phong Thổ" },
+            { "district": "Huyện Sìn Hồ" },
+            { "district": "Huyện Tam Đường" },
+            { "district": "Huyện Tân Uyên" },
+            { "district": "Huyện Than Uyên" },
+            { "district": "Thành phố Lai Châu" },
+            { "district": "Huyện Nậm Nhùn" }
+          ]
+        },
+        {
+          "city": "Yên Bái",
+          "districts": [
+            { "district": "Huyện Lục Yên" },
+            { "district": "Huyện Mù Căng Chải" },
+            { "district": "Huyện Trạm Tấu" },
+            { "district": "Huyện Trấn Yên" },
+            { "district": "Huyện Văn Chấn" },
+            { "district": "Huyện Văn Yên" },
+            { "district": "Huyện Yên Bình" },
+            { "district": "Thành phố Yên Bái" }
+          ]
+        },
+        {
+          "city": "Sơn La",
+          "districts": [
+            { "district": "Huyện Bắc Yên" },
+            { "district": "Huyện Mai Sơn" },
+            { "district": "Huyện Mộc Châu" },
+            { "district": "Huyện Mường La" },
+            { "district": "Huyện Quỳnh Nhai" },
+            { "district": "Huyện Sông Mã" },
+            { "district": "Huyện Vân Hồ" },
+            { "district": "Thành phố Sơn La" },
+            { "district": "Huyện Phù Yên" },
+            { "district": "Huyện Thuận Châu" },
+            { "district": "Huyện Yên Châu" },
+            { "district": "Huyện Sốp Cộp" }
+          ]
+        },
+        {
+          "city": "Hoà Bình",
+          "districts": [
+            { "district": "Huyện Kỳ Sơn" },
+            { "district": "Huyện Lạc Sơn" },
+            { "district": "Huyện Lạc Thủy" },
+            { "district": "Huyện Lương Sơn" },
+            { "district": "Huyện Mai Châu" },
+            { "district": "Huyện Tân Lạc" },
+            { "district": "Huyện Yên Thủy" },
+            { "district": "Huyện Kim Bôi" },
+            { "district": "Thành phố Hòa Bình" },
+            { "district": "Huyện Cao Phong" },
+            { "district": "Huyện Đà Bắc" }
+          ]
+        },
+        {
+          "city": "Điện Biên",
+          "districts": [
+            { "district": "Huyện Điện Biên Đông" },
+            { "district": "Huyện Mường Ảng" },
+            { "district": "Huyện Mường Chà" },
+            { "district": "Huyện Mường Nhé" },
+            { "district": "Huyện Tủa Chùa" },
+            { "district": "Huyện Tuần Giáo" },
+            { "district": "Thị Xã Mường Lay" },
+            { "district": "Huyện Điện Biên" },
+            { "district": "Huyện Nậm Pồ" },
+            { "district": "Thành phố Điện Biên Phủ" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Nam Trung Bộ",
+      "cities": [
+        {
+          "city": "Đà Lạt",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Đà Nang",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Vũng Tàu",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Kon Tum",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Khánh Hoà",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Gia Lai",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Quảng Ngãi",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Đắk Nông",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Bình Định",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Quảng Nam",
+          "districts": [
+            
+          ]
+        },
+        {
+          "city": "Phú Yên",
+          "districts": [
+           
+          ]
+        },
+        {
+          "city": "Đắk Lắk",
+          "districts": [
+            
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đông Nam Bộ",
+      "cities": [
+        {
+          "city": "Đông Nam Bộ",
+          "districts": [
+            { "district": "Huyện An Dương" },
+            { "district": "Huyện An Lão" },
+            { "district": "Huyện Chương Mỹ" },
+            { "district": "Huyện Hoài Đức" },
+            { "district": "Huyện Nhà Bè" },
+            { "district": "Huyện Phúc Thọ" },
+            { "district": "Huyện Ứng Hòa" },
+            { "district": "Thị xã Sơn Tây" }
+          ]
+        },
+        {
+          "city": "Nha Trang",
+          "districts": [
+            { "district": "Huyện An Dương" },
+            { "district": "Huyện An Lão" },
+            { "district": "Huyện Cát Hải" },
+            { "district": "Huyện Phúc Thọ" },
+            { "district": "Huyện Quốc Oai" },
+            { "district": "Huyện Vĩnh Thạnh" },
+            { "district": "Quận 2" },
+            { "district": "Quận 8" },
+            { "district": "Quận Ngô Quyền" },
+            { "district": "Quận Tây Hồ" },
+            { "district": "Quận Thốt Nốt" }
+          ]
+        },
+        {
+          "city": "Pleiku",
+          "districts": [
+            { "district": "Huyện An Lão" },
+            { "district": "Huyện Củ Chi" },
+            { "district": "Huyện Hoài Đức" },
+            { "district": "Huyện Thạch Thất" },
+            { "district": "Huyện Thanh Trì" },
+            { "district": "Quận 4" },
+            { "district": "Quận 8" },
+            { "district": "Quận Bình Thạnh" },
+            { "district": "Quận Bình Thuỷ" },
+            { "district": "Quận Cái Răng" },
+            { "district": "Quận Hai Bà Trưng" },
+            { "district": "Quận Hồng Bàng" },
+            { "district": "Quận Tây Hồ" },
+            { "district": "Thị xã Sơn Tây" }
+          ]
+        },
+        {
+          "city": "Qui Nhơn",
+          "districts": [
+            { "district": "Huyện Củ Chi" },
+            { "district": "Huyện Thanh Oai" },
+            { "district": "Huyện Vĩnh Thạnh" },
+            { "district": "Quận 8" },
+            { "district": "Quận Hà Đông" },
+            { "district": "Quận Hoàng Mai" },
+            { "district": "Quận Nam Từ Liêm" },
+            { "district": "Quận Phú Nhuận" },
+            { "district": "Quận Tân Phú" },
+            { "district": "Quận Thanh Xuân" },
+            { "district": "Quận Thủ Đức" },
+            { "district": "Thị xã Sơn Tây" }
+          ]
+        },
+        {
+          "city": "Bà Rịa - Vũng Tàu",
+          "districts": [
+            { "district": "Huyện Châu Đức" },
+            { "district": "Huyện Đất Đỏ" },
+            { "district": "Huyện Long Điền" },
+            { "district": "Huyện Tân Thành" },
+            { "district": "Huyện Xuyên Mộc" },
+            { "district": "Thành phố Bà Rịa" },
+            { "district": "Thành phố Vũng Tàu" }
+          ]
+        },
+        {
+          "city": "Bình Dương",
+          "districts": [
+            { "district": "Huyện Bắc Tân Uyên" },
+            { "district": "Huyện Bàu Bàng" },
+            { "district": "Huyện Phú Giáo" },
+            { "district": "Thành phố Thủ Dầu Một" },
+            { "district": "Thị xã Dĩ An" },
+            { "district": "Thị xã Tân Uyên" },
+            { "district": "Thị xã Thuận An" },
+            { "district": "Huyện Dầu Tiếng" },
+            { "district": "Thị xã Bến Cát" }
+          ]
+        },
+        {
+          "city": "Bình Phước",
+          "districts": [
+            { "district": "Huyện Bù Đăng" },
+            { "district": "Huyện Bù Đốp" },
+            { "district": "Huyện Đồng Phú" },
+            { "district": "Huyện Lộc Ninh" },
+            { "district": "Huyện Phú Riềng" },
+            { "district": "Thị xã Bình Long" },
+            { "district": "Thị xã Phước Long" },
+            { "district": "Huyện Bù Gia Mập" },
+            { "district": "Thị xã Đồng Xoài" },
+            { "district": "Huyện Hớn Quản" }
+          ]
+        },
+        {
+          "city": "Bình Thuận",
+          "districts": [
+            { "district": "Huyện Bắc Bình" },
+            { "district": "Huyện Hàm Tân" },
+            { "district": "Huyện Hàm Thuận Bắc" },
+            { "district": "Huyện Hàm Thuận Nam" },
+            { "district": "Huyện Phú Quí" },
+            { "district": "Huyện Tuy Phong" },
+            { "district": "Huyện Tánh Linh" },
+            { "district": "Thành phố Phan Thiết" }
+          ]
+        },
+        {
+          "city": "Đồng Nai",
+          "districts": [
+            { "district": "Huyện Cẩm Mỹ" },
+            { "district": "Huyện Long Thành" },
+            { "district": "Huyện Nhơn Trạch" },
+            { "district": "Huyện Thống Nhất" },
+            { "district": "Huyện Trảng Bom" },
+            { "district": "Huyện Vĩnh Cửu" },
+            { "district": "Huyện Xuân Lộc" },
+            { "district": "Thành phố Biên Hòa" },
+            { "district": "Thị xã Long Khánh" },
+            { "district": "Huyện Định Quán" },
+            { "district": "Huyện Tân Phú" }
+          ]
+        },
+        {
+          "city": "Lâm Đồng",
+          "districts": [
+            { "district": "Huyện Bảo Lâm" },
+            { "district": "Huyện Cát Tiên" },
+            { "district": "Huyện Đam Rông" },
+            { "district": "Huyện Đạ Tẻh" },
+            { "district": "Huyện Di Linh" },
+            { "district": "Huyện Đức Trọng" },
+            { "district": "Huyện Lâm Hà" },
+            { "district": "Thành phố Đà Lạt" },
+            { "district": "Huyện Đạ Huoai" },
+            { "district": "Huyện Đơn Dương" },
+            { "district": "Huyện Lạc Dương" },
+            { "district": "Thành phố Bảo Lộc" }
+          ]
+        },
+        {
+          "city": "Ninh Thuận",
+          "districts": [
+            { "district": "Huyện Bác Ái" },
+            { "district": "Huyện Ninh Hải" },
+            { "district": "Huyện Ninh Phước" },
+            { "district": "Huyện Thuận Bắc" },
+            { "district": "Huyện Thuận Nam" },
+            { "district": "Thành phố Phan RangTháp Chàm" },
+            { "district": "Huyện Ninh Sơn" }
+          ]
+        },
+        {
+          "city": "Tây Nguyên",
+          "districts": [
+            { "district": "Huyện Cát Hải" },
+            { "district": "Huyện Hóc Môn" },
+            { "district": "Huyện Sóc Sơn" },
+            { "district": "Huyện Thới Lai" },
+            { "district": "Quận 5" },
+            { "district": "Quận Ba Đình" },
+            { "district": "Quận Đống Đa" },
+            { "district": "Quận Dương Kinh" },
+            { "district": "Quận Long BiênQuận Cầu Giấy" },
+            { "district": "Quận Thủ Đức" },
+            { "district": "Thị xã Sơn Tây" },
+            { "district": "Huyện Củ Chi" },
+            { "district": "Huyện Đông Anh" },
+            { "district": "Quận 11" },
+            { "district": "Quận 4" },
+            { "district": "Quận Gò Vấp" },
+            { "district": "Quận Hai Bà Trưng" },
+            { "district": "Quận Hoàn Kiếm" }
+          ]
+        },
+        {
+          "city": "Tây Ninh",
+          "districts": [
+            { "district": "Huyện Bến Cầu" },
+            { "district": "Huyện Dương Minh Châu" },
+            { "district": "Huyện Gò Dầu" },
+            { "district": "Huyện Hòa Thành" },
+            { "district": "Huyện Tân Biên" },
+            { "district": "Huyện Tân Châu" },
+            { "district": "Huyện Trảng Bàng" },
+            { "district": "Thành phố Tây Ninh" }
+          ]
+        },
+        {
+          "city": "TP.Hồ Chí Minh",
+          "districts": [
+            { "district": "Huyện Củ Chi" },
+            { "district": "Huyện Nhà Bè" },
+            { "district": "Quận 1" },
+            { "district": "Quận 11" },
+            { "district": "Quận 2" },
+            { "district": "Quận 4" },
+            { "district": "Quận 9" },
+            { "district": "Quận Bình Tân" },
+            { "district": "Quận Bình Thạnh" },
+            { "district": "Quận Phú Nhuận" },
+            { "district": "Huyện Bình Chánh" },
+            { "district": "Quận 3" },
+            { "district": "Quận 5" },
+            { "district": "Quận 6" },
+            { "district": "Quận Tân Phú" },
+            { "district": "Quận 12" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đồng Bằng Sông Hồng",
+      "cities": [
+        {
+          "city": "Hải Phòng",
+          "districts": [
+            { "district": "Huyện An Dương" },
+            { "district": "Huyện Cát Hải" },
+            { "district": "Huyện Vĩnh Bảo" },
+            { "district": "Quận Đồ Sơn" },
+            { "district": "Quận Hải An" },
+            { "district": "Quận Hồng Bàng" },
+            { "district": "Huyện An Lão" },
+            { "district": "Huyện Kiến Thuỵ" },
+            { "district": "Huyện Thuỷ Nguyên" },
+            { "district": "Quận Dương Kinh" },
+            { "district": "Quận Kiến An" },
+            { "district": "Huyện Tiên Lãng" },
+            { "district": "Quận Ngô Quyền" }
+          ]
+        },
+        {
+          "city": "Ninh Bình",
+          "districts": [
+            { "district": "Huyện Gia Viễn" },
+            { "district": "Huyện Kim Sơn" },
+            { "district": "Huyện Nho Quan" },
+            { "district": "Thành phố Ninh Bình" },
+            { "district": "Thành phố Tam Điệp" },
+            { "district": "Huyện Hoa Lư" },
+            { "district": "Huyện Yên Khánh" }
+          ]
+        },
+        {
+          "city": "Hà Nam",
+          "districts": [
+            { "district": "Huyện Duy Tiên" },
+            { "district": "Huyện Kim Bảng" },
+            { "district": "Huyện Lý Nhân" },
+            { "district": "Huyện Thanh Liêm" },
+            { "district": "Thành phố Phủ Lý" },
+            { "district": "Huyện Bình Lục" }
+          ]
+        },
+        {
+          "city": "Thái Bình",
+          "districts": [
+            { "district": "Huyện Đông Hưng" },
+            { "district": "Huyện Hưng Hà" },
+            { "district": "Huyện Quỳnh Phụ" },
+            { "district": "Huyện Thái Thụy" },
+            { "district": "Huyện Vũ Thư" },
+            { "district": "Thành phố Thái Bình" },
+            { "district": "Huyện Kiến Xương" },
+            { "district": "Huyện Tiền Hải" }
+          ]
+        },
+        {
+          "city": "Nam Định",
+          "districts": [
+            { "district": "Huyện Giao Thủy" },
+            { "district": "Huyện Mỹ Lộc" },
+            { "district": "Huyện Nam Trực" },
+            { "district": "Huyện Nghĩa Hưng" },
+            { "district": "Huyện Trực Ninh" },
+            { "district": "Huyện Xuân Trường" },
+            { "district": "Huyện Ý Yên" },
+            { "district": "Thành phố Nam Định" },
+            { "district": "Huyện Vụ Bản" },
+            { "district": "Huyện Hải Hậu" }
+          ]
+        },
+        {
+          "city": "Vĩnh Phúc",
+          "districts": [
+            { "district": "Huyện Bình Xuyên" },
+            { "district": "Huyện Lập Thạch" },
+            { "district": "Huyện Tam Dương" },
+            { "district": "Huyện Vĩnh Tường" },
+            { "district": "Thành phố Vĩnh Yên" },
+            { "district": "Thị xã Phúc Yên" },
+            { "district": "Huyện Sông Lô" },
+            { "district": "Huyện Tam Đảo" },
+            { "district": "Huyện Yên Lạc" }
+          ]
+        },
+        {
+          "city": "Bắc Ninh",
+          "districts": [
+            { "district": "Huyện Gia Bình" },
+            { "district": "Huyện Lương Tài" },
+            { "district": "Huyện Quế Võ" },
+            { "district": "Huyện Thuận Thành" },
+            { "district": "Huyện Tiên Du" },
+            { "district": "Huyện Yên Phong" },
+            { "district": "Thị xã Từ Sơn" },
+            { "district": "Thành phố Bắc Ninh" }
+          ]
+        },
+        {
+          "city": "Hà Nội",
+          "districts": [
+            { "district": "Huyện Ba Vì" },
+            { "district": "Huyện Đông Anh" },
+            { "district": "Huyện Phúc Thọ" },
+            { "district": "Huyện Phú Xuyên" },
+            { "district": "Huyện Quốc Oai" },
+            { "district": "Huyện Thường Tín" },
+            { "district": "Huyện Ứng Hòa" },
+            { "district": "Quận Bắc Từ Liêm" },
+            { "district": "Quận Đống Đa" },
+            { "district": "Quận Hà Đông" },
+            { "district": "Quận Tây Hồ" },
+            { "district": "Quận Thanh Xuân" },
+            { "district": "Huyện Chương Mỹ" },
+            { "district": "Huyện Đan Phượng" },
+            { "district": "Huyện Hoài Đức" },
+            { "district": "Huyện Mỹ Đức" },
+            { "district": "Huyện Sóc Sơn" },
+            { "district": "Huyện Thạch Thất" },
+            { "district": "Quận Hai Bà Trưng" },
+            { "district": "Quận Ba Đình" },
+            { "district": "Quận Hoàng Mai" },
+            { "district": "Thị xã Sơn Tây" },
+            { "district": "Huyện Mê Linh" },
+            { "district": "Huyện Thanh Oai" }
+          ]
+        },
+        {
+          "city": "Quảng Ninh",
+          "districts": [
+            { "district": "Huyện Bình Liêu" },
+            { "district": "Huyện Đầm Hà" },
+            { "district": "Huyện Hải Hà" },
+            { "district": "Huyện Hoành Bồ" },
+            { "district": "Huyện Tiên Yên" },
+            { "district": "Huyện Vân Đồn" },
+            { "district": "Thành phố Uông Bí" },
+            { "district": "Thị xã Đông Triều" },
+            { "district": "Huyện Ba Chẽ" },
+            { "district": "Huyện Cô Tô" },
+            { "district": "Thành phố Cẩm Phả" }
+          ]
+        },
+        {
+          "city": "Hải Dương",
+          "districts": [
+            { "district": "Huyện Bình Giang" },
+            { "district": "Huyện Cẩm Giàng" },
+            { "district": "Huyện Kim Thành" },
+            { "district": "Huyện Kinh Môn" },
+            { "district": "Huyện Nam Sách" },
+            { "district": "Huyện Ninh Giang" },
+            { "district": "Huyện Thanh Hà" },
+            { "district": "Huyện Thanh Miện" },
+            { "district": "Thị xã Chí Linh" },
+            { "district": "Huyện Tứ Kỳ" },
+            { "district": "Thành phố Hải Dương" }
+          ]
+        },
+        {
+          "city": "Hưng Yên",
+          "districts": [
+            { "district": "Huyện Khoái Châu" },
+            { "district": "Huyện Mỹ Hào" },
+            { "district": "Huyện Phù Cừ" },
+            { "district": "Huyện Văn Lâm" },
+            { "district": "Huyện Yên Mỹ" },
+            { "district": "Thành phố Hưng Yên" },
+            { "district": "Huyện Kim Động" },
+            { "district": "Huyện Tiên Lữ" },
+            { "district": "Huyện Văn Giang" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đồng Bằng Sông Cửu Long",
+      "cities": [
+        {
+          "city": "Cần Thơ",
+          "districts": [
+            { "district": "Huyện Cờ Đỏ" },
+            { "district": "Huyện Thới Lai" },
+            { "district": "Quận Ninh Kiều" },
+            { "district": "Quận Ô Môn" },
+            { "district": "Quận Thốt Nốt" },
+            { "district": "Huyện Phong Điền" },
+            { "district": "Huyện Vĩnh Thạnh" },
+            { "district": "Quận Cái Răng" }
+          ]
+        },
+        {
+          "city": "Bạc Liêu",
+          "districts": [
+            { "district": "Huyện Đông Hải" },
+            { "district": "Huyện Hoà Bình" },
+            { "district": "Huyện Hồng Dân" },
+            { "district": "Huyện Vĩnh Lợi" },
+            { "district": "Thành phố Bạc Liêu" },
+            { "district": "Thị xã Giá Rai" }
+          ]
+        },
+        {
+          "city": "Bến Tre",
+          "districts": [
+            { "district": "Huyện Bình Đại" },
+            { "district": "Huyện Châu Thành" },
+            { "district": "Huyện Chợ Lách" },
+            { "district": "Huyện Giồng Trôm" },
+            { "district": "Huyện Mỏ Cày Bắc" },
+            { "district": "Huyện Mỏ Cày Nam" },
+            { "district": "Huyện Thạnh Phú" },
+            { "district": "Thành phố Bến Tre" },
+            { "district": "Huyện Ba Tri" }
+          ]
+        },
+        {
+          "city": "Sóc Trăng",
+          "districts": [
+            { "district": "Huyện Cù Lao Dung" },
+            { "district": "Huyện Kế Sách" },
+            { "district": "Huyện Long Phú" },
+            { "district": "Huyện Mỹ Tú" },
+            { "district": "Thị xã Ngã Năm" },
+            { "district": "Huyện Thạnh Trị" },
+            { "district": "Huyện Trần Đề" },
+            { "district": "Thị xã Vĩnh Châu" }
+          ]
+        },
+        {
+          "city": "Vĩnh Long",
+          "districts": [
+            { "district": "Huyện Long Hồ" },
+            { "district": "Huyện Mang Thít" },
+            { "district": "Huyện Tam Bình" },
+            { "district": "Huyện Trà Ôn" },
+            { "district": "Thị xã Bình Minh" },
+            { "district": "Huyện Vũng Liêm" },
+            { "district": "Thành phố Vĩnh Long" }
+          ]
+        },
+        {
+          "city": "Hậu Giang",
+          "districts": [
+            { "district": "Huyện Châu Thành" },
+            { "district": "Huyện Châu Thành A" },
+            { "district": "Huyện Long Mỹ" },
+            { "district": "Huyện Phụng Hiệp" },
+            { "district": "Thành phố Vị Thanh" },
+            { "district": "Thị xã Ngã Bảy" },
+            { "district": "Huyện Vị Thuỷ" },
+            { "district": "Thị xã Long Mỹ" }
+          ]
+        },
+        {
+          "city": "Trà Vinh",
+          "districts": [
+            { "district": "Huyện Cầu Kè" },
+            { "district": "Huyện Cầu Ngang" },
+            { "district": "Huyện Duyên Hải" },
+            { "district": "Huyện Tiểu Cần" },
+            { "district": "Huyện Trà Cú" },
+            { "district": "Thành phố Trà Vinh" },
+            { "district": "Thị xã Duyên Hải" },
+            { "district": "Huyện Càng Long" },
+            { "district": "Huyện Châu Thành" }
+          ]
+        },
+        {
+          "city": "Tiền Giang",
+          "districts": [
+            { "district": "Huyện Cái Bè" },
+            { "district": "Huyện Cai Lậy" },
+            { "district": "Huyện Châu Thành" },
+            { "district": "Huyện Gò Công Đông" },
+            { "district": "Huyện Gò Công Tây" },
+            { "district": "Huyện Tân Phú Đông" },
+            { "district": "Huyện Tân Phước" },
+            { "district": "Thành phố Mỹ Tho" },
+            { "district": "Huyện Chợ Gạo" },
+            { "district": "Thị xã Cai Lậy" }
+          ]
+        },
+        {
+          "city": "Kiên Giang",
+          "districts": [
+            { "district": "Huyện An Minh" },
+            { "district": "Huyện Châu Thành" },
+            { "district": "Huyện Kiên Hải" },
+            { "district": "Huyện Kiên Lương" },
+            { "district": "Huyện Phú Quốc" },
+            { "district": "Huyện U Minh Thượng" },
+            { "district": "Huyện Vĩnh Thuận" },
+            { "district": "Thị xã Hà Tiên" },
+            { "district": "Huyện Giang Thành" },
+            { "district": "Thành phố Rạch Giá" },
+            { "district": "Huyện Giồng Riềng" },
+            { "district": "Huyện Gò Quao" },
+            { "district": "Huyện Hòn Đất" }
+          ]
+        },
+        {
+          "city": "An Giang",
+          "districts": [
+            { "district": "Huyện An Phú" },
+            { "district": "Huyện Chợ Mới" },
+            { "district": "Huyện Phú Tân" },
+            { "district": "Huyện Thoại Sơn" },
+            { "district": "Huyện Tịnh Biên" },
+            { "district": "Huyện Tri Tôn" },
+            { "district": "Thành phố Long Xuyên" },
+            { "district": "Huyện Châu Thành" },
+            { "district": "Thành phố Châu Đốc" },
+            { "district": "Huyện Châu Phú" },
+            { "district": "Thị xã Tân Châu" }
+          ]
+        },
+        {
+          "city": "Cà Mau",
+          "districts": [
+            { "district": "Huyện Đầm Dơi" },
+            { "district": "Huyện Năm Căn" },
+            { "district": "Huyện Ngọc Hiển" },
+            { "district": "Huyện Phú Tân" },
+            { "district": "Huyện Thới Bình" },
+            { "district": "Huyện Trần Văn Thời" },
+            { "district": "Huyện U Minh" },
+            { "district": "Thành phố Cà Mau" },
+            { "district": "Huyện Cái Nước" }
+          ]
+        },
+        {
+          "city": "Vinh",
+          "districts": [
+            { "district": "Huyện An Lão" },
+            { "district": "Huyện Ba Vì" },
+            { "district": "Huyện Hòa Vang" },
+            { "district": "Huyện Phúc Thọ" },
+            { "district": "Huyện Thới Lai" },
+            { "district": "Quận 10" },
+            { "district": "Quận 11" },
+            { "district": "Quận 9" },
+            { "district": "Quận Ba Đình" },
+            { "district": "Quận Gò Vấp" },
+            { "district": "Quận Hoàng Mai" },
+            { "district": "Quận Lê Chân" },
+            { "district": "Quận Thốt Nốt" }
+          ]
+        },
+        {
+          "city": "Long An",
+          "districts": [
+            { "district": "Huyện Cần Giuộc" },
+            { "district": "Huyện Tân Hưng" },
+            { "district": "Huyện Thủ Thừa" },
+            { "district": "Huyện Vĩnh Hưng" },
+            { "district": "Thành phố Tân An" },
+            { "district": "Thị xã Kiến Tường" },
+            { "district": "Huyện Cần Đước" },
+            { "district": "Huyện Châu Thành" },
+            { "district": "Huyện Đức Hòa" },
+            { "district": "Huyện Đức Huệ" },
+            { "district": "Huyện Bến Lức" },
+            { "district": "Huyện Mộc Hóa" },
+            { "district": "Huyện Thạnh Hóa" }
+          ]
+        },
+        {
+          "city": "Đồng Tháp",
+          "districts": [
+            { "district": "Huyện Cao Lãnh" },
+            { "district": "Huyện Lai Vung" },
+            { "district": "Huyện Tân Hồng" },
+            { "district": "Thành phố Cao Lãnh" },
+            { "district": "Thành phố Sa Đéc" },
+            { "district": "Thị xã Hồng Ngự" },
+            { "district": "Huyện Hồng Ngự" },
+            { "district": "Huyện Tam Nông" },
+            { "district": "Huyện Châu Thành" },
+            { "district": "Huyện Lấp Vò" },
+            { "district": "Huyện Thanh Bình" },
+            { "district": "Huyện Tháp Mười" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đông Bắc",
+      "cities": [
+        {
+          "city": "Hà Giang",
+          "districts": [
+            { "district": "Huyện Bắc Quang" },
+            { "district": "Huyện Đồng Văn" },
+            { "district": "Huyện Hoàng Su Phì" },
+            { "district": "Huyện Mèo Vạc" },
+            { "district": "Huyện Quang Bình" },
+            { "district": "Huyện Vị Xuyên" },
+            { "district": "Huyện Yên Minh" },
+            { "district": "Huyện Bắc Mê" },
+            { "district": "Huyện Quản Bạ" }
+          ]
+        },
+        {
+          "city": "Bắc Kạn",
+          "districts": [
+            { "district": "Huyện Ba Bể" },
+            { "district": "Huyện Bạch Thông" },
+            { "district": "Huyện Chợ Đồn" },
+            { "district": "Huyện Chợ Mới" },
+            { "district": "Huyện Na Rì" },
+            { "district": "Thành Phố Bắc Kạn" },
+            { "district": "Huyện Ngân Sơn" }
+          ]
+        },
+        {
+          "city": "Bắc Giang",
+          "districts": [
+            { "district": "Huyện Hiệp Hòa" },
+            { "district": "Huyện Lạng Giang" },
+            { "district": "Huyện Sơn Động" },
+            { "district": "Huyện Tân Yên" },
+            { "district": "Huyện Việt Yên" },
+            { "district": "Huyện Yên Dũng" },
+            { "district": "Huyện Yên Thế" },
+            { "district": "Thành phố Bắc Giang" },
+            { "district": "Huyện Lục Nam" }
+          ]
+        },
+        {
+          "city": "Lạng Sơn",
+          "districts": [
+            { "district": "Huyện Bắc Sơn" },
+            { "district": "Huyện Bình Gia" },
+            { "district": "Huyện Cao Lộc" },
+            { "district": "Huyện Chi Lăng" },
+            { "district": "Huyện Đình Lập" },
+            { "district": "Huyện Tràng Định" },
+            { "district": "Thành phố Lạng Sơn" },
+            { "district": "Huyện Lộc Bình" },
+            { "district": "Huyện Văn Lãng" }
+          ]
+        },
+        {
+          "city": "Tuyên Quang",
+          "districts": [
+            { "district": "Huyện Chiêm Hóa" },
+            { "district": "Huyện Hàm Yên" },
+            { "district": "Huyện Lâm Bình" },
+            { "district": "Huyện Nà Hang" },
+            { "district": "Huyện Sơn Dương" },
+            { "district": "Huyện Yên Sơn" },
+            { "district": "Thành phố Tuyên Quang" }
+          ]
+        },
+        {
+          "city": "Thái Nguyên",
+          "districts": [
+            { "district": "Huyện Định Hóa" },
+            { "district": "Huyện Phú Bình" },
+            { "district": "Huyện Phú Lương" },
+            { "district": "Huyện Võ Nhai" },
+            { "district": "Thành phố Sông Công" },
+            { "district": "Thành phố Thái Nguyên" },
+            { "district": "Thị xã Phổ Yên" },
+            { "district": "Huyện Đại Từ" },
+            { "district": "Huyện Đồng Hỷ" }
+          ]
+        },
+        {
+          "city": "Bãi Cháy",
+          "districts": [
+            { "district": "Huyện Cát Hải" },
+            { "district": "Huyện Phúc Thọ" },
+            { "district": "Huyện Thạch Thất" },
+            { "district": "Huyện Thới Lai" },
+            { "district": "Huyện Thuỷ Nguyên" },
+            { "district": "Quận 10" },
+            { "district": "Quận 7" },
+            { "district": "Quận Bình Tân" },
+            { "district": "Quận Đống Đa" },
+            { "district": "Quận Đồ Sơn" },
+            { "district": "Quận Hải Châu" },
+            { "district": "Quận Lê Chân" },
+            { "district": "Quận Tân Bình" }
+          ]
+        },
+        {
+          "city": "Cao Bằng",
+          "districts": [
+            { "district": "Huyện Bảo Lạc" },
+            { "district": "Huyện Hạ Lang" },
+            { "district": "Huyện Quảng Uyên" },
+            { "district": "Huyện Thạch An" },
+            { "district": "Huyện Trà Lĩnh" },
+            { "district": "Huyện Trùng Khánh" },
+            { "district": "Thành phố Cao Bằng" },
+            { "district": "Huyện Bảo Lâm" },
+            { "district": "Huyện Thông Nông" },
+            { "district": "Huyện Nguyên Bình" },
+            { "district": "Huyện Phục Hoà" }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Bắc Trung Bộ",
+      "cities": [
+        {
+          "city": "Thanh Hoá",
+          "districts": [
+            { "district": "Huyện Bá Thước" },
+            { "district": "Huyện Cẩm Thủy" },
+            { "district": "Huyện Đông Sơn" },
+            { "district": "Huyện Mường Lát" },
+            { "district": "Huyện Như Thanh" },
+            { "district": "Huyện Nông Cống" },
+            { "district": "Huyện Quan Sơn" },
+            { "district": "Huyện Vĩnh Lộc" },
+            { "district": "Huyện Yên Định" },
+            { "district": "Thành phố Thanh Hóa" },
+            { "district": "Thị xã Sầm Sơn" },
+            { "district": "Huyện Hà Trung" },
+            { "district": "Huyện Hậu Lộc" },
+            { "district": "Huyện Tĩnh Gia" },
+            { "district": "Huyện Hoằng Hóa" },
+            { "district": "Huyện Như Xuân" },
+            { "district": "Huyện Quan Hóa" },
+            { "district": "Huyện Thọ Xuân" }
+          ]
+        },
+        {
+          "city": "Hà Tĩnh",
+          "districts": [
+            { "district": "Huyện Nhà Bè" },
+            { "district": "Huyện Thới Lai" },
+            { "district": "Huyện Ứng Hòa" },
+            { "district": "Huyện Vĩnh Thạnh" },
+            { "district": "Quận Gò Vấp" },
+            { "district": "Quận Kiến An" },
+            { "district": "Quận Ngô Quyền" },
+            { "district": "Quận Phú Nhuận" },
+            { "district": "Quận Tây Hồ" },
+            { "district": "Quận Thanh Khê" },
+            { "district": "Huyện Hoài Đức" },
+            { "district": "Huyện Sóc Sơn" },
+            { "district": "Huyện Thuỷ Nguyên" },
+            { "district": "Quận Ba Đình" },
+            { "district": "Quận Đồ Sơn" },
+            { "district": "Quận Hải Châu" },
+            { "district": "Quận Hoàn Kiếm" },
+            { "district": "Huyện Kiến Thuỵ" },
+            { "district": "Quận 1" },
+            { "district": "Quận 2" },
+            { "district": "Quận 4" },
+            { "district": "Quận Hai Bà Trưng" },
+            { "district": "Quận Long BiênQuận Cầu Giấy" },
+            { "district": "Quận Nam Từ Liêm" }
+          ]
+        },
+        {
+          "city": "Quảng Trị",
+          "districts": [
+            { "district": "Huyện Đa Krông" },
+            { "district": "Huyện Gio Linh" },
+            { "district": "Huyện Hải Lăng" },
+            { "district": "Huyện Hướng Hóa" },
+            { "district": "Huyện Triệu Phong" },
+            { "district": "Huyện Vĩnh Linh" },
+            { "district": "Thành phố Đông Hà" },
+            { "district": "Thị xã Quảng Trị" },
+            { "district": "Huyện Cam Lộ" }
+          ]
+        },
+        {
+          "city": "Huế",
+          "districts": [
+            { "district": "Huyện An Lão" },
+            { "district": "Huyện Củ Chi" },
+            { "district": "Huyện Thới Lai" },
+            { "district": "Huyện Tiên Lãng" },
+            { "district": "Huyện Vĩnh Thạnh" },
+            { "district": "Quận 5" },
+            { "district": "Quận 7" },
+            { "district": "Quận Bắc Từ Liêm" },
+            { "district": "Quận Bình Thuỷ" },
+            { "district": "Quận Ngũ Hành Sơn" },
+            { "district": "Quận Thanh Khê" },
+            { "district": "Quận Thanh Xuân" },
+            { "district": "Quận Thốt Nốt" }
+          ]
+        },
+        {
+          "city": "Quảng Bình",
+          "districts": [
+            { "district": "Huyện Bố Trạch" },
+            { "district": "Huyện Lệ Thủy" },
+            { "district": "Huyện Minh Hóa" },
+            { "district": "Huyện Quảng Ninh" },
+            { "district": "Huyện Quảng Trạch" },
+            { "district": "Huyện Tuyên Hóa" },
+            { "district": "Thành Phố Đồng Hới" },
+            { "district": "Thị xã Ba Đồn" }
+          ]
+        },
+        {
+          "city": "Thừa Thiên Huế",
+          "districts": [
+            { "district": "Huyện Phong Điền" },
+            { "district": "Huyện Phú Vang" },
+            { "district": "Huyện Quảng Điền" },
+            { "district": "Thành phố Huế" },
+            { "district": "Thị xã Hương Thủy" },
+            { "district": "Thị xã Hương Trà" },
+            { "district": "Huyện Nam Đông" },
+            { "district": "Huyện Phú Lộc" }
+          ]
+        },
+        {
+          "city": "Nghệ An",
+          "districts": [
+            { "district": "Huyện Anh Sơn" },
+            { "district": "Huyện Con Cuông" },
+            { "district": "Huyện Hưng Nguyên" },
+            { "district": "Huyện Kỳ Sơn" },
+            { "district": "Huyện Nghi Lộc" },
+            { "district": "Huyện Quỳ Hợp" },
+            { "district": "Huyện Thanh Chương" },
+            { "district": "Thị xã Cửa Lò" },
+            { "district": "Thị xã Thái Hoà" },
+            { "district": "Huyện Đô Lương" },
+            { "district": "Thành phố Vinh" },
+            { "district": "Thị xã Hoàng Mai" },
+            { "district": "Huyện Nam Đàn" },
+            { "district": "Huyện Quỳnh Lưu" }
+          ]
+        }
+      ]
+    }
+  }
+]

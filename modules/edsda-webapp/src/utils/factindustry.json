@@ -1,0 +1,2624 @@
+[
+  {
+    "data": {
+      "area": "Tây Bắc",
+      "cities": [
+        {
+          "city": "Phú Thọ",
+          "districts": [
+            { "district": "Huyện Đoan Hùng", "years": null },
+            {
+              "district": "Huyện Hạ Hoà",
+              "years": [{ "year": 2015, "industry": 116.6 }]
+            },
+            { "district": "Huyện Lâm Thao", "years": null },
+            {
+              "district": "Huyện Tam Nông",
+              "years": [
+                { "year": 2013, "industry": 106 },
+                { "year": 2013, "industry": 106.8 }
+              ]
+            },
+            { "district": "Huyện Tân Sơn", "years": null },
+            { "district": "Huyện Thanh Ba", "years": null },
+            { "district": "Thị xã Phú Thọ", "years": null },
+            {
+              "district": "Huyện Phù Ninh",
+              "years": [
+                { "year": 2019, "industry": 112 },
+                { "year": 2018, "industry": 108.3 }
+              ]
+            },
+            {
+              "district": "Huyện Thanh Sơn",
+              "years": [{ "year": 2012, "industry": 97.5 }]
+            },
+            {
+              "district": "Huyện Thanh Thuỷ",
+              "years": [{ "year": 2016, "industry": 109.5 }]
+            },
+            {
+              "district": "Huyện Yên Lập",
+              "years": [
+                { "year": 2017, "industry": 108.1 },
+                { "year": 2014, "industry": 106.2 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Lào Cai",
+          "districts": [
+            { "district": "Huyện Bảo Thắng", "years": null },
+            {
+              "district": "Huyện Bảo Yên",
+              "years": [{ "year": 2013, "industry": 124 }]
+            },
+            { "district": "Huyện Bát Xát", "years": null },
+            {
+              "district": "Huyện Mường Khương",
+              "years": [
+                { "year": 2019, "industry": 118.8 },
+                { "year": 2017, "industry": 117.1 },
+                { "year": 2016, "industry": 123.3 }
+              ]
+            },
+            {
+              "district": "Huyện Si Ma Cai",
+              "years": [
+                { "year": 2012, "industry": 104 },
+                { "year": 2018, "industry": 114.4 },
+                { "year": 2014, "industry": 105.2 }
+              ]
+            },
+            { "district": "Huyện Văn Bàn", "years": null },
+            { "district": "Thành phố Lào Cai", "years": null },
+            {
+              "district": "Huyện Bắc Hà",
+              "years": [{ "year": 2015, "industry": 112.1 }]
+            },
+            { "district": "Huyện Sa Pa", "years": null }
+          ]
+        },
+        {
+          "city": "Lai Châu",
+          "districts": [
+            {
+              "district": "Huyện Mường Tè",
+              "years": [{ "year": 2017, "industry": 129.8 }]
+            },
+            { "district": "Huyện Phong Thổ", "years": null },
+            {
+              "district": "Huyện Sìn Hồ",
+              "years": [{ "year": 2019, "industry": 89.8 }]
+            },
+            { "district": "Huyện Tam Đường", "years": null },
+            {
+              "district": "Huyện Tân Uyên",
+              "years": [{ "year": 2015, "industry": 100.2 }]
+            },
+            {
+              "district": "Huyện Than Uyên",
+              "years": [
+                { "year": 2016, "industry": 278.2 },
+                { "year": 2013, "industry": 95.4 },
+                { "year": 2018, "industry": 107.1 }
+              ]
+            },
+            {
+              "district": "Thành phố Lai Châu",
+              "years": [
+                { "year": 2012, "industry": 101.2 },
+                { "year": 2014, "industry": 115.7 }
+              ]
+            },
+            { "district": "Huyện Nậm Nhùn", "years": null }
+          ]
+        },
+        {
+          "city": "Yên Bái",
+          "districts": [
+            {
+              "district": "Huyện Lục Yên",
+              "years": [{ "year": 2018, "industry": 104.3 }]
+            },
+            {
+              "district": "Huyện Mù Căng Chải",
+              "years": [
+                { "year": 2015, "industry": 103.7 },
+                { "year": 2014, "industry": 104.8 }
+              ]
+            },
+            {
+              "district": "Huyện Trạm Tấu",
+              "years": [
+                { "year": 2017, "industry": 106.9 },
+                { "year": 2013, "industry": 112.3 },
+                { "year": 2019, "industry": 110.9 }
+              ]
+            },
+            {
+              "district": "Huyện Trấn Yên",
+              "years": [
+                { "year": 2012, "industry": 114.5 },
+                { "year": 2016, "industry": 105.3 }
+              ]
+            },
+            { "district": "Huyện Văn Chấn", "years": null },
+            { "district": "Huyện Văn Yên", "years": null },
+            { "district": "Huyện Yên Bình", "years": null },
+            { "district": "Thành phố Yên Bái", "years": null }
+          ]
+        },
+        {
+          "city": "Sơn La",
+          "districts": [
+            {
+              "district": "Huyện Bắc Yên",
+              "years": [{ "year": 2018, "industry": 103 }]
+            },
+            { "district": "Huyện Mai Sơn", "years": null },
+            {
+              "district": "Huyện Mộc Châu",
+              "years": [{ "year": 2014, "industry": 106.2 }]
+            },
+            { "district": "Huyện Mường La", "years": null },
+            {
+              "district": "Huyện Quỳnh Nhai",
+              "years": [{ "year": 2016, "industry": 102.2 }]
+            },
+            {
+              "district": "Huyện Sông Mã",
+              "years": [
+                { "year": 2012, "industry": 117 },
+                { "year": 2017, "industry": 121.8 }
+              ]
+            },
+            { "district": "Huyện Vân Hồ", "years": null },
+            { "district": "Thành phố Sơn La", "years": null },
+            {
+              "district": "Huyện Phù Yên",
+              "years": [{ "year": 2019, "industry": 73.1 }]
+            },
+            { "district": "Huyện Thuận Châu", "years": null },
+            {
+              "district": "Huyện Yên Châu",
+              "years": [
+                { "year": 2015, "industry": 102.7 },
+                { "year": 2013, "industry": 171 }
+              ]
+            },
+            { "district": "Huyện Sốp Cộp", "years": null }
+          ]
+        },
+        {
+          "city": "Hoà Bình",
+          "districts": [
+            { "district": "Huyện Kỳ Sơn", "years": null },
+            {
+              "district": "Huyện Lạc Sơn",
+              "years": [{ "year": 2017, "industry": 113.8 }]
+            },
+            { "district": "Huyện Lạc Thủy", "years": null },
+            {
+              "district": "Huyện Lương Sơn",
+              "years": [{ "year": 2015, "industry": 103.3 }]
+            },
+            {
+              "district": "Huyện Mai Châu",
+              "years": [
+                { "year": 2014, "industry": 101.1 },
+                { "year": 2013, "industry": 112.8 }
+              ]
+            },
+            {
+              "district": "Huyện Tân Lạc",
+              "years": [{ "year": 2018, "industry": 103.6 }]
+            },
+            {
+              "district": "Huyện Yên Thủy",
+              "years": [{ "year": 2012, "industry": 128.7 }]
+            },
+            {
+              "district": "Huyện Kim Bôi",
+              "years": [{ "year": 2016, "industry": 104.8 }]
+            },
+            {
+              "district": "Thành phố Hòa Bình",
+              "years": [{ "year": 2019, "industry": 86.6 }]
+            },
+            { "district": "Huyện Cao Phong", "years": null },
+            { "district": "Huyện Đà Bắc", "years": null }
+          ]
+        },
+        {
+          "city": "Điện Biên",
+          "districts": [
+            {
+              "district": "Huyện Điện Biên Đông",
+              "years": [{ "year": 2016, "industry": 109 }]
+            },
+            {
+              "district": "Huyện Mường Ảng",
+              "years": [{ "year": 2012, "industry": 105.4 }]
+            },
+            {
+              "district": "Huyện Mường Chà",
+              "years": [{ "year": 2015, "industry": 108.1 }]
+            },
+            { "district": "Huyện Mường Nhé", "years": null },
+            { "district": "Huyện Tủa Chùa", "years": null },
+            {
+              "district": "Huyện Tuần Giáo",
+              "years": [{ "year": 2017, "industry": 114.5 }]
+            },
+            { "district": "Thị Xã Mường Lay", "years": null },
+            {
+              "district": "Huyện Điện Biên",
+              "years": [{ "year": 2018, "industry": 110.6 }]
+            },
+            {
+              "district": "Huyện Nậm Pồ",
+              "years": [
+                { "year": 2019, "industry": 98.4 },
+                { "year": 2014, "industry": 102.6 }
+              ]
+            },
+            {
+              "district": "Thành phố Điện Biên Phủ",
+              "years": [{ "year": 2013, "industry": 107 }]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Nam Trung Bộ",
+      "cities": [
+        {
+          "city": "Đà Lạt",
+          "districts": [
+            {
+              "district": "Huyện An Lão",
+              "years": [{ "year": 2014, "industry": 112.9 }]
+            },
+            { "district": "Huyện Hoài Đức", "years": null },
+            {
+              "district": "Huyện Hòa Vang",
+              "years": [{ "year": 2013, "industry": 110.5 }]
+            },
+            { "district": "Huyện Nhà Bè", "years": null },
+            { "district": "Huyện Thạch Thất", "years": null },
+            { "district": "Huyện Thường Tín", "years": null },
+            { "district": "Quận 7", "years": null },
+            { "district": "Quận Đồ Sơn", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Nam Từ Liêm", "years": null },
+            { "district": "Quận Ngũ Hành Sơn", "years": null },
+            {
+              "district": "Quận Ninh Kiều",
+              "years": [{ "year": 2017, "industry": 107.2 }]
+            }
+          ]
+        },
+        {
+          "city": "Đà Nẵng",
+          "districts": [
+            { "district": "Huyện Hòa Vang", "years": null },
+            { "district": "Quận Cẩm Lệ", "years": null },
+            { "district": "Quận Hải Châu", "years": null },
+            {
+              "district": "Quận Liên Chiểu",
+              "years": [{ "year": 2012, "industry": 106 }]
+            },
+            {
+              "district": "Quận Sơn Trà",
+              "years": [{ "year": 2018, "industry": 106.6 }]
+            },
+            {
+              "district": "Quận Thanh Khê",
+              "years": [{ "year": 2015, "industry": 113.1 }]
+            },
+            { "district": "Quận Ngũ Hành Sơn", "years": null }
+          ]
+        },
+        {
+          "city": "Vũng Tàu",
+          "districts": [
+            {
+              "district": "Huyện An Dương",
+              "years": [{ "year": 2015, "industry": 116.6 }]
+            },
+            { "district": "Huyện Đông Anh", "years": null },
+            {
+              "district": "Huyện Kiến Thuỵ",
+              "years": [{ "year": 2016, "industry": 116.9 }]
+            },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Quận 11", "years": null },
+            { "district": "Quận Bình Thạnh", "years": null },
+            { "district": "Quận Bình Thuỷ", "years": null },
+            { "district": "Quận Gò Vấp", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Nam Từ Liêm", "years": null },
+            {
+              "district": "Quận Ô Môn",
+              "years": [{ "year": 2012, "industry": 104.6 }]
+            }
+          ]
+        },
+        {
+          "city": "Kon Tum",
+          "districts": [
+            {
+              "district": "Huyện Đắk Glei",
+              "years": [{ "year": 2018, "industry": 114.2 }]
+            },
+            { "district": "Huyện Đắk Hà", "years": null },
+            {
+              "district": "Huyện Ia H Drai",
+              "years": [{ "year": 2013, "industry": 113.4 }]
+            },
+            {
+              "district": "Huyện Kon Plông",
+              "years": [{ "year": 2012, "industry": 115.3 }]
+            },
+            { "district": "Huyện Kon Rẫy", "years": null },
+            {
+              "district": "Huyện Ngọc Hồi",
+              "years": [{ "year": 2015, "industry": 105.2 }]
+            },
+            { "district": "Huyện Tu Mơ Rông", "years": null },
+            {
+              "district": "Thành phố Kon Tum",
+              "years": [
+                { "year": 2017, "industry": 119.6 },
+                { "year": 2019, "industry": 116.4 }
+              ]
+            },
+            {
+              "district": "Huyện Sa Thầy",
+              "years": [
+                { "year": 2014, "industry": 105.4 },
+                { "year": 2016, "industry": 106.3 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Khánh Hoà",
+          "districts": [
+            {
+              "district": "Huyện Khánh Sơn",
+              "years": [
+                { "year": 2014, "industry": 103.1 },
+                { "year": 2016, "industry": 106.8 }
+              ]
+            },
+            {
+              "district": "Huyện Khánh Vĩnh",
+              "years": [
+                { "year": 2015, "industry": 106.8 },
+                { "year": 2017, "industry": 107 }
+              ]
+            },
+            {
+              "district": "Huyện Vạn Ninh",
+              "years": [{ "year": 2012, "industry": 106.8 }]
+            },
+            {
+              "district": "Thành phố Cam Ranh",
+              "years": [{ "year": 2018, "industry": 107 }]
+            },
+            { "district": "Thị xã Ninh Hòa", "years": null },
+            {
+              "district": "Huyện Cam Lâm",
+              "years": [{ "year": 2013, "industry": 104.5 }]
+            },
+            {
+              "district": "Thành phố Nha Trang",
+              "years": [{ "year": 2019, "industry": 107.2 }]
+            },
+            { "district": "Huyện Trường Sa", "years": null }
+          ]
+        },
+        {
+          "city": "Gia Lai",
+          "districts": [
+            { "district": "Huyện Chư Păh", "years": null },
+            { "district": "Huyện Chư Prông", "years": null },
+            {
+              "district": "Huyện Chư Pưh",
+              "years": [{ "year": 2016, "industry": 92.3 }]
+            },
+            { "district": "Huyện Chư Sê", "years": null },
+            {
+              "district": "Huyện Đức Cơ",
+              "years": [{ "year": 2014, "industry": 106.1 }]
+            },
+            {
+              "district": "Huyện Ia Grai",
+              "years": [
+                { "year": 2012, "industry": 121 },
+                { "year": 2013, "industry": 108.1 },
+                { "year": 2019, "industry": 92.5 }
+              ]
+            },
+            { "district": "Huyện Phú Thiện", "years": null },
+            { "district": "Thành phố Pleiku", "years": null },
+            { "district": "Thị xã An Khê", "years": null },
+            {
+              "district": "Huyện Đăk Đoa",
+              "years": [
+                { "year": 2015, "industry": 99.1 },
+                { "year": 2018, "industry": 113.1 }
+              ]
+            },
+            {
+              "district": "Huyện Kông Chro",
+              "years": [{ "year": 2017, "industry": 121.4 }]
+            },
+            { "district": "Huyện Đăk Pơ", "years": null },
+            { "district": "Huyện Ia Pa", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Ngãi",
+          "districts": [
+            { "district": "Huyện Đức Phổ", "years": null },
+            { "district": "Huyện Lý Sơn", "years": null },
+            {
+              "district": "Huyện Nghĩa Hành",
+              "years": [{ "year": 2017, "industry": 100.6 }]
+            },
+            { "district": "Huyện Sơn Hà", "years": null },
+            { "district": "Huyện Tây Trà", "years": null },
+            {
+              "district": "Huyện Trà Bồng",
+              "years": [
+                { "year": 2015, "industry": 108.6 },
+                { "year": 2018, "industry": 108.5 }
+              ]
+            },
+            { "district": "Thành phố Quảng Ngãi", "years": null },
+            {
+              "district": "Huyện Bình Sơn",
+              "years": [{ "year": 2014, "industry": 86.9 }]
+            },
+            {
+              "district": "Huyện Minh Long",
+              "years": [{ "year": 2012, "industry": 107.7 }]
+            },
+            {
+              "district": "Huyện Mộ Đức",
+              "years": [
+                { "year": 2019, "industry": 113.3 },
+                { "year": 2016, "industry": 100.4 }
+              ]
+            },
+            {
+              "district": "Huyện Sơn Tịnh",
+              "years": [{ "year": 2013, "industry": 116.6 }]
+            },
+            { "district": "Huyện Ba Tơ", "years": null },
+            { "district": "Huyện Tư Nghĩa", "years": null }
+          ]
+        },
+        {
+          "city": "Đắk Nông",
+          "districts": [
+            {
+              "district": "Huyện Cư Jút",
+              "years": [{ "year": 2015, "industry": 107 }]
+            },
+            {
+              "district": "Huyện Đăk Glong",
+              "years": [
+                { "year": 2019, "industry": 104.3 },
+                { "year": 2012, "industry": 109.4 }
+              ]
+            },
+            { "district": "Huyện Đắk Song", "years": null },
+            {
+              "district": "Huyện Krông Nô",
+              "years": [{ "year": 2013, "industry": 105.1 }]
+            },
+            {
+              "district": "Huyện Tuy Đức",
+              "years": [{ "year": 2018, "industry": 109 }]
+            },
+            {
+              "district": "Thị xã Gia Nghĩa",
+              "years": [
+                { "year": 2014, "industry": 107.2 },
+                { "year": 2017, "industry": 158.2 }
+              ]
+            },
+            {
+              "district": "Huyện Đắk RLấp",
+              "years": [{ "year": 2016, "industry": 103.6 }]
+            },
+            { "district": "Huyện Đắk Mil", "years": null }
+          ]
+        },
+        {
+          "city": "Bình Định",
+          "districts": [
+            {
+              "district": "Huyện Hoài Ân",
+              "years": [{ "year": 2017, "industry": 108.8 }]
+            },
+            {
+              "district": "Huyện Hoài Nhơn",
+              "years": [{ "year": 2015, "industry": 108.5 }]
+            },
+            { "district": "Huyện Phù Cát", "years": null },
+            { "district": "Huyện Tây Sơn", "years": null },
+            {
+              "district": "Huyện Vân Canh",
+              "years": [
+                { "year": 2012, "industry": 106.8 },
+                { "year": 2014, "industry": 105.7 },
+                { "year": 2013, "industry": 107 }
+              ]
+            },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            {
+              "district": "Thành phố Qui Nhơn",
+              "years": [{ "year": 2016, "industry": 107.3 }]
+            },
+            {
+              "district": "Thị xã An Nhơn",
+              "years": [{ "year": 2018, "industry": 108.7 }]
+            },
+            {
+              "district": "Huyện Tuy Phước",
+              "years": [{ "year": 2019, "industry": 108.4 }]
+            }
+          ]
+        },
+        {
+          "city": "Quảng Nam",
+          "districts": [
+            { "district": "Huyện Đại Lộc", "years": null },
+            {
+              "district": "Huyện Hiệp Đức",
+              "years": [{ "year": 2017, "industry": 95.2 }]
+            },
+            {
+              "district": "Huyện Nam Giang",
+              "years": [{ "year": 2018, "industry": 102.5 }]
+            },
+            {
+              "district": "Huyện Nông Sơn",
+              "years": [{ "year": 2012, "industry": 118.2 }]
+            },
+            { "district": "Huyện Phước Sơn", "years": null },
+            { "district": "Huyện Quế Sơn", "years": null },
+            { "district": "Huyện Tiên Phước", "years": null },
+            { "district": "Thành phố Hội An", "years": null },
+            { "district": "Thành phố Tam Kỳ", "years": null },
+            {
+              "district": "Huyện Bắc Trà My",
+              "years": [
+                { "year": 2014, "industry": 105.3 },
+                { "year": 2013, "industry": 109.6 }
+              ]
+            },
+            {
+              "district": "Huyện Đông Giang",
+              "years": [
+                { "year": 2015, "industry": 135 },
+                { "year": 2016, "industry": 128.2 }
+              ]
+            },
+            {
+              "district": "Huyện Thăng Bình",
+              "years": [{ "year": 2019, "industry": 104.1 }]
+            },
+            { "district": "Huyện Nam Trà My", "years": null },
+            { "district": "Huyện Núi Thành", "years": null },
+            { "district": "Huyện Phú Ninh", "years": null },
+            { "district": "Huyện Tây Giang", "years": null }
+          ]
+        },
+        {
+          "city": "Phú Yên",
+          "districts": [
+            { "district": "Huyện Đông Hòa", "years": null },
+            { "district": "Huyện Sông Hinh", "years": null },
+            { "district": "Huyện Sơn Hòa", "years": null },
+            { "district": "Huyện Tây Hoà", "years": null },
+            {
+              "district": "Thành phố Tuy Hoà",
+              "years": [
+                { "year": 2012, "industry": 113.4 },
+                { "year": 2015, "industry": 109.3 }
+              ]
+            },
+            {
+              "district": "Thị xã Sông Cầu",
+              "years": [
+                { "year": 2019, "industry": 111.6 },
+                { "year": 2016, "industry": 106.5 }
+              ]
+            },
+            {
+              "district": "Huyện Đồng Xuân",
+              "years": [{ "year": 2018, "industry": 109 }]
+            },
+            {
+              "district": "Huyện Phú Hoà",
+              "years": [
+                { "year": 2014, "industry": 107.3 },
+                { "year": 2013, "industry": 106.2 }
+              ]
+            },
+            {
+              "district": "Huyện Tuy An",
+              "years": [{ "year": 2017, "industry": 107.8 }]
+            }
+          ]
+        },
+        {
+          "city": "Đắk Lắk",
+          "districts": [
+            { "district": "Huyện Buôn Đôn", "years": null },
+            {
+              "district": "Huyện Cư Mgar",
+              "years": [{ "year": 2018, "industry": 101 }]
+            },
+            { "district": "Huyện Ea Hleo", "years": null },
+            {
+              "district": "Huyện Ea Kar",
+              "years": [{ "year": 2017, "industry": 119.3 }]
+            },
+            { "district": "Huyện Ea Súp", "years": null },
+            {
+              "district": "Huyện Krông A Na",
+              "years": [{ "year": 2016, "industry": 107.1 }]
+            },
+            { "district": "Huyện Krông Búk", "years": null },
+            {
+              "district": "Huyện MĐrắk",
+              "years": [{ "year": 2014, "industry": 103.8 }]
+            },
+            {
+              "district": "Huyện Cư Kuin",
+              "years": [{ "year": 2015, "industry": 98.7 }]
+            },
+            {
+              "district": "Huyện Krông Năng",
+              "years": [{ "year": 2013, "industry": 100.3 }]
+            },
+            {
+              "district": "Huyện Krông Pắc",
+              "years": [
+                { "year": 2012, "industry": 110.5 },
+                { "year": 2019, "industry": 102.6 }
+              ]
+            },
+            { "district": "Huyện Krông Bông", "years": null },
+            { "district": "Thành phố Buôn Ma Thuột", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đông Nam Bộ",
+      "cities": [
+        {
+          "city": "Đông Nam Bộ",
+          "districts": [
+            { "district": "Huyện An Dương", "years": null },
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Chương Mỹ", "years": null },
+            { "district": "Huyện Hoài Đức", "years": null },
+            { "district": "Huyện Nhà Bè", "years": null },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            { "district": "Huyện Ứng Hòa", "years": null },
+            { "district": "Thị xã Sơn Tây", "years": null }
+          ]
+        },
+        {
+          "city": "Nha Trang",
+          "districts": [
+            { "district": "Huyện An Dương", "years": null },
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Cát Hải", "years": null },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            { "district": "Huyện Quốc Oai", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            {
+              "district": "Quận 2",
+              "years": [{ "year": 2017, "industry": 107.9 }]
+            },
+            { "district": "Quận 8", "years": null },
+            { "district": "Quận Ngô Quyền", "years": null },
+            { "district": "Quận Tây Hồ", "years": null },
+            { "district": "Quận Thốt Nốt", "years": null }
+          ]
+        },
+        {
+          "city": "Pleiku",
+          "districts": [
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Củ Chi", "years": null },
+            {
+              "district": "Huyện Hoài Đức",
+              "years": [{ "year": 2019, "industry": 125.5 }]
+            },
+            { "district": "Huyện Thạch Thất", "years": null },
+            { "district": "Huyện Thanh Trì", "years": null },
+            { "district": "Quận 4", "years": null },
+            { "district": "Quận 8", "years": null },
+            { "district": "Quận Bình Thạnh", "years": null },
+            { "district": "Quận Bình Thuỷ", "years": null },
+            { "district": "Quận Cái Răng", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            {
+              "district": "Quận Hồng Bàng",
+              "years": [{ "year": 2018, "industry": 125.3 }]
+            },
+            {
+              "district": "Quận Tây Hồ",
+              "years": [{ "year": 2013, "industry": 113.1 }]
+            },
+            {
+              "district": "Thị xã Sơn Tây",
+              "years": [{ "year": 2012, "industry": 105 }]
+            }
+          ]
+        },
+        {
+          "city": "Qui Nhơn",
+          "districts": [
+            { "district": "Huyện Củ Chi", "years": null },
+            { "district": "Huyện Thanh Oai", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            { "district": "Quận 8", "years": null },
+            { "district": "Quận Hà Đông", "years": null },
+            {
+              "district": "Quận Hoàng Mai",
+              "years": [{ "year": 2017, "industry": 107 }]
+            },
+            { "district": "Quận Nam Từ Liêm", "years": null },
+            { "district": "Quận Phú Nhuận", "years": null },
+            {
+              "district": "Quận Tân Phú",
+              "years": [{ "year": 2012, "industry": 105 }]
+            },
+            {
+              "district": "Quận Thanh Xuân",
+              "years": [
+                { "year": 2014, "industry": 104.2 },
+                { "year": 2019, "industry": 108.5 }
+              ]
+            },
+            { "district": "Quận Thủ Đức", "years": null },
+            { "district": "Thị xã Sơn Tây", "years": null }
+          ]
+        },
+        {
+          "city": "Bà Rịa - Vũng Tàu",
+          "districts": [
+            {
+              "district": "Huyện Châu Đức",
+              "years": [{ "year": 2013, "industry": 95.1 }]
+            },
+            {
+              "district": "Huyện Đất Đỏ",
+              "years": [
+                { "year": 2019, "industry": 102.1 },
+                { "year": 2015, "industry": 100.9 }
+              ]
+            },
+            {
+              "district": "Huyện Long Điền",
+              "years": [
+                { "year": 2014, "industry": 103.9 },
+                { "year": 2016, "industry": 96.1 },
+                { "year": 2017, "industry": 96.2 }
+              ]
+            },
+            {
+              "district": "Huyện Tân Thành",
+              "years": [{ "year": 2012, "industry": 99.5 }]
+            },
+            { "district": "Huyện Xuyên Mộc", "years": null },
+            {
+              "district": "Thành phố Bà Rịa",
+              "years": [{ "year": 2018, "industry": 99.4 }]
+            },
+            { "district": "Thành phố Vũng Tàu", "years": null }
+          ]
+        },
+        {
+          "city": "Bình Dương",
+          "districts": [
+            { "district": "Huyện Bắc Tân Uyên", "years": null },
+            {
+              "district": "Huyện Bàu Bàng",
+              "years": [
+                { "year": 2017, "industry": 110.4 },
+                { "year": 2015, "industry": 109.3 }
+              ]
+            },
+            {
+              "district": "Huyện Phú Giáo",
+              "years": [{ "year": 2014, "industry": 107.2 }]
+            },
+            { "district": "Thành phố Thủ Dầu Một", "years": null },
+            {
+              "district": "Thị xã Dĩ An",
+              "years": [{ "year": 2013, "industry": 111.7 }]
+            },
+            {
+              "district": "Thị xã Tân Uyên",
+              "years": [
+                { "year": 2018, "industry": 108.4 },
+                { "year": 2012, "industry": 110.4 },
+                { "year": 2019, "industry": 109 }
+              ]
+            },
+            { "district": "Thị xã Thuận An", "years": null },
+            {
+              "district": "Huyện Dầu Tiếng",
+              "years": [{ "year": 2016, "industry": 108.1 }]
+            },
+            { "district": "Thị xã Bến Cát", "years": null }
+          ]
+        },
+        {
+          "city": "Bình Phước",
+          "districts": [
+            {
+              "district": "Huyện Bù Đăng",
+              "years": [{ "year": 2013, "industry": 112.1 }]
+            },
+            { "district": "Huyện Bù Đốp", "years": null },
+            {
+              "district": "Huyện Đồng Phú",
+              "years": [{ "year": 2014, "industry": 111.2 }]
+            },
+            {
+              "district": "Huyện Lộc Ninh",
+              "years": [{ "year": 2017, "industry": 108.8 }]
+            },
+            {
+              "district": "Huyện Phú Riềng",
+              "years": [{ "year": 2016, "industry": 106 }]
+            },
+            {
+              "district": "Thị xã Bình Long",
+              "years": [
+                { "year": 2018, "industry": 112.3 },
+                { "year": 2012, "industry": 114.7 }
+              ]
+            },
+            { "district": "Thị xã Phước Long", "years": null },
+            {
+              "district": "Huyện Bù Gia Mập",
+              "years": [{ "year": 2019, "industry": 111.9 }]
+            },
+            {
+              "district": "Thị xã Đồng Xoài",
+              "years": [{ "year": 2015, "industry": 106.8 }]
+            },
+            { "district": "Huyện Hớn Quản", "years": null }
+          ]
+        },
+        {
+          "city": "Bình Thuận",
+          "districts": [
+            { "district": "Huyện Bắc Bình", "years": null },
+            {
+              "district": "Huyện Hàm Tân",
+              "years": [
+                { "year": 2017, "industry": 106.4 },
+                { "year": 2018, "industry": 120.5 }
+              ]
+            },
+            {
+              "district": "Huyện Hàm Thuận Bắc",
+              "years": [{ "year": 2013, "industry": 114.9 }]
+            },
+            { "district": "Huyện Hàm Thuận Nam", "years": null },
+            {
+              "district": "Huyện Phú Quí",
+              "years": [
+                { "year": 2012, "industry": 107.8 },
+                { "year": 2014, "industry": 98 }
+              ]
+            },
+            {
+              "district": "Huyện Tuy Phong",
+              "years": [{ "year": 2016, "industry": 107.3 }]
+            },
+            {
+              "district": "Huyện Tánh Linh",
+              "years": [{ "year": 2015, "industry": 113.3 }]
+            },
+            {
+              "district": "Thành phố Phan Thiết",
+              "years": [{ "year": 2019, "industry": 133 }]
+            }
+          ]
+        },
+        {
+          "city": "Đồng Nai",
+          "districts": [
+            { "district": "Huyện Cẩm Mỹ", "years": null },
+            { "district": "Huyện Long Thành", "years": null },
+            {
+              "district": "Huyện Nhơn Trạch",
+              "years": [{ "year": 2013, "industry": 107.6 }]
+            },
+            { "district": "Huyện Thống Nhất", "years": null },
+            {
+              "district": "Huyện Trảng Bom",
+              "years": [{ "year": 2012, "industry": 107.4 }]
+            },
+            {
+              "district": "Huyện Vĩnh Cửu",
+              "years": [{ "year": 2014, "industry": 107.6 }]
+            },
+            {
+              "district": "Huyện Xuân Lộc",
+              "years": [{ "year": 2017, "industry": 108.6 }]
+            },
+            {
+              "district": "Thành phố Biên Hòa",
+              "years": [{ "year": 2019, "industry": 108.3 }]
+            },
+            { "district": "Thị xã Long Khánh", "years": null },
+            {
+              "district": "Huyện Định Quán",
+              "years": [
+                { "year": 2016, "industry": 107.5 },
+                { "year": 2018, "industry": 108.7 },
+                { "year": 2015, "industry": 107.7 }
+              ]
+            },
+            { "district": "Huyện Tân Phú", "years": null }
+          ]
+        },
+        {
+          "city": "Lâm Đồng",
+          "districts": [
+            {
+              "district": "Huyện Bảo Lâm",
+              "years": [{ "year": 2016, "industry": 122.7 }]
+            },
+            {
+              "district": "Huyện Cát Tiên",
+              "years": [{ "year": 2018, "industry": 107.2 }]
+            },
+            { "district": "Huyện Đam Rông", "years": null },
+            {
+              "district": "Huyện Đạ Tẻh",
+              "years": [{ "year": 2012, "industry": 126 }]
+            },
+            {
+              "district": "Huyện Di Linh",
+              "years": [{ "year": 2019, "industry": 104.9 }]
+            },
+            { "district": "Huyện Đức Trọng", "years": null },
+            { "district": "Huyện Lâm Hà", "years": null },
+            { "district": "Thành phố Đà Lạt", "years": null },
+            {
+              "district": "Huyện Đạ Huoai",
+              "years": [{ "year": 2017, "industry": 110.4 }]
+            },
+            {
+              "district": "Huyện Đơn Dương",
+              "years": [{ "year": 2013, "industry": 129 }]
+            },
+            {
+              "district": "Huyện Lạc Dương",
+              "years": [
+                { "year": 2016, "industry": 106.2 },
+                { "year": 2015, "industry": 105.5 }
+              ]
+            },
+            {
+              "district": "Thành phố Bảo Lộc",
+              "years": [{ "year": 2014, "industry": 116.5 }]
+            }
+          ]
+        },
+        {
+          "city": "Ninh Thuận",
+          "districts": [
+            { "district": "Huyện Bác Ái", "years": null },
+            {
+              "district": "Huyện Ninh Hải",
+              "years": [
+                { "year": 2017, "industry": 106.1 },
+                { "year": 2012, "industry": 110.9 }
+              ]
+            },
+            { "district": "Huyện Ninh Phước", "years": null },
+            {
+              "district": "Huyện Thuận Bắc",
+              "years": [{ "year": 2019, "industry": 143.6 }]
+            },
+            {
+              "district": "Huyện Thuận Nam",
+              "years": [{ "year": 2014, "industry": 125.2 }]
+            },
+            {
+              "district": "Thành phố Phan RangTháp Chàm",
+              "years": [{ "year": 2018, "industry": 109.7 }]
+            },
+            {
+              "district": "Huyện Ninh Sơn",
+              "years": [
+                { "year": 2013, "industry": 112.1 },
+                { "year": 2015, "industry": 109.1 },
+                { "year": 2016, "industry": 102.1 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Tây Nguyên",
+          "districts": [
+            { "district": "Huyện Cát Hải", "years": null },
+            { "district": "Huyện Hóc Môn", "years": null },
+            { "district": "Huyện Sóc Sơn", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Quận 5", "years": null },
+            { "district": "Quận Ba Đình", "years": null },
+            { "district": "Quận Đống Đa", "years": null },
+            {
+              "district": "Quận Dương Kinh",
+              "years": [{ "year": 2017, "industry": 120 }]
+            },
+            { "district": "Quận Long BiênQuận Cầu Giấy", "years": null },
+            { "district": "Quận Thủ Đức", "years": null },
+            { "district": "Thị xã Sơn Tây", "years": null },
+            { "district": "Huyện Củ Chi", "years": null },
+            { "district": "Huyện Đông Anh", "years": null },
+            { "district": "Quận 11", "years": null },
+            { "district": "Quận 4", "years": null },
+            { "district": "Quận Gò Vấp", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Hoàn Kiếm", "years": null }
+          ]
+        },
+        {
+          "city": "Tây Ninh",
+          "districts": [
+            { "district": "Huyện Bến Cầu", "years": null },
+            {
+              "district": "Huyện Dương Minh Châu",
+              "years": [
+                { "year": 2012, "industry": 121.4 },
+                { "year": 2014, "industry": 115.5 }
+              ]
+            },
+            { "district": "Huyện Gò Dầu", "years": null },
+            {
+              "district": "Huyện Hòa Thành",
+              "years": [
+                { "year": 2018, "industry": 115.8 },
+                { "year": 2013, "industry": 119.2 },
+                { "year": 2015, "industry": 114.1 }
+              ]
+            },
+            { "district": "Huyện Tân Biên", "years": null },
+            {
+              "district": "Huyện Tân Châu",
+              "years": [{ "year": 2019, "industry": 116 }]
+            },
+            {
+              "district": "Huyện Trảng Bàng",
+              "years": [{ "year": 2017, "industry": 115.5 }]
+            },
+            {
+              "district": "Thành phố Tây Ninh",
+              "years": [{ "year": 2016, "industry": 111.8 }]
+            }
+          ]
+        },
+        {
+          "city": "TP.Hồ Chí Minh",
+          "districts": [
+            { "district": "Huyện Củ Chi", "years": null },
+            { "district": "Huyện Nhà Bè", "years": null },
+            { "district": "Quận 1", "years": null },
+            { "district": "Quận 11", "years": null },
+            { "district": "Quận 2", "years": null },
+            { "district": "Quận 4", "years": null },
+            { "district": "Quận 9", "years": null },
+            { "district": "Quận Bình Tân", "years": null },
+            { "district": "Quận Bình Thạnh", "years": null },
+            { "district": "Quận Phú Nhuận", "years": null },
+            {
+              "district": "Huyện Bình Chánh",
+              "years": [{ "year": 2018, "industry": 108 }]
+            },
+            {
+              "district": "Quận 3",
+              "years": [{ "year": 2013, "industry": 106.3 }]
+            },
+            { "district": "Quận 5", "years": null },
+            {
+              "district": "Quận 6",
+              "years": [
+                { "year": 2016, "industry": 107.3 },
+                { "year": 2015, "industry": 107.2 },
+                { "year": 2014, "industry": 106.8 }
+              ]
+            },
+            { "district": "Quận Tân Phú", "years": null },
+            { "district": "Quận 12", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đồng Bằng Sông Hồng",
+      "cities": [
+        {
+          "city": "Hải Phòng",
+          "districts": [
+            { "district": "Huyện An Dương", "years": null },
+            { "district": "Huyện Cát Hải", "years": null },
+            {
+              "district": "Huyện Vĩnh Bảo",
+              "years": [{ "year": 2013, "industry": 106.5 }]
+            },
+            { "district": "Quận Đồ Sơn", "years": null },
+            { "district": "Quận Hải An", "years": null },
+            { "district": "Quận Hồng Bàng", "years": null },
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Kiến Thuỵ", "years": null },
+            { "district": "Huyện Thuỷ Nguyên", "years": null },
+            { "district": "Quận Dương Kinh", "years": null },
+            { "district": "Quận Kiến An", "years": null },
+            { "district": "Huyện Tiên Lãng", "years": null },
+            { "district": "Quận Ngô Quyền", "years": null }
+          ]
+        },
+        {
+          "city": "Ninh Bình",
+          "districts": [
+            {
+              "district": "Huyện Gia Viễn",
+              "years": [{ "year": 2016, "industry": 101.9 }]
+            },
+            { "district": "Huyện Kim Sơn", "years": null },
+            {
+              "district": "Huyện Nho Quan",
+              "years": [{ "year": 2018, "industry": 131.1 }]
+            },
+            {
+              "district": "Thành phố Ninh Bình",
+              "years": [
+                { "year": 2012, "industry": 111.6 },
+                { "year": 2017, "industry": 118.6 }
+              ]
+            },
+            {
+              "district": "Thành phố Tam Điệp",
+              "years": [{ "year": 2014, "industry": 117.4 }]
+            },
+            {
+              "district": "Huyện Hoa Lư",
+              "years": [
+                { "year": 2013, "industry": 111.4 },
+                { "year": 2015, "industry": 112.3 },
+                { "year": 2019, "industry": 126.5 }
+              ]
+            },
+            { "district": "Huyện Yên Khánh", "years": null }
+          ]
+        },
+        {
+          "city": "Hà Nam",
+          "districts": [
+            {
+              "district": "Huyện Duy Tiên",
+              "years": [{ "year": 2015, "industry": 124.8 }]
+            },
+            {
+              "district": "Huyện Kim Bảng",
+              "years": [
+                { "year": 2018, "industry": 113 },
+                { "year": 2019, "industry": 112.8 }
+              ]
+            },
+            {
+              "district": "Huyện Lý Nhân",
+              "years": [{ "year": 2012, "industry": 130.7 }]
+            },
+            { "district": "Huyện Thanh Liêm", "years": null },
+            {
+              "district": "Thành phố Phủ Lý",
+              "years": [
+                { "year": 2014, "industry": 111.9 },
+                { "year": 2016, "industry": 111.1 }
+              ]
+            },
+            {
+              "district": "Huyện Bình Lục",
+              "years": [
+                { "year": 2013, "industry": 110.9 },
+                { "year": 2017, "industry": 112.8 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Thái Bình",
+          "districts": [
+            { "district": "Huyện Đông Hưng", "years": null },
+            { "district": "Huyện Hưng Hà", "years": null },
+            {
+              "district": "Huyện Quỳnh Phụ",
+              "years": [
+                { "year": 2016, "industry": 112.3 },
+                { "year": 2019, "industry": 115.9 }
+              ]
+            },
+            {
+              "district": "Huyện Thái Thụy",
+              "years": [{ "year": 2015, "industry": 108.3 }]
+            },
+            {
+              "district": "Huyện Vũ Thư",
+              "years": [{ "year": 2012, "industry": 106.5 }]
+            },
+            {
+              "district": "Thành phố Thái Bình",
+              "years": [{ "year": 2017, "industry": 116.5 }]
+            },
+            {
+              "district": "Huyện Kiến Xương",
+              "years": [{ "year": 2013, "industry": 114.1 }]
+            },
+            {
+              "district": "Huyện Tiền Hải",
+              "years": [
+                { "year": 2014, "industry": 101.8 },
+                { "year": 2018, "industry": 115.1 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Nam Định",
+          "districts": [
+            { "district": "Huyện Giao Thủy", "years": null },
+            {
+              "district": "Huyện Mỹ Lộc",
+              "years": [{ "year": 2019, "industry": 113.8 }]
+            },
+            { "district": "Huyện Nam Trực", "years": null },
+            { "district": "Huyện Nghĩa Hưng", "years": null },
+            {
+              "district": "Huyện Trực Ninh",
+              "years": [{ "year": 2016, "industry": 108.8 }]
+            },
+            {
+              "district": "Huyện Xuân Trường",
+              "years": [{ "year": 2014, "industry": 110.6 }]
+            },
+            {
+              "district": "Huyện Ý Yên",
+              "years": [
+                { "year": 2013, "industry": 116.1 },
+                { "year": 2015, "industry": 110.3 }
+              ]
+            },
+            {
+              "district": "Thành phố Nam Định",
+              "years": [
+                { "year": 2012, "industry": 116.4 },
+                { "year": 2017, "industry": 109 },
+                { "year": 2018, "industry": 111 }
+              ]
+            },
+            { "district": "Huyện Vụ Bản", "years": null },
+            { "district": "Huyện Hải Hậu", "years": null }
+          ]
+        },
+        {
+          "city": "Vĩnh Phúc",
+          "districts": [
+            { "district": "Huyện Bình Xuyên", "years": null },
+            {
+              "district": "Huyện Lập Thạch",
+              "years": [
+                { "year": 2016, "industry": 105.8 },
+                { "year": 2017, "industry": 107.5 }
+              ]
+            },
+            {
+              "district": "Huyện Tam Dương",
+              "years": [
+                { "year": 2012, "industry": 97 },
+                { "year": 2015, "industry": 101.6 }
+              ]
+            },
+            { "district": "Huyện Vĩnh Tường", "years": null },
+            {
+              "district": "Thành phố Vĩnh Yên",
+              "years": [{ "year": 2019, "industry": 111.1 }]
+            },
+            { "district": "Thị xã Phúc Yên", "years": null },
+            {
+              "district": "Huyện Sông Lô",
+              "years": [{ "year": 2014, "industry": 97.1 }]
+            },
+            {
+              "district": "Huyện Tam Đảo",
+              "years": [{ "year": 2013, "industry": 114 }]
+            },
+            {
+              "district": "Huyện Yên Lạc",
+              "years": [{ "year": 2018, "industry": 114.5 }]
+            }
+          ]
+        },
+        {
+          "city": "Bắc Ninh",
+          "districts": [
+            {
+              "district": "Huyện Gia Bình",
+              "years": [{ "year": 2013, "industry": 149.2 }]
+            },
+            {
+              "district": "Huyện Lương Tài",
+              "years": [{ "year": 2018, "industry": 107.4 }]
+            },
+            { "district": "Huyện Quế Võ", "years": null },
+            {
+              "district": "Huyện Thuận Thành",
+              "years": [{ "year": 2019, "industry": 88.6 }]
+            },
+            { "district": "Huyện Tiên Du", "years": null },
+            { "district": "Huyện Yên Phong", "years": null },
+            {
+              "district": "Thị xã Từ Sơn",
+              "years": [
+                { "year": 2016, "industry": 105.1 },
+                { "year": 2017, "industry": 135.5 }
+              ]
+            },
+            {
+              "district": "Thành phố Bắc Ninh",
+              "years": [
+                { "year": 2012, "industry": 175 },
+                { "year": 2014, "industry": 87.5 },
+                { "year": 2015, "industry": 112 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Hà Nội",
+          "districts": [
+            { "district": "Huyện Ba Vì", "years": null },
+            {
+              "district": "Huyện Đông Anh",
+              "years": [{ "year": 2016, "industry": 107.3 }]
+            },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            { "district": "Huyện Phú Xuyên", "years": null },
+            {
+              "district": "Huyện Quốc Oai",
+              "years": [{ "year": 2018, "industry": 106.9 }]
+            },
+            { "district": "Huyện Thường Tín", "years": null },
+            { "district": "Huyện Ứng Hòa", "years": null },
+            { "district": "Quận Bắc Từ Liêm", "years": null },
+            { "district": "Quận Đống Đa", "years": null },
+            { "district": "Quận Hà Đông", "years": null },
+            { "district": "Quận Tây Hồ", "years": null },
+            { "district": "Quận Thanh Xuân", "years": null },
+            {
+              "district": "Huyện Chương Mỹ",
+              "years": [{ "year": 2013, "industry": 104.5 }]
+            },
+            { "district": "Huyện Đan Phượng", "years": null },
+            { "district": "Huyện Hoài Đức", "years": null },
+            { "district": "Huyện Mỹ Đức", "years": null },
+            {
+              "district": "Huyện Sóc Sơn",
+              "years": [{ "year": 2016, "industry": 120.9 }]
+            },
+            { "district": "Huyện Thạch Thất", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Ba Đình", "years": null },
+            { "district": "Quận Hoàng Mai", "years": null },
+            { "district": "Thị xã Sơn Tây", "years": null },
+            { "district": "Huyện Mê Linh", "years": null },
+            { "district": "Huyện Thanh Oai", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Ninh",
+          "districts": [
+            {
+              "district": "Huyện Bình Liêu",
+              "years": [
+                { "year": 2014, "industry": 104.7 },
+                { "year": 2017, "industry": 103.1 }
+              ]
+            },
+            { "district": "Huyện Đầm Hà", "years": null },
+            { "district": "Huyện Hải Hà", "years": null },
+            {
+              "district": "Huyện Hoành Bồ",
+              "years": [{ "year": 2015, "industry": 105.2 }]
+            },
+            {
+              "district": "Huyện Tiên Yên",
+              "years": [{ "year": 2019, "industry": 113.5 }]
+            },
+            { "district": "Huyện Vân Đồn", "years": null },
+            {
+              "district": "Thành phố Uông Bí",
+              "years": [{ "year": 2013, "industry": 102.3 }]
+            },
+            {
+              "district": "Thị xã Đông Triều",
+              "years": [{ "year": 2016, "industry": 100.1 }]
+            },
+            {
+              "district": "Huyện Ba Chẽ",
+              "years": [{ "year": 2018, "industry": 108.7 }]
+            },
+            {
+              "district": "Huyện Cô Tô",
+              "years": [{ "year": 2012, "industry": 92 }]
+            },
+            { "district": "Thành phố Cẩm Phả", "years": null }
+          ]
+        },
+        {
+          "city": "Hải Dương",
+          "districts": [
+            {
+              "district": "Huyện Bình Giang",
+              "years": [{ "year": 2015, "industry": 110.6 }]
+            },
+            {
+              "district": "Huyện Cẩm Giàng",
+              "years": [{ "year": 2016, "industry": 108.8 }]
+            },
+            { "district": "Huyện Kim Thành", "years": null },
+            { "district": "Huyện Kinh Môn", "years": null },
+            {
+              "district": "Huyện Nam Sách",
+              "years": [
+                { "year": 2017, "industry": 109.6 },
+                { "year": 2018, "industry": 110 }
+              ]
+            },
+            {
+              "district": "Huyện Ninh Giang",
+              "years": [{ "year": 2019, "industry": 110.2 }]
+            },
+            { "district": "Huyện Thanh Hà", "years": null },
+            {
+              "district": "Huyện Thanh Miện",
+              "years": [{ "year": 2012, "industry": 99 }]
+            },
+            { "district": "Thị xã Chí Linh", "years": null },
+            {
+              "district": "Huyện Tứ Kỳ",
+              "years": [{ "year": 2013, "industry": 108.1 }]
+            },
+            {
+              "district": "Thành phố Hải Dương",
+              "years": [{ "year": 2014, "industry": 114.6 }]
+            }
+          ]
+        },
+        {
+          "city": "Hưng Yên",
+          "districts": [
+            {
+              "district": "Huyện Khoái Châu",
+              "years": [{ "year": 2015, "industry": 108.7 }]
+            },
+            {
+              "district": "Huyện Mỹ Hào",
+              "years": [{ "year": 2016, "industry": 108.5 }]
+            },
+            {
+              "district": "Huyện Phù Cừ",
+              "years": [
+                { "year": 2017, "industry": 109.4 },
+                { "year": 2019, "industry": 111.6 }
+              ]
+            },
+            {
+              "district": "Huyện Văn Lâm",
+              "years": [{ "year": 2018, "industry": 110.7 }]
+            },
+            {
+              "district": "Huyện Yên Mỹ",
+              "years": [
+                { "year": 2013, "industry": 107.2 },
+                { "year": 2014, "industry": 107.5 }
+              ]
+            },
+            {
+              "district": "Thành phố Hưng Yên",
+              "years": [{ "year": 2012, "industry": 108.9 }]
+            },
+            { "district": "Huyện Kim Động", "years": null },
+            { "district": "Huyện Tiên Lữ", "years": null },
+            { "district": "Huyện Văn Giang", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đồng Bằng Sông Cửu Long",
+      "cities": [
+        {
+          "city": "Cần Thơ",
+          "districts": [
+            {
+              "district": "Huyện Cờ Đỏ",
+              "years": [
+                { "year": 2015, "industry": 107.3 },
+                { "year": 2019, "industry": 107.7 },
+                { "year": 2014, "industry": 108.2 }
+              ]
+            },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Quận Ninh Kiều", "years": null },
+            { "district": "Quận Ô Môn", "years": null },
+            { "district": "Quận Thốt Nốt", "years": null },
+            { "district": "Huyện Phong Điền", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            { "district": "Quận Cái Răng", "years": null }
+          ]
+        },
+        {
+          "city": "Bạc Liêu",
+          "districts": [
+            {
+              "district": "Huyện Đông Hải",
+              "years": [
+                { "year": 2015, "industry": 114.1 },
+                { "year": 2013, "industry": 105.3 },
+                { "year": 2014, "industry": 105.2 }
+              ]
+            },
+            { "district": "Huyện Hoà Bình", "years": null },
+            {
+              "district": "Huyện Hồng Dân",
+              "years": [
+                { "year": 2018, "industry": 112.3 },
+                { "year": 2017, "industry": 109 }
+              ]
+            },
+            {
+              "district": "Huyện Vĩnh Lợi",
+              "years": [
+                { "year": 2012, "industry": 103.8 },
+                { "year": 2019, "industry": 112.4 }
+              ]
+            },
+            { "district": "Thành phố Bạc Liêu", "years": null },
+            {
+              "district": "Thị xã Giá Rai",
+              "years": [{ "year": 2016, "industry": 103.4 }]
+            }
+          ]
+        },
+        {
+          "city": "Bến Tre",
+          "districts": [
+            { "district": "Huyện Bình Đại", "years": null },
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Huyện Chợ Lách", "years": null },
+            {
+              "district": "Huyện Giồng Trôm",
+              "years": [{ "year": 2014, "industry": 102.7 }]
+            },
+            {
+              "district": "Huyện Mỏ Cày Bắc",
+              "years": [
+                { "year": 2013, "industry": 111.9 },
+                { "year": 2018, "industry": 113.8 }
+              ]
+            },
+            {
+              "district": "Huyện Mỏ Cày Nam",
+              "years": [
+                { "year": 2012, "industry": 114.8 },
+                { "year": 2016, "industry": 106.5 }
+              ]
+            },
+            {
+              "district": "Huyện Thạnh Phú",
+              "years": [{ "year": 2015, "industry": 108.5 }]
+            },
+            {
+              "district": "Thành phố Bến Tre",
+              "years": [{ "year": 2019, "industry": 109.6 }]
+            },
+            { "district": "Huyện Ba Tri", "years": null }
+          ]
+        },
+        {
+          "city": "Sóc Trăng",
+          "districts": [
+            {
+              "district": "Huyện Cù Lao Dung",
+              "years": [
+                { "year": 2012, "industry": 102 },
+                { "year": 2015, "industry": 103.5 }
+              ]
+            },
+            {
+              "district": "Huyện Kế Sách",
+              "years": [{ "year": 2014, "industry": 125.4 }]
+            },
+            { "district": "Huyện Long Phú", "years": null },
+            {
+              "district": "Huyện Mỹ Tú",
+              "years": [{ "year": 2017, "industry": 110.8 }]
+            },
+            { "district": "Thị xã Ngã Năm", "years": null },
+            {
+              "district": "Huyện Thạnh Trị",
+              "years": [{ "year": 2018, "industry": 106.8 }]
+            },
+            {
+              "district": "Huyện Trần Đề",
+              "years": [
+                { "year": 2013, "industry": 104.7 },
+                { "year": 2019, "industry": 107.9 },
+                { "year": 2016, "industry": 111.5 }
+              ]
+            },
+            { "district": "Thị xã Vĩnh Châu", "years": null }
+          ]
+        },
+        {
+          "city": "Vĩnh Long",
+          "districts": [
+            {
+              "district": "Huyện Long Hồ",
+              "years": [{ "year": 2018, "industry": 109.6 }]
+            },
+            {
+              "district": "Huyện Mang Thít",
+              "years": [
+                { "year": 2014, "industry": 109.8 },
+                { "year": 2012, "industry": 102.1 }
+              ]
+            },
+            {
+              "district": "Huyện Tam Bình",
+              "years": [{ "year": 2015, "industry": 111.6 }]
+            },
+            {
+              "district": "Huyện Trà Ôn",
+              "years": [
+                { "year": 2016, "industry": 111.3 },
+                { "year": 2013, "industry": 112 }
+              ]
+            },
+            {
+              "district": "Thị xã Bình Minh",
+              "years": [
+                { "year": 2019, "industry": 115 },
+                { "year": 2017, "industry": 109.1 }
+              ]
+            },
+            { "district": "Huyện Vũng Liêm", "years": null },
+            { "district": "Thành phố Vĩnh Long", "years": null }
+          ]
+        },
+        {
+          "city": "Hậu Giang",
+          "districts": [
+            { "district": "Huyện Châu Thành", "years": null },
+            {
+              "district": "Huyện Châu Thành A",
+              "years": [
+                { "year": 2015, "industry": 106.2 },
+                { "year": 2018, "industry": 111.2 }
+              ]
+            },
+            {
+              "district": "Huyện Long Mỹ",
+              "years": [{ "year": 2016, "industry": 107.3 }]
+            },
+            { "district": "Huyện Phụng Hiệp", "years": null },
+            { "district": "Thành phố Vị Thanh", "years": null },
+            {
+              "district": "Thị xã Ngã Bảy",
+              "years": [
+                { "year": 2013, "industry": 104.5 },
+                { "year": 2014, "industry": 95 },
+                { "year": 2017, "industry": 109.6 }
+              ]
+            },
+            {
+              "district": "Huyện Vị Thuỷ",
+              "years": [{ "year": 2012, "industry": 135.4 }]
+            },
+            { "district": "Thị xã Long Mỹ", "years": null }
+          ]
+        },
+        {
+          "city": "Trà Vinh",
+          "districts": [
+            {
+              "district": "Huyện Cầu Kè",
+              "years": [{ "year": 2017, "industry": 143 }]
+            },
+            {
+              "district": "Huyện Cầu Ngang",
+              "years": [{ "year": 2016, "industry": 117.3 }]
+            },
+            {
+              "district": "Huyện Duyên Hải",
+              "years": [{ "year": 2012, "industry": 116.2 }]
+            },
+            {
+              "district": "Huyện Tiểu Cần",
+              "years": [{ "year": 2018, "industry": 114.3 }]
+            },
+            { "district": "Huyện Trà Cú", "years": null },
+            { "district": "Thành phố Trà Vinh", "years": null },
+            {
+              "district": "Thị xã Duyên Hải",
+              "years": [{ "year": 2014, "industry": 110.4 }]
+            },
+            {
+              "district": "Huyện Càng Long",
+              "years": [{ "year": 2019, "industry": 127.7 }]
+            },
+            { "district": "Huyện Châu Thành", "years": null }
+          ]
+        },
+        {
+          "city": "Tiền Giang",
+          "districts": [
+            { "district": "Huyện Cái Bè", "years": null },
+            {
+              "district": "Huyện Cai Lậy",
+              "years": [{ "year": 2019, "industry": 111.1 }]
+            },
+            {
+              "district": "Huyện Châu Thành",
+              "years": [
+                { "year": 2012, "industry": 118.9 },
+                { "year": 2013, "industry": 106.3 },
+                { "year": 2015, "industry": 112.6 },
+                { "year": 2018, "industry": 112.1 },
+                { "year": 2013, "industry": 113.8 },
+                { "year": 2019, "industry": 110.2 },
+                { "year": 2017, "industry": 108 },
+                { "year": 2019, "industry": 109.9 }
+              ]
+            },
+            {
+              "district": "Huyện Gò Công Đông",
+              "years": [{ "year": 2017, "industry": 115 }]
+            },
+            { "district": "Huyện Gò Công Tây", "years": null },
+            { "district": "Huyện Tân Phú Đông", "years": null },
+            {
+              "district": "Huyện Tân Phước",
+              "years": [{ "year": 2015, "industry": 115.2 }]
+            },
+            {
+              "district": "Thành phố Mỹ Tho",
+              "years": [{ "year": 2013, "industry": 112.1 }]
+            },
+            {
+              "district": "Huyện Chợ Gạo",
+              "years": [{ "year": 2014, "industry": 108.1 }]
+            },
+            {
+              "district": "Thị xã Cai Lậy",
+              "years": [{ "year": 2016, "industry": 114.8 }]
+            }
+          ]
+        },
+        {
+          "city": "Kiên Giang",
+          "districts": [
+            {
+              "district": "Huyện An Minh",
+              "years": [
+                { "year": 2019, "industry": 111.4 },
+                { "year": 2018, "industry": 108 }
+              ]
+            },
+            { "district": "Huyện Châu Thành", "years": null },
+            {
+              "district": "Huyện Kiên Hải",
+              "years": [{ "year": 2016, "industry": 106.3 }]
+            },
+            {
+              "district": "Huyện Kiên Lương",
+              "years": [
+                { "year": 2015, "industry": 108.6 },
+                { "year": 2013, "industry": 108.9 }
+              ]
+            },
+            { "district": "Huyện Phú Quốc", "years": null },
+            { "district": "Huyện U Minh Thượng", "years": null },
+            { "district": "Huyện Vĩnh Thuận", "years": null },
+            {
+              "district": "Thị xã Hà Tiên",
+              "years": [{ "year": 2012, "industry": 105.8 }]
+            },
+            {
+              "district": "Huyện Giang Thành",
+              "years": [{ "year": 2014, "industry": 106.2 }]
+            },
+            {
+              "district": "Thành phố Rạch Giá",
+              "years": [{ "year": 2017, "industry": 108.5 }]
+            },
+            { "district": "Huyện Giồng Riềng", "years": null },
+            { "district": "Huyện Gò Quao", "years": null },
+            { "district": "Huyện Hòn Đất", "years": null }
+          ]
+        },
+        {
+          "city": "An Giang",
+          "districts": [
+            { "district": "Huyện An Phú", "years": null },
+            { "district": "Huyện Chợ Mới", "years": null },
+            { "district": "Huyện Phú Tân", "years": null },
+            {
+              "district": "Huyện Thoại Sơn",
+              "years": [{ "year": 2017, "industry": 106.9 }]
+            },
+            {
+              "district": "Huyện Tịnh Biên",
+              "years": [{ "year": 2012, "industry": 106.6 }]
+            },
+            { "district": "Huyện Tri Tôn", "years": null },
+            {
+              "district": "Thành phố Long Xuyên",
+              "years": [
+                { "year": 2015, "industry": 105 },
+                { "year": 2013, "industry": 105.1 }
+              ]
+            },
+            { "district": "Huyện Châu Thành", "years": null },
+            {
+              "district": "Thành phố Châu Đốc",
+              "years": [{ "year": 2014, "industry": 102.6 }]
+            },
+            { "district": "Huyện Châu Phú", "years": null },
+            { "district": "Thị xã Tân Châu", "years": null }
+          ]
+        },
+        {
+          "city": "Cà Mau",
+          "districts": [
+            {
+              "district": "Huyện Đầm Dơi",
+              "years": [
+                { "year": 2015, "industry": 100.8 },
+                { "year": 2013, "industry": 112.4 }
+              ]
+            },
+            {
+              "district": "Huyện Năm Căn",
+              "years": [{ "year": 2014, "industry": 109.1 }]
+            },
+            {
+              "district": "Huyện Ngọc Hiển",
+              "years": [{ "year": 2018, "industry": 108.2 }]
+            },
+            {
+              "district": "Huyện Phú Tân",
+              "years": [{ "year": 2017, "industry": 103.4 }]
+            },
+            { "district": "Huyện Thới Bình", "years": null },
+            {
+              "district": "Huyện Trần Văn Thời",
+              "years": [{ "year": 2016, "industry": 98.2 }]
+            },
+            { "district": "Huyện U Minh", "years": null },
+            {
+              "district": "Thành phố Cà Mau",
+              "years": [
+                { "year": 2012, "industry": 109.9 },
+                { "year": 2019, "industry": 106.1 }
+              ]
+            },
+            { "district": "Huyện Cái Nước", "years": null }
+          ]
+        },
+        {
+          "city": "Vinh",
+          "districts": [
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Ba Vì", "years": null },
+            { "district": "Huyện Hòa Vang", "years": null },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            {
+              "district": "Huyện Thới Lai",
+              "years": [{ "year": 2018, "industry": 107.8 }]
+            },
+            { "district": "Quận 10", "years": null },
+            { "district": "Quận 11", "years": null },
+            { "district": "Quận 9", "years": null },
+            {
+              "district": "Quận Ba Đình",
+              "years": [
+                { "year": 2018, "industry": 188.5 },
+                { "year": 2015, "industry": 108.3 }
+              ]
+            },
+            { "district": "Quận Gò Vấp", "years": null },
+            { "district": "Quận Hoàng Mai", "years": null },
+            { "district": "Quận Lê Chân", "years": null },
+            {
+              "district": "Quận Thốt Nốt",
+              "years": [
+                { "year": 2013, "industry": 107.7 },
+                { "year": 2016, "industry": 108.8 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Long An",
+          "districts": [
+            {
+              "district": "Huyện Cần Giuộc",
+              "years": [
+                { "year": 2015, "industry": 112.8 },
+                { "year": 2014, "industry": 111.6 }
+              ]
+            },
+            {
+              "district": "Huyện Tân Hưng",
+              "years": [{ "year": 2012, "industry": 114.6 }]
+            },
+            {
+              "district": "Huyện Thủ Thừa",
+              "years": [{ "year": 2017, "industry": 116.2 }]
+            },
+            { "district": "Huyện Vĩnh Hưng", "years": null },
+            { "district": "Thành phố Tân An", "years": null },
+            { "district": "Thị xã Kiến Tường", "years": null },
+            {
+              "district": "Huyện Cần Đước",
+              "years": [{ "year": 2019, "industry": 115.1 }]
+            },
+            { "district": "Huyện Châu Thành", "years": null },
+            {
+              "district": "Huyện Đức Hòa",
+              "years": [{ "year": 2018, "industry": 116.5 }]
+            },
+            {
+              "district": "Huyện Đức Huệ",
+              "years": [{ "year": 2016, "industry": 113.5 }]
+            },
+            { "district": "Huyện Bến Lức", "years": null },
+            { "district": "Huyện Mộc Hóa", "years": null },
+            { "district": "Huyện Thạnh Hóa", "years": null }
+          ]
+        },
+        {
+          "city": "Đồng Tháp",
+          "districts": [
+            { "district": "Huyện Cao Lãnh", "years": null },
+            { "district": "Huyện Lai Vung", "years": null },
+            { "district": "Huyện Tân Hồng", "years": null },
+            {
+              "district": "Thành phố Cao Lãnh",
+              "years": [
+                { "year": 2016, "industry": 104.7 },
+                { "year": 2018, "industry": 107.2 }
+              ]
+            },
+            {
+              "district": "Thành phố Sa Đéc",
+              "years": [{ "year": 2012, "industry": 105.2 }]
+            },
+            {
+              "district": "Thị xã Hồng Ngự",
+              "years": [{ "year": 2015, "industry": 109.8 }]
+            },
+            {
+              "district": "Huyện Hồng Ngự",
+              "years": [
+                { "year": 2017, "industry": 107 },
+                { "year": 2014, "industry": 108.9 },
+                { "year": 2019, "industry": 108.3 }
+              ]
+            },
+            { "district": "Huyện Tam Nông", "years": null },
+            { "district": "Huyện Châu Thành", "years": null },
+            { "district": "Huyện Lấp Vò", "years": null },
+            { "district": "Huyện Thanh Bình", "years": null },
+            { "district": "Huyện Tháp Mười", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Đông Bắc",
+      "cities": [
+        {
+          "city": "Hà Giang",
+          "districts": [
+            {
+              "district": "Huyện Bắc Quang",
+              "years": [{ "year": 2017, "industry": 121.1 }]
+            },
+            {
+              "district": "Huyện Đồng Văn",
+              "years": [{ "year": 2012, "industry": 118.6 }]
+            },
+            { "district": "Huyện Hoàng Su Phì", "years": null },
+            { "district": "Huyện Mèo Vạc", "years": null },
+            { "district": "Huyện Quang Bình", "years": null },
+            {
+              "district": "Huyện Vị Xuyên",
+              "years": [{ "year": 2019, "industry": 107.4 }]
+            },
+            {
+              "district": "Huyện Yên Minh",
+              "years": [{ "year": 2018, "industry": 112.8 }]
+            },
+            {
+              "district": "Huyện Bắc Mê",
+              "years": [
+                { "year": 2015, "industry": 101.2 },
+                { "year": 2016, "industry": 109.4 },
+                { "year": 2013, "industry": 105.4 },
+                { "year": 2014, "industry": 99.5 }
+              ]
+            },
+            { "district": "Huyện Quản Bạ", "years": null }
+          ]
+        },
+        {
+          "city": "Bắc Kạn",
+          "districts": [
+            {
+              "district": "Huyện Ba Bể",
+              "years": [{ "year": 2019, "industry": 118 }]
+            },
+            {
+              "district": "Huyện Bạch Thông",
+              "years": [
+                { "year": 2012, "industry": 74.9 },
+                { "year": 2014, "industry": 91.5 }
+              ]
+            },
+            {
+              "district": "Huyện Chợ Đồn",
+              "years": [
+                { "year": 2015, "industry": 100.8 },
+                { "year": 2017, "industry": 100.8 },
+                { "year": 2013, "industry": 96.8 }
+              ]
+            },
+            {
+              "district": "Huyện Chợ Mới",
+              "years": [
+                { "year": 2018, "industry": 113.8 },
+                { "year": 2016, "industry": 105.7 },
+                { "year": 2018, "industry": 108.9 }
+              ]
+            },
+            { "district": "Huyện Na Rì", "years": null },
+            { "district": "Thành Phố Bắc Kạn", "years": null },
+            {
+              "district": "Huyện Ngân Sơn",
+              "years": [{ "year": 2016, "industry": 100.1 }]
+            }
+          ]
+        },
+        {
+          "city": "Bắc Giang",
+          "districts": [
+            {
+              "district": "Huyện Hiệp Hòa",
+              "years": [{ "year": 2017, "industry": 129.3 }]
+            },
+            { "district": "Huyện Lạng Giang", "years": null },
+            {
+              "district": "Huyện Sơn Động",
+              "years": [
+                { "year": 2015, "industry": 116.8 },
+                { "year": 2014, "industry": 114.7 }
+              ]
+            },
+            {
+              "district": "Huyện Tân Yên",
+              "years": [{ "year": 2016, "industry": 120.3 }]
+            },
+            { "district": "Huyện Việt Yên", "years": null },
+            {
+              "district": "Huyện Yên Dũng",
+              "years": [{ "year": 2013, "industry": 118.7 }]
+            },
+            {
+              "district": "Huyện Yên Thế",
+              "years": [
+                { "year": 2018, "industry": 129.7 },
+                { "year": 2019, "industry": 130.1 }
+              ]
+            },
+            {
+              "district": "Thành phố Bắc Giang",
+              "years": [{ "year": 2012, "industry": 122.9 }]
+            },
+            { "district": "Huyện Lục Nam", "years": null }
+          ]
+        },
+        {
+          "city": "Lạng Sơn",
+          "districts": [
+            { "district": "Huyện Bắc Sơn", "years": null },
+            {
+              "district": "Huyện Bình Gia",
+              "years": [
+                { "year": 2012, "industry": 96.1 },
+                { "year": 2015, "industry": 111.6 },
+                { "year": 2019, "industry": 109.5 }
+              ]
+            },
+            { "district": "Huyện Cao Lộc", "years": null },
+            {
+              "district": "Huyện Chi Lăng",
+              "years": [{ "year": 2016, "industry": 107.7 }]
+            },
+            {
+              "district": "Huyện Đình Lập",
+              "years": [{ "year": 2017, "industry": 105.1 }]
+            },
+            { "district": "Huyện Tràng Định", "years": null },
+            { "district": "Thành phố Lạng Sơn", "years": null },
+            {
+              "district": "Huyện Lộc Bình",
+              "years": [
+                { "year": 2018, "industry": 106.5 },
+                { "year": 2014, "industry": 105.2 }
+              ]
+            },
+            {
+              "district": "Huyện Văn Lãng",
+              "years": [{ "year": 2013, "industry": 103 }]
+            }
+          ]
+        },
+        {
+          "city": "Tuyên Quang",
+          "districts": [
+            {
+              "district": "Huyện Chiêm Hóa",
+              "years": [
+                { "year": 2019, "industry": 107 },
+                { "year": 2018, "industry": 108.2 }
+              ]
+            },
+            {
+              "district": "Huyện Hàm Yên",
+              "years": [
+                { "year": 2012, "industry": 120.8 },
+                { "year": 2014, "industry": 105.2 }
+              ]
+            },
+            {
+              "district": "Huyện Lâm Bình",
+              "years": [
+                { "year": 2017, "industry": 109.4 },
+                { "year": 2013, "industry": 105.5 }
+              ]
+            },
+            {
+              "district": "Huyện Nà Hang",
+              "years": [{ "year": 2015, "industry": 99.9 }]
+            },
+            {
+              "district": "Huyện Sơn Dương",
+              "years": [{ "year": 2016, "industry": 83.8 }]
+            },
+            { "district": "Huyện Yên Sơn", "years": null },
+            { "district": "Thành phố Tuyên Quang", "years": null }
+          ]
+        },
+        {
+          "city": "Thái Nguyên",
+          "districts": [
+            { "district": "Huyện Định Hóa", "years": null },
+            {
+              "district": "Huyện Phú Bình",
+              "years": [{ "year": 2017, "industry": 118.3 }]
+            },
+            {
+              "district": "Huyện Phú Lương",
+              "years": [{ "year": 2013, "industry": 102.1 }]
+            },
+            { "district": "Huyện Võ Nhai", "years": null },
+            {
+              "district": "Thành phố Sông Công",
+              "years": [
+                { "year": 2012, "industry": 106.7 },
+                { "year": 2016, "industry": 123.7 }
+              ]
+            },
+            { "district": "Thành phố Thái Nguyên", "years": null },
+            { "district": "Thị xã Phổ Yên", "years": null },
+            {
+              "district": "Huyện Đại Từ",
+              "years": [
+                { "year": 2015, "industry": 176 },
+                { "year": 2018, "industry": 112.1 }
+              ]
+            },
+            {
+              "district": "Huyện Đồng Hỷ",
+              "years": [
+                { "year": 2019, "industry": 111.1 },
+                { "year": 2014, "industry": 322.8 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Bãi Cháy",
+          "districts": [
+            { "district": "Huyện Cát Hải", "years": null },
+            { "district": "Huyện Phúc Thọ", "years": null },
+            { "district": "Huyện Thạch Thất", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            {
+              "district": "Huyện Thuỷ Nguyên",
+              "years": [
+                { "year": 2012, "industry": 107 },
+                { "year": 2012, "industry": 103.9 }
+              ]
+            },
+            { "district": "Quận 10", "years": null },
+            { "district": "Quận 7", "years": null },
+            { "district": "Quận Bình Tân", "years": null },
+            { "district": "Quận Đống Đa", "years": null },
+            {
+              "district": "Quận Đồ Sơn",
+              "years": [{ "year": 2017, "industry": 171 }]
+            },
+            {
+              "district": "Quận Hải Châu",
+              "years": [
+                { "year": 2015, "industry": 120.3 },
+                { "year": 2014, "industry": 111 },
+                { "year": 2017, "industry": 109.5 },
+                { "year": 2019, "industry": 104.3 },
+                { "year": 2016, "industry": 113.2 }
+              ]
+            },
+            { "district": "Quận Lê Chân", "years": null },
+            { "district": "Quận Tân Bình", "years": null }
+          ]
+        },
+        {
+          "city": "Cao Bằng",
+          "districts": [
+            { "district": "Huyện Bảo Lạc", "years": null },
+            {
+              "district": "Huyện Hạ Lang",
+              "years": [{ "year": 2013, "industry": 110.4 }]
+            },
+            {
+              "district": "Huyện Quảng Uyên",
+              "years": [{ "year": 2014, "industry": 110.9 }]
+            },
+            {
+              "district": "Huyện Thạch An",
+              "years": [{ "year": 2017, "industry": 138.9 }]
+            },
+            { "district": "Huyện Trà Lĩnh", "years": null },
+            {
+              "district": "Huyện Trùng Khánh",
+              "years": [{ "year": 2018, "industry": 126.3 }]
+            },
+            {
+              "district": "Thành phố Cao Bằng",
+              "years": [{ "year": 2015, "industry": 43.3 }]
+            },
+            { "district": "Huyện Bảo Lâm", "years": null },
+            {
+              "district": "Huyện Thông Nông",
+              "years": [
+                { "year": 2012, "industry": 99.1 },
+                { "year": 2019, "industry": 108.5 }
+              ]
+            },
+            { "district": "Huyện Nguyên Bình", "years": null },
+            { "district": "Huyện Phục Hoà", "years": null }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "area": "Bắc Trung Bộ",
+      "cities": [
+        {
+          "city": "Thanh Hoá",
+          "districts": [
+            { "district": "Huyện Bá Thước", "years": null },
+            { "district": "Huyện Cẩm Thủy", "years": null },
+            { "district": "Huyện Đông Sơn", "years": null },
+            {
+              "district": "Huyện Mường Lát",
+              "years": [{ "year": 2012, "industry": 107.9 }]
+            },
+            { "district": "Huyện Như Thanh", "years": null },
+            {
+              "district": "Huyện Nông Cống",
+              "years": [{ "year": 2019, "industry": 115.8 }]
+            },
+            {
+              "district": "Huyện Quan Sơn",
+              "years": [{ "year": 2013, "industry": 108.2 }]
+            },
+            {
+              "district": "Huyện Vĩnh Lộc",
+              "years": [{ "year": 2015, "industry": 109.8 }]
+            },
+            { "district": "Huyện Yên Định", "years": null },
+            { "district": "Thành phố Thanh Hóa", "years": null },
+            { "district": "Thị xã Sầm Sơn", "years": null },
+            {
+              "district": "Huyện Hà Trung",
+              "years": [{ "year": 2016, "industry": 109.2 }]
+            },
+            {
+              "district": "Huyện Hậu Lộc",
+              "years": [
+                { "year": 2017, "industry": 109.2 },
+                { "year": 2014, "industry": 106.9 }
+              ]
+            },
+            {
+              "district": "Huyện Tĩnh Gia",
+              "years": [{ "year": 2018, "industry": 134.2 }]
+            },
+            { "district": "Huyện Hoằng Hóa", "years": null },
+            { "district": "Huyện Như Xuân", "years": null },
+            { "district": "Huyện Quan Hóa", "years": null },
+            { "district": "Huyện Thọ Xuân", "years": null }
+          ]
+        },
+        {
+          "city": "Hà Tĩnh",
+          "districts": [
+            { "district": "Huyện Nhà Bè", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Huyện Ứng Hòa", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            { "district": "Quận Gò Vấp", "years": null },
+            {
+              "district": "Quận Kiến An",
+              "years": [{ "year": 2019, "industry": 124.3 }]
+            },
+            { "district": "Quận Ngô Quyền", "years": null },
+            { "district": "Quận Phú Nhuận", "years": null },
+            { "district": "Quận Tây Hồ", "years": null },
+            { "district": "Quận Thanh Khê", "years": null },
+            { "district": "Huyện Hoài Đức", "years": null },
+            { "district": "Huyện Sóc Sơn", "years": null },
+            { "district": "Huyện Thuỷ Nguyên", "years": null },
+            { "district": "Quận Ba Đình", "years": null },
+            { "district": "Quận Đồ Sơn", "years": null },
+            { "district": "Quận Hải Châu", "years": null },
+            {
+              "district": "Quận Hoàn Kiếm",
+              "years": [{ "year": 2014, "industry": 119.1 }]
+            },
+            { "district": "Huyện Kiến Thuỵ", "years": null },
+            { "district": "Quận 1", "years": null },
+            { "district": "Quận 2", "years": null },
+            { "district": "Quận 4", "years": null },
+            { "district": "Quận Hai Bà Trưng", "years": null },
+            { "district": "Quận Long BiênQuận Cầu Giấy", "years": null },
+            { "district": "Quận Nam Từ Liêm", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Trị",
+          "districts": [
+            {
+              "district": "Huyện Đa Krông",
+              "years": [{ "year": 2012, "industry": 113 }]
+            },
+            {
+              "district": "Huyện Gio Linh",
+              "years": [{ "year": 2014, "industry": 104.8 }]
+            },
+            {
+              "district": "Huyện Hải Lăng",
+              "years": [{ "year": 2016, "industry": 112.3 }]
+            },
+            {
+              "district": "Huyện Hướng Hóa",
+              "years": [{ "year": 2018, "industry": 109.2 }]
+            },
+            {
+              "district": "Huyện Triệu Phong",
+              "years": [
+                { "year": 2013, "industry": 109.2 },
+                { "year": 2015, "industry": 113.6 }
+              ]
+            },
+            {
+              "district": "Huyện Vĩnh Linh",
+              "years": [{ "year": 2017, "industry": 115 }]
+            },
+            { "district": "Thành phố Đông Hà", "years": null },
+            {
+              "district": "Thị xã Quảng Trị",
+              "years": [{ "year": 2019, "industry": 109.8 }]
+            },
+            { "district": "Huyện Cam Lộ", "years": null }
+          ]
+        },
+        {
+          "city": "Huế",
+          "districts": [
+            { "district": "Huyện An Lão", "years": null },
+            { "district": "Huyện Củ Chi", "years": null },
+            { "district": "Huyện Thới Lai", "years": null },
+            { "district": "Huyện Tiên Lãng", "years": null },
+            { "district": "Huyện Vĩnh Thạnh", "years": null },
+            {
+              "district": "Quận 5",
+              "years": [{ "year": 2019, "industry": 107.3 }]
+            },
+            { "district": "Quận 7", "years": null },
+            { "district": "Quận Bắc Từ Liêm", "years": null },
+            { "district": "Quận Bình Thuỷ", "years": null },
+            { "district": "Quận Ngũ Hành Sơn", "years": null },
+            { "district": "Quận Thanh Khê", "years": null },
+            { "district": "Quận Thanh Xuân", "years": null },
+            { "district": "Quận Thốt Nốt", "years": null }
+          ]
+        },
+        {
+          "city": "Quảng Bình",
+          "districts": [
+            { "district": "Huyện Bố Trạch", "years": null },
+            {
+              "district": "Huyện Lệ Thủy",
+              "years": [
+                { "year": 2018, "industry": 107.2 },
+                { "year": 2019, "industry": 107.4 }
+              ]
+            },
+            { "district": "Huyện Minh Hóa", "years": null },
+            { "district": "Huyện Quảng Ninh", "years": null },
+            { "district": "Huyện Quảng Trạch", "years": null },
+            { "district": "Huyện Tuyên Hóa", "years": null },
+            {
+              "district": "Thành Phố Đồng Hới",
+              "years": [
+                { "year": 2012, "industry": 108.5 },
+                { "year": 2014, "industry": 106.6 },
+                { "year": 2017, "industry": 107 },
+                { "year": 2016, "industry": 109.2 }
+              ]
+            },
+            {
+              "district": "Thị xã Ba Đồn",
+              "years": [
+                { "year": 2013, "industry": 108.7 },
+                { "year": 2015, "industry": 109.3 }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Thừa Thiên Huế",
+          "districts": [
+            {
+              "district": "Huyện Phong Điền",
+              "years": [{ "year": 2014, "industry": 111.2 }]
+            },
+            { "district": "Huyện Phú Vang", "years": null },
+            {
+              "district": "Huyện Quảng Điền",
+              "years": [{ "year": 2018, "industry": 108 }]
+            },
+            {
+              "district": "Thành phố Huế",
+              "years": [{ "year": 2017, "industry": 113.4 }]
+            },
+            {
+              "district": "Thị xã Hương Thủy",
+              "years": [{ "year": 2013, "industry": 108.1 }]
+            },
+            {
+              "district": "Thị xã Hương Trà",
+              "years": [
+                { "year": 2015, "industry": 109.4 },
+                { "year": 2019, "industry": 108.5 }
+              ]
+            },
+            {
+              "district": "Huyện Nam Đông",
+              "years": [{ "year": 2016, "industry": 110.3 }]
+            },
+            {
+              "district": "Huyện Phú Lộc",
+              "years": [{ "year": 2012, "industry": 112.6 }]
+            }
+          ]
+        },
+        {
+          "city": "Nghệ An",
+          "districts": [
+            { "district": "Huyện Anh Sơn", "years": null },
+            {
+              "district": "Huyện Con Cuông",
+              "years": [
+                { "year": 2013, "industry": 106 },
+                { "year": 2016, "industry": 109.4 }
+              ]
+            },
+            {
+              "district": "Huyện Hưng Nguyên",
+              "years": [{ "year": 2014, "industry": 110 }]
+            },
+            { "district": "Huyện Kỳ Sơn", "years": null },
+            { "district": "Huyện Nghi Lộc", "years": null },
+            {
+              "district": "Huyện Quỳ Hợp",
+              "years": [{ "year": 2015, "industry": 109 }]
+            },
+            {
+              "district": "Huyện Thanh Chương",
+              "years": [{ "year": 2017, "industry": 117.1 }]
+            },
+            { "district": "Thị xã Cửa Lò", "years": null },
+            { "district": "Thị xã Thái Hoà", "years": null },
+            {
+              "district": "Huyện Đô Lương",
+              "years": [{ "year": 2012, "industry": 109.7 }]
+            },
+            {
+              "district": "Thành phố Vinh",
+              "years": [{ "year": 2018, "industry": 116.6 }]
+            },
+            {
+              "district": "Thị xã Hoàng Mai",
+              "years": [{ "year": 2019, "industry": 113.2 }]
+            },
+            { "district": "Huyện Nam Đàn", "years": null },
+            { "district": "Huyện Quỳnh Lưu", "years": null }
+          ]
+        }
+      ]
+    }
+  }
+]

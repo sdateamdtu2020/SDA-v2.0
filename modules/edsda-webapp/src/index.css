@@ -1,15 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+:root {
+  --border-color: #524f88;
+  --background-color: #1a192b;
+  --text-primary: #f8f8f2;
+  --hover-color: #ff0072;
 }
 
 .visually-hidden {
@@ -20,4 +29,18 @@ code {
   position: absolute;
   white-space: nowrap;
   width: 1px;
+}
+
+.information {
+}
+
+.information h2 {
+}
+
+.information p {
+}
+
+.react-flow__node-input {
+  background: none !important;
+  border-color: none !important;
 }

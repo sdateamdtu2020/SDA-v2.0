@@ -1,0 +1,28 @@
+.table {
+  width: 100%;
+  max-width: 850px;
+  font-size: 12px !important;
+}
+
+.table__container {
+  max-height: 560px;
+  border: 1px solid var(--border-color);
+}
+
+th {
+  background: #222138 !important;
+  padding: 6px !important;
+  font-size: 12px !important;
+  color: white !important;
+  border-right: 1px solid var(--border-color);
+}
+
+td {
+  background: #1a192b !important;
+  color: white !important;
+
+  padding: 6px !important;
+  font-size: 12px !important;
+  border-right: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color) !important;
+}

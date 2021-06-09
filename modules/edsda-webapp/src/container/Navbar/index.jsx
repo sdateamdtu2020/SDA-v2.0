@@ -1,13 +1,55 @@
-import React, { useState } from "react";
-
+import React from "react";
+import { useDispatch } from "react-redux";
 import { useStyles } from "./styles";
-import { useGlobalStyles } from "../../components/theme/GlobalStyles";
+import logo from "../../assets/img/logo.webp";
+import { setItemNavbarClick } from "../../app/slice/ui";
 
-const Navbar = () => {
+const Navbar = (props) => {
+  const { handleExport } = props;
   const classes = useStyles();
-  const globalClasses = useGlobalStyles();
+  const dispatch = useDispatch();
 
-  return <div className={classes.navbar}></div>;
+  const handleOnClick = (id) => {
+    const action = setItemNavbarClick(id);
+    dispatch(action);
+  };
+
+  return (
+    <div className={classes.navbar}>
+      <img src={logo} alt="logo" className={classes.logo} />
+      <div className={classes.groupButton}>
+        <div className={classes.dropdown}>
+          <button
+            className={classes.button}
+            onClick={() => handleOnClick("about")}
+          >
+            ABOUT
+          </button>
+        </div>
+        <div className={classes.dropdown}>
+          <button
+            className={classes.button}
+            onClick={() => handleOnClick("clear")}
+          >
+            CLEAR
+          </button>
+        </div>
+        <div className={classes.dropdown}>
+          <button className={classes.button} onClick={() => handleExport()}>
+            EXPORT
+          </button>
+        </div>
+        <div className={classes.dropdown}>
+          <button
+            className={classes.button}
+            onClick={() => handleOnClick("presentation")}
+          >
+            PRESENTATION
+          </button>
+        </div>
+      </div>
+    </div>
+  );
 };
 
 export default Navbar;
