@@ -7,6 +7,8 @@
 - Scientific Research about Linked Data & RDF Data Cube & Data Warehouse
 - Automate data processing which help the experts of every fields can insert their data sources and visualize, integrate them with related multidimensional data cubes by completely automate method.
 
+<img src="./assets/edsda-screenshot.png" alt="screenshot" width="800">
+
 ### Context Diagram:
 
 <img src="./assets/context-diagram.png" alt="context-diagram" width="800" />
@@ -20,14 +22,17 @@
 ```
 /modules:
   /edsda-webapp
-  /edsda-backend
   /edsda-ui-design
   /edsda-etl
+  /edsda-apacheairflow-dags
+  /edsda-dw2rdf
+  /edsda-import
+  /edsda-rdf-engine
+  /edsda-server
 ```
 
 - `modules`: include all the project's source code, divided into each module
 - `edsda-webapp`: source code of Client website
-- `edsda-backend`: source code of server: API, DW2RDF,...
 - `edsda-etl`: source code of ETL process, data sources, data warehouse...
 - `edsda-ui-design`: UI Design, Prototype of project
 
