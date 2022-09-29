@@ -41,7 +41,7 @@
 | Avatar                                                   | Name                | Role                                                          | Contact                    |
 | -------------------------------------------------------- | ------------------- | ------------------------------------------------------------- | -------------------------- |
 | <img src="./assets/avatar-members/hoa.png" width="50"/>  | Vo Van Hoa          | **Team Leader**, DevOps, Back-end: server API, RDF Data Cubes | hoavo1490@gmail.com        |
-| <img src="./assets/avatar-members/tin.png" width="50"/>  | Pham Van Tin        | Front-end, UI/UX Design, DevOps                               | www.tinspham.info          |
+| <img src="./assets/avatar-members/tin.png" width="50"/>  | Pham Van Tin        | Front-end, UI/UX Design, DevOps                               | www.tinspham.dev          |
 | <img src="./assets/avatar-members/dong.png" width="50"/> | Ky Huu Dong         | Back-end: Crawl, ETL                                          | kyhuudong@gmail.com        |
 | <img src="./assets/avatar-members/kieu.png" width="50"/> | Tran Thi Thanh Kieu | Tester                                                        | thanhkieutran391@gmail.com |
 
